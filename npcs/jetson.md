@@ -1,6 +1,6 @@
 # Jetson
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 The party's pilot, and the reason they have a ship at all. Family connection to the Ruth syndicate. A **Giff**.
 
@@ -29,3 +29,9 @@ His first read of the escape: they'd reach Bral within a day or two, everyone wa
 [Aryndac](aryndac.md) stowed away aboard the Damselfly and drove his longsword into the hyperspace drive. Jetson took the poison from that blade deep in his abdomen. It attacked his brain's "synaptic transmissions" — he started hallucinating ("Space has never looked so gray before…") and [A.R.I.A.](aria.md) gave him 48 hours. The wound also slowed the ship's maximum speed.
 
 The party spent most of Sessions 3 through 6 hunting astral silk to bind the wound. They never got it; Megan healed him outright instead.
+
+## Season 2
+
+### Session 1
+
+He came to Marfa's breakfast at the Pie Parlor, but she told him to "join his mother," [Bugsy](bugsy.md). He ate a **sausage and heavy cheese pizza** at the end of the bar while the party told Marfa their story.

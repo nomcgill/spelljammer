@@ -1,6 +1,6 @@
 # Luckyluciano Ruth
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 Giff Warlock 7 — level 7. Campaign: The Next Jump.
 
@@ -8,7 +8,7 @@ Giff Warlock 7 — level 7. Campaign: The Next Jump.
 - **Player:** Nicole
 - **Backstory doc:** [Luckyluciano Ruth's Backstory — "The Crustfall Conspiracy"](https://docs.google.com/document/d/1VdTHVNlw-zmo23G4l6mNiO-9CY9bOnOV63M9_fQ2m2o/edit)
 
-Goes by **Lucky** to her friends, **Lucy** at the table, and "that brat" to her enemies.
+Goes by **Lucy** for short, and "that brat" to her enemies. Not "Lucky" (Nolan's ruling, after Season 2 Session 1). To [Jetson](../npcs/jetson.md) she's "Aunt Lucy."
 
 ## Combat basics
 
@@ -89,11 +89,15 @@ The party's face and closer — the one whose name opens doors.
 - **Session 4.** Burned **half the cargo rations** with a fireball trying to kill a Feyr.
 - **Session 5.** At the Psurlon hub, the Psurlons were unmoved by intimidation but very interested in favours connected to her family's influence. Chased [Krysta](../npcs/krysta.md) through the container yard.
 - **Session 6.** Traded her **family favour IOU** to the Psurlons for the diamonds and voidfish eggs the party needed. That trade is what fixed the ship and cured Tamenik.
-- **Session 7.** With [Jetson](../npcs/jetson.md) unconscious, she became the **primary pilot** of the Damselfly, with Korran spelling her enough to take a long rest. Her mother, [Marfa](../npcs/marfa-ruth.md), arrived just in time in the *Slice Runner* — Lucky's own ship — beamed the party off the Damselfly, and flew them to the Rock of Bral.
+- **Session 7.** With [Jetson](../npcs/jetson.md) unconscious, she became the **primary pilot** of the Damselfly, with Korran spelling her enough to take a long rest. Her mother, [Marfa](../npcs/marfa-ruth.md), arrived just in time in the *Slice Runner* — Lucy's own ship — beamed the party off the Damselfly, and flew them to the Rock of Bral.
+
+## Season 2
+
+- **Session 1.** At the Bral docks she told [Lawrence](../npcs/lawrence.md) the *Slice Runner* was **"property of the Ruth family,"** not specifically hers or her mother's. She **read her mother's intent** before anyone else: Marfa wanted to see whether the group could be persuaded, through an exchange, to help solve the **Case of the Missing Stromboli**. At her old flagship parlor, now [Bugsy's](../npcs/bugsy.md), she ordered a vegetarian pizza with anchovies. She shared the whole Season 1 story with Marfa and fought the Kenku assassin.
 
 ## Threads on her
 
-Her mother saved the party in Lucky's own seized ship, the *Slice Runner*. How Marfa got it back from impound is `[unconfirmed]`. Marfa also radioed a threat to the plasmoid fleet: harm her daughter or her grandson and no plasmoid does business with the Pie Parlors again.
+Her mother saved the party in Lucy's own seized ship, the *Slice Runner*. How Marfa got it back from impound is `[unconfirmed]`. Marfa also radioed a threat to the plasmoid fleet: harm her daughter or her grandson and no plasmoid does business with the Pie Parlors again.
 
 Her sister Bugsy is the heir who doesn't want the job, and Lucy wants it.
 

@@ -13,7 +13,7 @@ Verbatim from the Session 7 "TO FIGURE OUT" list and the Session 6 prep notes.
 
 **Mechanics to settle.**
 
-- Does Megan detect and remove the curse on Tamenik that prevents proper scrying and teleporting?
+- ~~Does Megan detect and remove the curse on Tamenik that prevents proper scrying and teleporting?~~ **Decided:** in the Season 2 prologue Megan casts Remove Curse and lifts it — at least, Tamenik thinks so.
 
 ## Deliberately undecided (Season 1 loose ends)
 
@@ -59,6 +59,18 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 
 **Astro Nommie's Slicehouse** is the Joisey Jiffs' pizza operation.
 
+**Megan and Speak with Dead.** The Session 6 notes say Megan *claimed* to have Speak with Dead. Nolan's ruling after Season 1: he **doesn't know it**. Whether the in-play claim was a bluff or a mistake is `[unconfirmed]`.
+
+**Luckyluciano's nickname.** It's **Lucy**, not "Lucky." Use her full name or Lucy. This reverses a short-lived ruling that she went by "Lucky" and only Jetson called her Lucy.
+
 ## Open contradictions
 
-*None right now.*
+**"Krysta" or "Krystal"?** Every Season 1 note spells the Psurlon Ringer and Megan's daughter **Krysta**. Nolan's Season 2, Session 1 report calls her **"Krystal."** The files still say Krysta until Nolan decides.
+
+## Open after Season 2, Session 1
+
+- **Did the party share Korran's secret?** The party "shared everything," so nothing is a secret from Marfa. But the party itself has never known that Korran killed the *Star-Reaver*'s crew, and his telling of how he got to the Maw was an "overall partial truth." Does Marfa know about the crew?
+- **Was the Remove Curse prologue played?** The plan put it aboard the *Slice Runner* on approach, and Nolan's report doesn't mention it.
+- **Did anyone pick up the ruby ring?**
+- **What did the poison do to Krysta's head?**
+- **Who was the Kenku after:** Marfa, or the head?

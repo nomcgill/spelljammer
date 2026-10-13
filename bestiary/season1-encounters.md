@@ -65,7 +65,7 @@ Original link: [ENCOUNTER - Leonins & Psurlons at the Shipyard](https://www.dndb
 | Leonin Iconoclast ×? | 5 | 67 HP. **Banishment 1/day**, *detect evil and good*. Chooses its battles and only fights when sure of victory. *Mythic Odysseys of Theros* p. 232 |
 | Psurlons ×? | 2 | Rank and file. A Psurlon Leader is CR 6 if needed |
 
-[Megan](../npcs/megan-forthfang.md) is not one of the Iconoclasts. He runs on **[Xenk Yendar](https://www.dndbeyond.com/monsters/3342714-xenk-yendar)** — CR 10, AC 15, Oath of Devotion paladin, a Daggersword that transforms between a 30-ft. ranged impaling attack and a 10-ft. area flurry, and **Cleansing Touch** healing 27 HP once per day. Nolan's note: Megan is **as strong as a level 17 paladin**, so the printed block is a floor. He also cast a high-level Greater Restoration and claims Speak with Dead, neither of which is on Xenk's sheet.
+[Megan](../npcs/megan-forthfang.md) is not one of the Iconoclasts. He runs on **[Xenk Yendar](https://www.dndbeyond.com/monsters/3342714-xenk-yendar)** — CR 10, AC 15, Oath of Devotion paladin, a Daggersword that transforms between a 30-ft. ranged impaling attack and a 10-ft. area flurry, and **Cleansing Touch** healing 27 HP once per day. Nolan's note: Megan is **as strong as a level 17 paladin**, so the printed block is a floor. He also cast a high-level Greater Restoration and claimed Speak with Dead, which isn't on Xenk's sheet either. Nolan has since ruled that he **doesn't know** Speak with Dead.
 
 Exact numbers of Psurlons and Leonins aren't recorded. Session 5 separately mentions **5 Psurlons** trying to spell their way into the ship, and Session 6 says the party escaped "by running and killing a few Psurlon."
 

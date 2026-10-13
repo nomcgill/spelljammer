@@ -77,3 +77,25 @@ Korran flew the stolen ship back to the **Rock of Bral** alongside the *Slice Ru
 ### Season 1 ends: the Rock of Bral
 
 The party finally reached the destination they'd been chasing all season. On arrival, **Pip's plan is to gather allies and lead a revolution against his usurping brother, the king.**
+
+## Season 2
+
+Matt isn't playing, so the party is Korran, Luckyluciano and Pip. Session-by-session detail is in [`season2/session-notes.md`](../season2/session-notes.md).
+
+### Session 1: Breakfast at the Pie Parlor
+
+**The docks.**
+- The *Slice Runner* and Korran's Shrike docked side by side on the Rock of Bral.
+- A Giff dock officer, **Lawrence**, wanted ID but gave way to Marfa's influence. He took names, waived the costs, and told Korran his ship still had to be registered at the DAV when it opened.
+- Korran had "not much of a last name to give." Luckyluciano declared the *Slice Runner* "property of the Ruth family."
+- **Tamenik left** to withdraw money and get home to Freelin Corporation while Kirrak's seat sat vacant.
+
+**Breakfast.**
+- Marfa took the three PCs, Megan and Jetson to Luckyluciano's old flagship Pie Parlor, now run by **Bugsy**. She shooed Bugsy off and sent Jetson to sit with his mother.
+- Over pizza and Hawaiian Punch, the party told Marfa **their entire story**, and she now knows everything.
+- Korran's version of how he ended up in the Maw: failed raids on Githyanki outposts, then imprisonment out of petty revenge.
+
+**The assassin.**
+- Marfa asked for their help with the **Case of the Missing Stromboli**, which began at that very table.
+- Korran spotted a **Kenku assassin** at the exit and threw a dagger, which missed. Megan raised **Krysta's head** as a shield, and it took the poison dart.
+- The party piled onto the Kenku. On its turn it **disintegrated itself** with a ruby ring, leaving only the ring.

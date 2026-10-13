@@ -72,4 +72,4 @@ The Next Jump continues.
 
 ---
 
-_For the detailed campaign record, see [`../plot/timeline.md`](../plot/timeline.md)._
+_For the detailed campaign record, see_ `[../plot/timeline.md](../plot/timeline.md)`_._

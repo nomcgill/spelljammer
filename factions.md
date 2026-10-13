@@ -10,6 +10,8 @@ The organisations in play. Every one of them has a personal claim on at least on
 
 **PC tie:** [Luckyluciano](player-characters/luckyluciano-ruth.md) is Babe and Marfa's daughter, ran the flagship parlor orbiting the Rock of Bral, and served as her father's personal warlock — Babe is her warlock patron. Her older sister [Bugsy](npcs/bugsy.md) is Babe's intended heir and doesn't want it. Bugsy's son [Jetson](npcs/jetson.md) is Lucy's nephew.
 
+**House drink:** **Hawaiian Punch** is the primary drink at the Pie Parlors, their equivalent of Coca-Cola.
+
 **Family treasures:** Babe Ruth's legendary **Stromboli recipe** — the object of Nicole's pitched side quest (see [Luckyluciano](player-characters/luckyluciano-ruth.md#pitch-the-case-of-the-missing-stromboli)).
 
 **The Crustfall Conspiracy** is the sting that broke the outer-system operation and put Luckyluciano in Warden's Maw. Her cousin [Tino "The Saucepan" Fennetti](npcs/tino-fennetti.md), caught during a failed jellyfish venom deal with a deep-space beholder cartel, took immunity and gave up everything. He alleged she had charmed port inspectors, teleported contraband via eldritch shortcuts, and bound imprisoned souls into cursed pizza ovens to destroy evidence — which her own backstory notes may or may not be true. She was taken mid-deal, trading a fake "moonstone pie" for a void-forged grimoire linked to the Nine Hells.

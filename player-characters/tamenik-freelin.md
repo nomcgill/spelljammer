@@ -1,11 +1,11 @@
 # Tamenik Freelin
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 Tortle Bard 7 — level 7. Campaign: The Next Jump.
 
 - **Sheet:** [D&D Beyond character 143827022](https://www.dndbeyond.com/characters/143827022)
-- **Player:** `[unconfirmed]` — the notes name Brad, Nicole and Drew for the other three, but never Tamenik's player
+- **Player:** Matt — **not playing in Season 2**, so Tamenik isn't part of Season 2 planning. Planned exit: he skips Marfa's pizza dinner and rushes home to Freelin Corporation while Kirrak is still away (see [Season 2 planning](../plot/season2-planning.md#what-happened-to-tamenik)).
 - **Backstory doc:** [Tamenik Freelin's Backstory](https://docs.google.com/document/d/1Jjmx7FivNkDcAZXhH6CFk2tiK_tCeaJrlqrhyYjpwxI/edit) (one paragraph)
 
 ## Combat basics
@@ -65,7 +65,13 @@ The party's senses and their supernatural switchboard. Sick or unconscious for a
 - **Session 6.** [Megan Forthfang](../npcs/megan-forthfang.md) — a **high-level paladin** — cast **Greater Restoration** and **cured the Blackstar Fever.** (Not the Chwinga, not Charm of Ruin.)
 - **Session 7.** Opened a bedroom door mid-boarding and found someone who "has not been there and is a surprise" — per Nolan's prep, [the Chwinga](../npcs/chwinga.md).
 
+## Season 2
+
+- **Session 1.** After the dock check on Bral, he **hurried off to withdraw money and get a ride home** to Freelin Corporation, where Kirrak would have left the CEO seat vacant. He skipped Marfa's pizza. Whether the Remove Curse prologue was played is `[unconfirmed]`.
+
 ## Threads on him
+
+**Planned for the Season 2 prologue:** Megan casts **Remove Curse** on him, lifting the curse from his shell. He believes he's fine now — *"at least, he thinks he is."* Until that's played, the notes below describe the curse as it stood at the end of Season 1.
 
 **He cannot be scried or teleported.** Something about his shell blocks both. This is the load-bearing fact of the endgame: it's why the hunters scried [Pip](pip-oozewald.md) instead, and why [Alkgleb](../npcs/alkgleb.md)'s teleportation circle can't extract anyone from the Damselfly. Megan suspects a curse and has offered to try lifting it, but hadn't attempted it as of the end of Session 7.
 

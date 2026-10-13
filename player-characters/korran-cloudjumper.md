@@ -1,6 +1,6 @@
 # Korran "Driftblade" Cloudjumper
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 Hadozee Rogue 3 / Bard 4 — level 7. Campaign: The Next Jump.
 
@@ -65,6 +65,12 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
 - **Session 5.** Freed [Megan Forthfang](../npcs/megan-forthfang.md) from the Flesh to Stone that had petrified him, earning a debt: *"I owe a debt to you, Hadozee."*
 - **Session 6.** Received the map cipher from [Tamenik](tamenik-freelin.md), relayed out of a fever dream from [Captain Gloamcast](../npcs/gloamcast.md): the key is **Korran's late mother's birthday**, and the captain had loved her. Korran had been reading the Cant too literally.
 - **Session 7.** Made a little progress decoding the map. Took over enough piloting to let Luckyluciano take a long rest. Then went **outside** — spacewalking 120 feet of a 300-foot crossing toward a vulnerable point behind the cannons on the ship's underside, on a **stealth roll of 29**. The Fish Suit makes the vacuum walk possible. He found a **crack in the mothership's hull** and got inside, planning to thwart either the ship itself or Alkgleb and Kirrak. Instead he found a **smaller ship in the loading bay**, took control of its spelljamming helm, and **hijacked it**. He wasn't aboard the Damselfly when Marfa beamed the others out. He flew his [stolen ship](../ships/korrans-stolen-ship.md) to the Rock of Bral alongside the *Slice Runner*.
+
+## Season 2
+
+- **Session 1.** At the Bral docks he told [Lawrence](../npcs/lawrence.md) he had **"not much of a last name to give."** His Shrike still has to be registered at the DAV, with the costs waived thanks to Marfa. At the Pie Parlor he ordered a pizza with everything on it, including fruits, vegetables, meats and far too many toppings.
+- **His account to Marfa:** he was captured after a few **failed raids on Githyanki outposts**. Some raids succeeded, but the crew bit off more than it could chew, and he was sent to Warden's Maw for **petty revenge**. Nolan calls this an "overall partial truth." It fits with, and adds to, the backstory's "ambushed and captured by a githyanki patrol."
+- **The fight:** he was the **only one to spot the Kenku assassin** by the exit. He threw a dagger and missed, which bought Megan the moment to block the dart with Krysta's head.
 
 ## Threads on him
 

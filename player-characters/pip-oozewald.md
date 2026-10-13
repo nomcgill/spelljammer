@@ -1,6 +1,6 @@
 # Prince Philip "Pip" Oozewald
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 Plasmoid Barbarian 7 — level 7. Campaign: The Next Jump.
 
@@ -67,6 +67,10 @@ The front line, and the reason the enemy can find them.
 - **Session 5.** Used a moment of distraction at the Psurlon shipyard to **ingest 50,000 gp of diamonds**. In the same beat, he noticed that someone, somewhere, was **scrying him**. He also earned an Inspiration — awarded for his player's birthday.
 - **Session 6.** Total swallowed reaches **100,000 gp of diamonds**, which becomes the fuel for the Hyperdrive Core and brings the Rock of Bral back to one day away.
 - **Session 7.** Attacked by the silent [silver plasmoid](../npcs/silver-plasmoid.md), which summoned a separate sword at range specifically to strike him. The party killed it, and Marfa beamed them to safety and on to the Rock of Bral.
+
+## Season 2
+
+- **Session 1.** He gave his name at the docks; the party described themselves to Marfa as, among other things, "a prince." At the Pie Parlor he ordered a pile of random toppings, including pineapple, anchovies and mushrooms, put it all on the table, and **engulfed it with his whole body**. He shared the whole Season 1 story with [Marfa](../npcs/marfa-ruth.md) and fought the Kenku assassin.
 
 ## Threads on him
 

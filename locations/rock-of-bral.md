@@ -1,6 +1,6 @@
 # The Rock of Bral
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 The destination for all of Season 1, and where **the party finally arrived** at the end of it.
 
@@ -13,6 +13,8 @@ The destination for all of Season 1, and where **the party finally arrived** at 
 ## What it is
 
 The major port city of the setting — an asteroid city, and in published Spelljammer material a grimy free port known for gambling, exotic goods, and no questions asked. Luckyluciano's backstory describes it exactly that way.
+
+**It's a hub world: any D&D race can appear here.** Because of its universal nature, people from every world pass through, so a Bral crowd or NPC can be any race (Nolan's ruling).
 
 ## Who has what there
 
@@ -35,3 +37,11 @@ The unused alternative, per the adventure ideas doc: with the spelljamming helm 
 ### Arrival
 
 Nolan's outline ends with an **Epilogue — The Rock of Bral**, with the question "What's next for everyone?" Arrival closed the Season 1 arc.
+
+## Season 2
+
+### Session 1
+
+- **The docks:** the *Slice Runner* and Korran's Shrike docked side by side at the shipyard. [Lawrence](../npcs/lawrence.md), a Giff dock officer, took the party's names and waived the costs because of Marfa. Korran's ship still has to be registered at the **DAV (Department of Astral Vehicles)** when it opens.
+- **Tamenik's exit:** he left for home.
+- **The parlor:** the rest went to [Luckyluciano's old Pie Parlor](bral-pie-parlor.md), where a Kenku assassin attacked.

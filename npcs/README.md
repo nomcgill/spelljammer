@@ -1,6 +1,6 @@
 # NPCs
 
-One file per named NPC. Status is as of the end of Season 1.
+One file per named NPC. Status is as of Season 2, Session 1.
 
 **Carries forward?** says whether an NPC is expected to return in later seasons: `Yes`, `Season 1 only`, or `Undecided` (Nolan hasn't said yet).
 
@@ -8,7 +8,7 @@ One file per named NPC. Status is as of the end of Season 1.
 
 | NPC | What they are | Status | Carries forward? |
 | --- | --- | --- | --- |
-| [Jetson](jetson.md) | Giff pilot; Lucky's nephew (Bugsy's son) | Alive, on Bral; poison healed | Yes |
+| [Jetson](jetson.md) | Giff pilot; Lucy's nephew (Bugsy's son) | Alive, on Bral; poison healed | Yes |
 | [Megan Forthfang](megan-forthfang.md) | Leonin, King of the Red Lions | Alive, on Bral; owes Korran a debt | Yes |
 
 ## Hunting the party
@@ -23,9 +23,10 @@ One file per named NPC. Status is as of the end of Season 1.
 
 | NPC | What they are | Status | Carries forward? |
 | --- | --- | --- | --- |
-| [Marfa Ruth](marfa-ruth.md) | Luckyluciano's mother | Rescued the party; flew them to Bral in the *Slice Runner* | Yes |
+| [Marfa Ruth](marfa-ruth.md) | Luckyluciano's mother | On Bral; knows the party's whole story; survived an assassination attempt and wants their help with the Stromboli case | Yes |
+| [Lawrence](lawrence.md) | Giff dock officer on Bral | On duty at the docks | Undecided |
 | [Babe Ruth](babe-ruth.md) | Pizza prince, syndicate head, Lucy's warlock patron | Offscreen | Yes |
-| [Bugsy](bugsy.md) | Lucy's older sister, Jetson's mother, Babe's reluctant heir | Offscreen; introduced after Season 1 | Yes |
+| [Bugsy](bugsy.md) | Lucy's older sister, Jetson's mother, Babe's reluctant heir | Runs the reopened Bral flagship Pie Parlor; first appeared Season 2, Session 1 | Yes |
 | [Tilptek](tilptek.md) | Thri-kreen desk clerk at the Iron Annex | On the Rock of Bral | Yes |
 | [Gelp](gelp.md) | King's High Wizard; petrified Megan | Offscreen | Yes |
 | [Tino Fennetti](tino-fennetti.md) | The cousin who informed on Luckyluciano | Offscreen | Yes |
@@ -46,3 +47,4 @@ One file per named NPC. Status is as of the end of Season 1.
 | [Captain Gloamcast](gloamcast.md) | Old Hadozee, captain of the *Star-Reaver* | Blackstar Fever; appeared in a fever dream | Undecided |
 | [The Silver Plasmoid](silver-plasmoid.md) | Silent CR 14 assassin | Killed by the party aboard the Damselfly in Session 7 | Season 1 only |
 | Aristeth | Githyanki Gish guard | Killed by the players in the hangar — see [Aryndac](aryndac.md) | Season 1 only |
+| Kenku assassin (unnamed) | Hired assassin at the Pie Parlor | Disintegrated itself with a ruby ring in Season 2, Session 1 — see [Season 2 encounters](../bestiary/season2-encounters.md) | Undecided |

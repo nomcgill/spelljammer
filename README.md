@@ -15,7 +15,11 @@ The agent has two jobs here:
 
 ## Where the campaign stands
 
-Season 1 ran seven sessions. The party escaped Warden's Maw and spent the whole season trying to reach the Rock of Bral. In the finale a plasmoid warship disabled and boarded their Damselfly. Marfa Ruth beamed them out, Korran hijacked a small ship from the mothership, and **everyone finally made it to Bral**. There, Pip plans to gather allies for a revolution against his usurping brother, the plasmoid king. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
+Season 1 ran seven sessions. The party escaped Warden's Maw and spent the whole season trying to reach the Rock of Bral. In the finale a plasmoid warship disabled and boarded their Damselfly. Marfa Ruth beamed them out, Korran hijacked a small ship from the mothership, and **everyone finally made it to Bral**. There, Pip plans to gather allies for a revolution against his usurping brother, the plasmoid king.
+
+Season 2 is under way, and its main plot driver is **Korran's past**. Matt isn't playing, so the party is **Korran (Brad), Luckyluciano (Nicole) and Pip (Drew)**. Tamenik went home to Freelin Corporation in Session 1.
+
+In Session 1 the party docked on Bral and told Marfa Ruth their whole story over breakfast. When she asked for help with **the Case of the Missing Stromboli**, a Kenku assassin attacked and then disintegrated itself. Session 2 prep is in [`season2/session2-brainstorm.md`](season2/session2-brainstorm.md). Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
 
 ## Setting and rules
 
@@ -29,16 +33,17 @@ The agent also cannot read the book's text — it is behind a paywall — so it 
 
 | Path | Contents |
 | --- | --- |
-| [`plot/`](plot/) | The timeline, every open and resolved thread, and the questions still to answer |
+| [`plot/`](plot/) | The timeline, every open and resolved thread, the questions still to answer, and the [Season 2 plan](plot/season2-planning.md) (including Nolan's hook bank) |
 | [`player-characters/`](player-characters/) | One file per PC: player, build, background, and what they did in Season 1 |
 | [`npcs/`](npcs/) | One file per named NPC. Start at [`npcs/README.md`](npcs/README.md) for the roster |
 | [`locations/`](locations/) | One file per place. Start at [`locations/README.md`](locations/README.md) for what's returning and what was Season 1 only |
 | [`ships/`](ships/) | One file per ship. Start at [`ships/README.md`](ships/README.md) for what's active and what's undecided |
-| [`bestiary/`](bestiary/) | Every Season 1 encounter with its roster and stat summaries |
+| [`bestiary/`](bestiary/) | Every encounter with its roster and stat summaries, one file per season |
 | [`factions.md`](factions.md) | The organisations, and which PC each one has a claim on |
 | [`items.md`](items.md) | Treasure, magic items, and what the party is actually carrying |
 | [`house-rules.md`](house-rules.md) | Homebrew: hyperspeed, Blackstar Fever, ship combat, creature reskins |
 | [`season1/`](season1/) | Session notes, opening prompt, and Session 0 recap |
+| [`season2/`](season2/) | Season 2 [session notes](season2/session-notes.md), plus per-session plans and brainstorms |
 
 Original source material lives in Google Docs and is linked from the files that draw on it — the [main session notes doc](https://docs.google.com/document/d/18MwI1hvspOiyi9dtMP8RiN7W1wXKQThmwJ8ilMqnvCg/edit) and three per-character backstory docs.
 
@@ -69,3 +74,5 @@ When Nolan gives new information in chat, the agent:
 3. Reports back briefly on what changed, and flags anything contradictory or ambiguous rather than silently picking an interpretation.
 
 Contradictions with existing notes get raised, not resolved unilaterally — Nolan decides what is canon.
+
+When Nolan is planning or asks for inspiration, the agent checks **[Nolan's hook bank](plot/season2-planning.md#nolans-hook-bank)** first and draws on those ideas. Any new hook Nolan mentions gets added there.

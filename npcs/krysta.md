@@ -1,6 +1,6 @@
 # Krysta
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 Presented herself as [Megan Forthfang](megan-forthfang.md)'s daughter, a female Leonin at the Psurlon shipping hub. She was in fact a **[Psurlon Ringer](https://www.dndbeyond.com/monsters/2821192-psurlon-ringer)** that had consumed the real Krysta and taken her memories.
 
@@ -10,7 +10,11 @@ Presented herself as [Megan Forthfang](megan-forthfang.md)'s daughter, a female 
 
 ## Why the head matters
 
-A Psurlon Ringer keeps the memories and languages of whoever it ate, permanently — undone only by a *wish*. [Megan](megan-forthfang.md) claims Speak with Dead. That combination is an open door: the head can potentially be questioned, and what answers is a creature carrying a murdered woman's memories.
+A Psurlon Ringer keeps the memories and languages of whoever it ate, permanently — undone only by a *wish*. [Megan](megan-forthfang.md) claimed Speak with Dead in Season 1, but per Nolan he **doesn't know it**, so someone else would have to cast it. Either way it's an open door: the head can potentially be questioned, and what answers is a creature carrying a murdered woman's memories.
+
+**The Stromboli clue (Nolan's plan; the players don't know it yet):** the head **holds clues to the theft of the Stromboli recipe's ingredient**. In planning, the Kenku assassin who darted it was contracted by the Iron Annex.
+
+**Hook (Nolan, between seasons):** the head has extractable memories of how she was killed, and the party tries to get that knowledge out. It's in the [hook bank](../plot/season2-planning.md#nolans-hook-bank).
 
 ## Loose ends
 
@@ -23,3 +27,9 @@ Nolan's prep question: what was the real Krysta's story, and how does it bleed i
 ### What she did
 
 She waited outside Megan's container as the party left, then acted as their guide around the shipyard while visibly communicating with the Psurlons around her. She tried to turn the party against Megan. The party grew suspicious, and the fight at the shipyard confirmed it.
+
+## Season 2
+
+### Session 1
+
+At the Pie Parlor, Megan **lifted the head like a shield**, and it took the **Kenku assassin's poison dart**. What the poison did to it is `[unconfirmed]`, and so is whether the dart was meant for the head or for Marfa.

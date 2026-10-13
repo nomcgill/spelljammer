@@ -23,6 +23,8 @@ The tone is corporate-brutalist — a bureaucracy of contract killing and retrie
 
 **Who is "the boss"?** The Iron Annex is taking direction from someone unnamed who, within hours of a prison break at an unwatched asteroid, knew that one escapee was unscryable and that another was a usable proxy. That's the most interesting unexplained thing on the Rock of Bral.
 
+**Planned for Season 2 (Nolan; the players don't know yet):** the Annex contracted the **Kenku assassin** who attacked Marfa's table at the [Pie Parlor](bral-pie-parlor.md) in Session 1. To find out who hired it, the party will probably need to come here. See the [Session 2 brainstorm](../season2/session2-brainstorm.md#getting-the-answer-from-the-iron-annex).
+
 ## Season 1
 
 ### What happened here

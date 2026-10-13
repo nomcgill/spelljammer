@@ -1,6 +1,6 @@
 # Ruth Family Ships
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 The [Ruth syndicate](../npcs/babe-ruth.md)'s vessels: a matched pair of Flying Fish.
 
@@ -29,3 +29,9 @@ That theft is a small unresolved family matter — Jetson took a syndicate ship 
 ### The Slice Runner rescue
 
 In Session 7 Marfa used the *Slice Runner*'s Sending comms to reach Luckyluciano and radio her threat to the plasmoid mothership. She then arrived in it, **beamed the party off the crippled [Damselfly](the-damselfly.md)**, and carried them — Jetson and Megan included — to the [Rock of Bral](../locations/rock-of-bral.md), flying alongside [Korran's stolen ship](korrans-stolen-ship.md).
+
+## Season 2
+
+### Session 1
+
+Docked beside Korran's Shrike at the Bral shipyard. When the dock officer, [Lawrence](../npcs/lawrence.md), asked about ownership, Luckyluciano said the *Slice Runner* is **"property of the Ruth family,"** not specifically hers or her mother's.

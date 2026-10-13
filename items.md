@@ -1,6 +1,13 @@
 # Items and Treasure
 
-Everything the notes name. Possession is tracked here. Each entry notes the season it was acquired, found or lost in — everything so far is from Season 1.
+Everything the notes name. Possession is tracked here. Each entry notes the season it was acquired, found or lost in.
+
+## Found in Season 2
+
+**Ruby ring: a Ring of Disintegrate** (homebrew; found Season 2, Session 1). The [Kenku assassin](bestiary/season2-encounters.md#session-1--the-kenku-assassin) at the [Pie Parlor](locations/bral-pie-parlor.md) pulled off its glove and used this ring's Disintegrate on itself, turning to dust. Only the ring remains.
+- **Charges:** **one charge remaining.**
+- **What the players know:** they don't yet know what it is. They only saw it work once.
+- **Where it is:** whether anyone picked it up is `[unconfirmed]`.
 
 ## Confirmed in the party's hands
 
@@ -16,7 +23,8 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 
 Uses spent so far are not recorded. Worth tracking — a charm that disintegrates hull sections and doors is a live option.
 
-**Krysta's head** (acquired Season 1, Sessions 5–6) — the severed head of a [Psurlon Ringer](npcs/krysta.md) carrying a murdered Leonin's memories. [Megan](npcs/megan-forthfang.md) still had it when Marfa beamed everyone off the Damselfly. Megan claims Speak with Dead.
+**Krysta's head** (acquired Season 1, Sessions 5–6) — the severed head of a [Psurlon Ringer](npcs/krysta.md) carrying a murdered Leonin's memories. [Megan](npcs/megan-forthfang.md) still had it when Marfa beamed everyone off the Damselfly. Megan claimed Speak with Dead, but per Nolan he doesn't know it.
+- **Season 2, Session 1:** Megan raised it as a shield, and it **took the Kenku assassin's poison dart** meant for the table. It holds clues to the theft of the Stromboli recipe's ingredient. What the poison did to it is `[unconfirmed]`.
 
 **Korran's treasure map, complete** (completed Season 1) — both halves of a Thieves' Cant map to the *Star-Reaver* crew's hoard in the [Ral'taka Expanse](locations/raltaka-expanse.md). Cipher: Korran's late mother's birthday. Partially decoded as of Session 7.
 

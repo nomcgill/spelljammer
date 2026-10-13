@@ -8,7 +8,7 @@ Ships the party can currently use.
 
 | Ship | What it is | Appears in |
 | --- | --- | --- |
-| [The *Slice Runner*](ruth-family-ships.md#the-slice-runner) | Lucky's Flying Fish, flown by Marfa; carried the party to Bral | Season 1 |
+| [The *Slice Runner*](ruth-family-ships.md#the-slice-runner) | Lucy's Flying Fish, flown by Marfa; carried the party to Bral | Season 1 |
 | [Korran's stolen ship](korrans-stolen-ship.md) | Hijacked from the plasmoid mothership; details still to be decided | Season 1 |
 
 ## Undecided
