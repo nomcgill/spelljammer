@@ -6,6 +6,7 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 
 **Ruby ring: a Ring of Disintegrate** (homebrew; found Season 2, Session 1). The [Kenku assassin](bestiary/season2-encounters.md#session-1--the-kenku-assassin) at the [Pie Parlor](locations/bral-pie-parlor.md) pulled off its glove and used this ring's Disintegrate on itself, turning to dust. Only the ring remains.
 - **Charges:** **one charge remaining.**
+- **Where it comes from:** **every Kenku in The Unkindness wears a Disintegrate ring**, alongside a second ring with a spell of its own. Only this ring was found on the Session 1 Kenku.
 - **What the players know:** they don't yet know what it is. They only saw it work once.
 - **Where it is:** whether anyone picked it up is `[unconfirmed]`.
 

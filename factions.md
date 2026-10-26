@@ -27,7 +27,7 @@ From Nicole's notes on Lucy. Neither has appeared at the table yet.
 
 ## The Plasmoid Kingdom
 
-**Led by** [Pip](player-characters/pip-oozewald.md)'s brother, the king. **Unnamed** — worth fixing.
+**Led by** [Pip](player-characters/pip-oozewald.md)'s elder brother, **King Pip Jr.** Their late father left the throne to be shared in turns between his three children, Pip Jr., Pip and Phillis. Pip Jr. ruled first and won't hand it over (Drew).
 
 **Known members:** [Alkgleb](npcs/alkgleb.md), a mothership general. [Gelp](npcs/gelp.md), the king's best High Wizard. Pip's **cousin** (unnamed; served the king through the coup). [Gu](npcs/gu.md), described by the fleet as their vice president.
 
@@ -47,9 +47,11 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 ## The Iron Annex / Spherewide Contracting Compact
 
-**Staffed by** [Tilptek](npcs/tilptek.md), a Thri-kreen desk clerk. The Annex is a **division** of the Compact, which is otherwise undescribed.
+**Staffed almost entirely by Thri-kreen**, including the desk clerk [Tilptek](npcs/tilptek.md). The exception is the head honcho, "the boss," an **autognome** named **Director Tallyworth**. The players don't know this yet. The Annex is a **division** of the Compact, which is otherwise undescribed.
 
 **Role:** contract brokerage on the [Rock of Bral](locations/iron-annex.md). It paged Kirrak within hours of the breakout and supplied the method for finding an unscryable target.
+
+**Assassins for hire:** the Annex is how **Kenku assassins** are hired on the Rock of Bral. The guild is called **The Unkindness** (a flock of ravens). They're hardcore: **every member wears a Disintegrate ring**, and they'll use it on themselves before they're taken. Each also carries **a second ring with its own spell**, so no two are alike. **Scritch**, a blind Kenku who echolocates, has Darkness as his second ring. Threats on Ruth lives aren't infrequent, and the family's first step is to check the Annex. Then they either **outpay whoever hired the contract** or apply the right **"pressure"** (Nolan, after Season 2 Session 1).
 
 **The open thread:** Tilptek acts on instructions from **"the boss"**, who has never been named. That's the most interesting unexplained actor in the campaign — someone who knew within hours both that Tamenik couldn't be scried and that Pip was a usable proxy.
 
@@ -75,4 +77,6 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 **Led by** [Megan Forthfang](npcs/megan-forthfang.md), who says he is their king.
 
-**Status:** invaded by plasmoids; the king was petrified and shipped off as cargo. What remains of the kingdom is unknown. Megan has never been on a spaceship, which raises the question of how a Leonin king from "the lands" fights like a 17th-level paladin.
+**Status:** invaded by plasmoids; the king was petrified and shipped off as cargo. What remains of the kingdom is unknown.
+
+**At war with the Brown Lions** (Nolan, after Season 2 Session 1). Megan's first priority is getting home to help, and he doesn't know how the war is going. Who the Brown Lions are, and how the war relates to the plasmoid invasion, is `[unconfirmed]`. Megan has never been on a spaceship, which raises the question of how a Leonin king from "the lands" fights like a 17th-level paladin.

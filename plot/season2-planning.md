@@ -20,7 +20,19 @@ Nolan's working document for Season 2 as a whole. Session-level prep lives in [`
 - **Destination:** the quest takes them to the **[Ral'taka Expanse](../locations/raltaka-expanse.md)**. **Session 2 opens with a cold open in the Expanse.**
 - **Korran's stolen ship is a Shrike.**
 - **Session 1 was played on October 12, 2026.** What happened is in [`season2/session-notes.md`](../season2/session-notes.md). Session 2 prep is in [`season2/session2-brainstorm.md`](../season2/session2-brainstorm.md).
-- **Session 2:** finding out who hired the Kenku assassin is key to the Stromboli case. The party will probably need to go to the **Iron Annex**, since a lot of questionable contract work goes through it.
+- **The season's frame:** a small mystery on Bral, then the party is strongly motivated to go to the Ral'taka Expanse. See [season beats](#season-beats).
+- **Session 2 opens with Marfa flustered.** Threats on Ruth lives aren't infrequent, and the first step is usually the Iron Annex. The Annex is how **Kenku assassins** are hired on Bral, and the fix is to **outpay** whoever hired the contract or apply the right **"pressure."** The Kenku attack is **directly tied to the Stromboli case**: someone hired it through the Annex.
+- **Megan's first priority** is getting home to help in the **war between the Red Lions and the Brown Lions**. He doesn't know how it's going.
+- **Flashbacks:** short roleplay flashbacks, one character at a time, set off by triggers. The first is Pip's warhammer with the Kenku's blood on it, which brings back a memory of a family member from when things weren't going well. See [`season2/flashbacks.md`](../season2/flashbacks.md).
+- **Session 2:** finding out who hired the Kenku assassin is key to the Stromboli case. **There will be combat at the Iron Annex.** The Annex is operated almost entirely by Thri-kreen, except for the head honcho, an **autognome named Director Tallyworth**. The party goes to the **Iron Annex** because a lot of questionable contract work goes through it. Session 2's run sheet is [`season2/session2-plan.md`](../season2/session2-plan.md):
+  - **The guild is The Unkindness.**
+  - **Nobody knows the head was the target** (not Marfa) until the Annex, where the Kenku attacks on sight.
+  - **The fight:** a fresh Kenku, **Scritch**, collects the reissued contract. He's blind, wears a blindfold, echolocates (that's his blindsight), and carries two rings, Darkness and Disintegrate. A Perception roll over 18 spots both rings. He fills the lobby with Darkness. Every Kenku in The Unkindness wears a Disintegrate ring, plus a second ring with a spell unique to them. Tilptek tries to get the lights back on, and the client's agent, there to raise the fee, flees out the back, so the fight follows.
+  - **Megan walks into the Annex carrying Krysta's head**, which is what the Kenku recognizes. **After the Annex, he parts ways** to look for a way home. He returns later in the Ral'taka Expanse, which the players don't know.
+  - **The flashbacks:**
+    - **Pip:** the night before the coup. He loses his temper and breaks something, and the shards injure a Giff guard, whose blood ends up on his warhammer.
+    - **Korran:** the day the pirates arrived, triggered by the Kenku's Darkness.
+    - **Lucy:** Babe making the Stromboli, triggered by the empty folder.
 - **Session 1 plan (as prepared):** arrival and the dock check, breakfast at Lucy's old flagship Pie Parlor (reopened by Bugsy), the recap told to Marfa in character, Marfa's deals. **It ends with a poisoned blowdart hitting Krysta's head**, which Megan is holding and which holds clues to the theft of the Stromboli recipe's ingredient. Then an encounter follows. The attacker was **contracted by the Iron Annex** to take out Marfa or Krysta's memories. The full Stromboli mystery is saved for later. Full plan in [`season2/session1-plan.md`](../season2/session1-plan.md).
 - **Megan doesn't know Speak with Dead.** He doesn't know how to get home, doesn't know anyone, and wants insight into the IOU on his daughter's body.
 - **Naming:** Luckyluciano's nickname is **Lucy**, not "Lucky." Use her full name or Lucy.
@@ -150,19 +162,53 @@ Brainstorm only. Check the Korran twists with Brad first, since they rewrite his
 - **Plasmoid side:** Kirrak, Alkgleb, Gelp.
 - **Others:** Tilptek, the Chwinga, and Krysta (her head).
 
-## Season shape (rough)
+## Season beats
 
-A possible outline. Rearrange freely.
+**Nolan's frame:** the party solves **a small mystery on the Rock of Bral**, then becomes strongly motivated to go to the **Ral'taka Expanse**. Everything below is proposed and can be rearranged. The detailed Session 2 version is in [`season2/session2-brainstorm.md`](../season2/session2-brainstorm.md).
 
-1. **Bral (Sessions 1 and 2).** Docking, Marfa's pizza dinner, and the Stromboli case, solved by the end of Session 2. The solution sends everyone off on one ship toward one destination, and the hook toward Korran's past lands.
-2. **The *Star-Reaver*.** Find the derelict again for the Star Chart and the helm, and learn who else has been there.
-3. **The Ral'taka Expanse.** Navigate the floating islands, deal with the Hadozee tribes, and bring Korran's secret to a head.
-4. **The hoard.** It pays off everyone's motive, or forces a choice between them.
+### Beat 1: The Case of the Missing Stromboli, on Bral (Sessions 1 to 2, possibly 3)
+
+- **Already played:** docking, Marfa's breakfast, and the Kenku attack.
+- **The investigation:** Marfa is flustered and sends the party to the Iron Annex. From there they follow several avenues: outpaying or pressuring the Annex, the Kenku guild and its ring, the reopening night, the Jiffs, the docks, the DAV, and getting Krysta's head questioned.
+- **How it closes:** the case closes on Bral. The card is recovered, Bugsy and the Jiffs are cleared, and the culprit is named. But **the client has already left for the Expanse.**
+- **Loose ends tied off:** the Shrike is registered and named, and the head gives up the **route into the Expanse**.
+
+### Beat 2: The crossing (one or two sessions)
+
+- **Possible encounters,** all from the hook bank:
+  - neogi in a nightspider;
+  - ship gravity failing;
+  - teleporting on and off the ship.
+- **The *Star-Reaver* is now optional.** Its Star Chart was the way into the Expanse, but the head now gives the route. It's still there for the Spelljamming Helm and Void Crystal Focus, and for learning that **someone else has been aboard**.
+- **Flashbacks** fill the travel time. See [`season2/flashbacks.md`](../season2/flashbacks.md).
+
+### Beat 3: The Ral'taka Expanse (the middle of the season)
+
+- **The setting:** floating jungle islands, gold that the Hadozee treat as part of nature, and **the goldfleck pepper groves**.
+- **The client's crew** is already there, using Babe's grower's mark to get past the growers.
+- **Korran's past comes due.** Pick from the [twist ideas](#twist-ideas): a survivor of the purge, the family of the Hadozee slave he killed, or the Cloudjumper Tribe itself. **How much Korran's secret surfaces is Brad's call.**
+- **Pip** could win the Hadozee tribes as **allies for the revolution**.
+- **Lucy** can secure the supply line, Babe's legacy, herself.
+
+### Beat 4: The hoard (the finale)
+
+- **The confrontation:** the party against the client's crew at the hoard, using Korran's map.
+- **The choice:** Korran's people see the gold as nature. To Pip it's a war chest, and to Lucy it's fortune. The hoard should **force a choice** between the PCs' motives, not just pay them all out.
+- **Unresolved:** which twist lands here is still open.
+
+### Threads that run in the background
+
+- **Megan's war at home.** He wants to get back to the war between the **Red Lions and the Brown Lions**, and doesn't know how it's going. Krysta's head gives him the first news. Paying this off is a strong **season finale or Season 3 hook**.
+- **The Iron Annex and "the boss."** The Annex brokered both the manhunt in Season 1 and the Kenku contract.
+- **The Kenku guild wants its ring back.**
+- **Someone from Warden's Maw wants revenge.** This is the later hook from the hook bank.
+- **The plasmoid court and Gelp.** Pip's revolution needs a face to the enemy at some point.
+- **Tamenik at Freelin Corporation.** He's available as a cameo or a rumour, and Kirrak comes home eventually.
 
 ## Open decisions
 
-- What keeps the party together after the Stromboli case: A, B, C, or a mix?
-- What happens in The Case of the Missing Stromboli. A proposal is in the [Session 1 plan](../season2/session1-plan.md#6-the-case-of-the-missing-stromboli-proposed).
+- Whether the Stromboli case is the reason they leave Bral. Proposed: yes, indirectly. The case is solved on Bral, but its culprit has already left for the Expanse.
+- What happens in The Case of the Missing Stromboli, and who the client is. The current proposal is in the [Session 2 brainstorm](../season2/session2-brainstorm.md#the-case-of-the-missing-stromboli-proposed-answer).
 - Korran's stolen Shrike: its name. Marfa's deal makes it Korran's.
 - What Brad wants from Korran's past, and whether the secret comes out.
 - What Drew wants from Pip's revolution arc.

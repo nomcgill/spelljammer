@@ -1,6 +1,6 @@
 # The Ral'taka Expanse
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2
 
 [Korran](../player-characters/korran-cloudjumper.md)'s homeland, and the campaign's most clearly signposted future destination.
 
@@ -26,8 +26,19 @@ Per the captain: *"That treasure belongs to the crew of the Star-Reaver, and he'
 
 ## Status
 
-Never visited in play. Everything above comes from Korran's backstory document and the session notes.
+Never visited by the party. Seen once in a Season 2 cold open (below). Everything above comes from Korran's backstory document and the session notes.
 
 ## Season 1
 
 Never visited. The party only heard about it through Korran, and the map to it became readable once the cipher came out of Tamenik's fever dream.
+
+## Season 2
+
+### Session 2
+
+Shown in a **cold open** the players watched without their characters ([session notes](../season2/session-notes.md#cold-open-the-raltaka-expanse)):
+- **Hadozee growers** on a small floating island grow peppers that glint because they're **dusted with gold**.
+- An old trade route reaches the island that **only one buyer ever uses**.
+- A strange ship arrived along that route. Someone aboard held up a **torn strip of card bearing a mark in an old Giff's handwriting**, and the grower welcomed them: *"Welcome back, friend."*
+
+Who was aboard, and what the mark is, the players don't know.

@@ -11,7 +11,8 @@ Every thread the campaign has opened, with its status as of Season 2, Session 1.
 - **Nolan's plan:** it's solved by the end of Session 2 and sends the party to the Ral'taka Expanse. Krysta's head holds clues to the theft of the recipe's ingredient. Prep is in [`season2/session2-brainstorm.md`](../season2/session2-brainstorm.md).
 
 **The Kenku assassin** `(S2)`. A Kenku tried to dart the table the moment Marfa raised the Stromboli case. The dart hit Krysta's head, and the Kenku disintegrated itself with a ruby ring rather than be taken.
-- **Open:** who hired it, and whether it was after Marfa or the head.
+- **Decided (players don't know yet):** it was after **Krysta's head**, not Marfa. The players learn this at the Iron Annex.
+- **Open:** who hired it.
 - **Nolan's plan:** the Iron Annex contracted it. The players don't know this. They'll probably need to go to the Annex to find out, since a lot of questionable contract work goes through it.
 
 **The ruby ring** `(S2)`. A homebrew **Ring of Disintegrate** with **one charge left**. The players don't know what it is yet, and whether they picked it up is `[unconfirmed]`. See [`items.md`](../items.md).
@@ -42,7 +43,7 @@ Every thread the campaign has opened, with its status as of Season 2, Session 1.
 
 **Megan Forthfang's real story** `(S1)`. A Leonin who says he is King of the Red Lions of Thorndumm, has never been on a spaceship, was petrified by a plasmoid High Wizard named Gelp, and fights and heals like a level 17 paladin. Nolan's own prep note asks what his story actually is. He owes Korran a debt.
 
-**Gelp the plasmoid High Wizard** `(S1)`. Cast the Flesh to Stone that trapped Megan. Best wizard of Pip's **brother the king**. Unseen so far. The king is still unnamed. Pip's separate cousin (who served the king through the coup) is also still unnamed.
+**Gelp the plasmoid High Wizard** `(S1)`. Cast the Flesh to Stone that trapped Megan. Best wizard of Pip's **brother, King Pip Jr.** Unseen so far. Pip's separate cousin (who served the king through the coup) is also still unnamed.
 
 **Krysta's head** `(S1)`. The party is carrying the severed head of a Psurlon Ringer wearing the memories of Megan's daughter. Megan claimed Speak with Dead, but per Nolan he doesn't know it. Nolan's prep asks what Krysta's story was and how it bleeds into the Psurlon who ate her. Her body, back at the shipyard, had an IOU from Babe Ruth's Galactic Pie Parlors on it — connecting the Psurlons to Luckyluciano's family.
 

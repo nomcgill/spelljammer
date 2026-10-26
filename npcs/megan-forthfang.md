@@ -24,6 +24,10 @@ He wanted to fight the Psurlons on sight, on the grounds that they are inherentl
 
 His own daughter Krysta had been eaten and replaced by a Psurlon Ringer, and the party killed it and kept the head. Whether he knows this, and what he does about it, is unresolved.
 
+**His first priority** (Nolan): getting **home to help in the war between the Red Lions and the Brown Lions**. He doesn't know how it's going. How that war relates to the plasmoid attack on Thorndumm is `[unconfirmed]`.
+
+**What the players don't know:** he returns later, in the Ral'taka Expanse.
+
 **His motivation going into Season 2** (Nolan): he doesn't know how to get home, he doesn't know anyone, and he'd like some insight into the IOU that was on his daughter's body. He doesn't know Speak with Dead, which would likely help solve the mystery of her death.
 
 Nolan's prep note asks outright: **what is Megan's story?** A Leonin king who has never left his world, yet fights and heals like a 17th-level paladin, is a deliberate mystery.
@@ -46,3 +50,9 @@ He is also carrying, or was offered as an option, a **unicorn horn** — an alte
 
 - **Breakfast:** he accepted Marfa's invitation to the [Bral flagship Pie Parlor](../locations/bral-pie-parlor.md) and heard the party tell Marfa the whole Season 1 story.
 - **The attack:** when the Kenku assassin fired, Korran's missed dagger bought him time to **lift Krysta's head like a shield**, and the poison dart hit the head instead.
+
+### Session 2
+
+- He followed Korran to the dock and asked for advice on getting home. Korran told him to give up; **Megan said he would not.**
+- He asked where to find a **religious establishment that could cast Speak with Dead** on Krysta's head. Korran's History roll pointed him to **the nearest temple** (nondescript), and **Megan left the party with Krysta's head**. 
+- Later he **walked into the Iron Annex** behind the party, still carrying the head, to ask them for **money to pay the temple** for Speak with Dead. Tilptek pointed him out to the Kenku as the target, and the Kenku cast Darkness. The session ended there.

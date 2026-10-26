@@ -120,9 +120,9 @@ Nolan asked for this to be designed from scratch. It's built from canon pieces: 
 
 ### What everyone believes
 
-- **The recipe.** Babe's legendary Stromboli is made from a handwritten recipe card kept in a gold-edged leather folio. Nobody outside the family has ever seen it.
-- **The opening night.** A few weeks ago, while Lucy was still in the Maw, Bugsy held the **reopening night** of this parlor. Babe came in person and sat at **his booth in the corner**, the one with the brass plaque. He made the Stromboli himself, as he only does for special occasions, then left the folio with Marfa and Bugsy to lock away.
-- **The theft.** By closing, the folio was empty.
+- **The recipe.** Babe's legendary Stromboli is made from a handwritten recipe card kept in a gold-edged leather folder. Nobody outside the family has ever seen it.
+- **The opening night.** A few weeks ago, while Lucy was still in the Maw, Bugsy held the **reopening night** of this parlor. Babe came in person and sat at **his booth in the corner**, the one with the brass plaque. He made the Stromboli himself, as he only does for special occasions, then left the folder with Marfa and Bugsy to lock away.
+- **The theft.** By closing, the folder was empty.
 - **The clue.** The next morning, a napkin from **Astro Nommie's Slicehouse** was found tucked into the booth.
 - **The cover-up.** All signs point to the Joisey Jiffs, as in Nicole's pitch. **Babe doesn't know it's gone.** Marfa and Bugsy have been covering for weeks. That's why Marfa needs outsiders: none of the family's own people can be trusted to keep it quiet, and Bugsy is under a cloud because it happened on her watch.
 

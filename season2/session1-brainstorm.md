@@ -96,7 +96,7 @@ Two options for that destination:
   - **Pip:** he can hit his brother's funding, with Ruth backing.
   - **Lucy:** she can secure the supply line, beat the Jiffs and prove herself to Babe.
   - **Megan:** it's the plasmoids again, the people who took Thorndumm.
-- **The *Star-Reaver* first.** Navigating the Expanse needs the **Star Chart of the Lost Spheres**, which is still on the derelict. That makes the first leg the derelict, matching the [season shape](../plot/season2-planning.md#season-shape-rough).
+- **The *Star-Reaver* first.** Navigating the Expanse needs the **Star Chart of the Lost Spheres**, which is still on the derelict. That makes the first leg the derelict, matching the [season beats](../plot/season2-planning.md#season-beats). Krysta's head now gives the way in instead, so the derelict is optional.
 
 **The ship** is Korran's newly re-registered one. Marfa paid for it, so the Ruths have a stake in where it goes.
 

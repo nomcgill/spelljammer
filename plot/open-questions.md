@@ -61,11 +61,13 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 
 **Megan and Speak with Dead.** The Session 6 notes say Megan *claimed* to have Speak with Dead. Nolan's ruling after Season 1: he **doesn't know it**. Whether the in-play claim was a bluff or a mistake is `[unconfirmed]`.
 
+**Krysta, not Krystal.** Nolan's Season 2, Session 1 report wrote "Krystal." Her name **is Krysta** (Nolan's ruling).
+
 **Luckyluciano's nickname.** It's **Lucy**, not "Lucky." Use her full name or Lucy. This reverses a short-lived ruling that she went by "Lucky" and only Jetson called her Lucy.
 
 ## Open contradictions
 
-**"Krysta" or "Krystal"?** Every Season 1 note spells the Psurlon Ringer and Megan's daughter **Krysta**. Nolan's Season 2, Session 1 report calls her **"Krystal."** The files still say Krysta until Nolan decides.
+*None right now.*
 
 ## Open after Season 2, Session 1
 
@@ -73,4 +75,12 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 - **Was the Remove Curse prologue played?** The plan put it aboard the *Slice Runner* on approach, and Nolan's report doesn't mention it.
 - **Did anyone pick up the ruby ring?**
 - **What did the poison do to Krysta's head?**
-- **Who was the Kenku after:** Marfa, or the head?
+- ~~**Who was the Kenku after:** Marfa, or the head?~~ **Answered by Nolan: the head.** The players think it was Marfa until the Iron Annex.
+- ~~**Is Disintegrate standard issue for The Unkindness?**~~ **Answered by Nolan: yes.** Every member carries a Disintegrate ring ("they're hardcore"), plus a personal ring with its own spell.
+- **Why Pip Jr. won't give up the throne.** At the table (Session 2), he argued Pip's anger made him unfit and offered a popular vote. Anything deeper, such as the war as an excuse, is `[unconfirmed]`.
+- ~~**Phillis's name at the table?**~~ **Answered: yes,** she was called Phillis.
+- ~~**Pip's weapon: warhammer or maul?**~~ **Answered: warhammer.** "Maul" in the recap was a slip.
+- ~~**Megan's Speak with Dead lead.**~~ **Answered:** Korran sent him to the **nearest temple** (nondescript). He took Krysta's head with him; he had it the whole time.
+- ~~**Lucy's flashback: envelope or folder?**~~ **Answered: the folder.** Same object.
+- ~~**The sibling names.**~~ **Answered:** the three are **Pip Jr.** (the eldest, now king), **Philip "Pip"** (the PC, always one L), and **Phillis**. The names are intentionally, sillily close.
+- **The Session 1 Kenku's personal ring.** Only the Disintegrate ring was found on it. Whether it had a second ring, and what happened to it, is `[unconfirmed]`.

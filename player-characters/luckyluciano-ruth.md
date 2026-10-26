@@ -55,6 +55,8 @@ Darkvision 120 ft.
 
 Daughter of **Baby "Babe" Ruth**, the interplanetary pizza prince of the criminal underworld, and [Marfa Ruth](../npcs/marfa-ruth.md). His favoured errand girl for the more sensitive work, and his **personal warlock**: **Babe Ruth himself is her warlock patron**, so their already complicated father-daughter relationship has a magical side too. She grew up around the family business and learned early that **family, loyalty, and keeping your mouth shut** mattered more than anything else.
 
+**How the pact began** (played as a flashback in Season 2, Session 2): when she was a child, Babe told her she was too young to learn the family's secrets; he was protecting her. Then he **tapped her on the head with the folder holding the Stromboli recipe**, which she was too small to see. That was the moment she entered her warlock pact with him.
+
 She is **not the heir.** Babe sees the crime family eventually going to her **older sister, [Bugsy](../npcs/bugsy.md)** — who doesn't want it and just wants to be a mom to her son, [Jetson](../npcs/jetson.md). So Jetson is Lucy's **nephew**, and "Aunt Lucy" is literal.
 
 The [Ruth Syndicate](../factions.md) runs **Babe Ruth's Galactic Pie Parlors**, a chain of family eateries famous for meteor-spiced crusts and deep-space delivery, and in reality a money-laundering network for cargo running and weapons smuggling across Wildspace. Luckyluciano ran one of the flagship parlors orbiting the [Rock of Bral](../locations/rock-of-bral.md): codeword orders, scrubbed astral manifests, high-level shipments disguised as pepperoni pallets.
@@ -94,6 +96,7 @@ The party's face and closer — the one whose name opens doors.
 ## Season 2
 
 - **Session 1.** At the Bral docks she told [Lawrence](../npcs/lawrence.md) the *Slice Runner* was **"property of the Ruth family,"** not specifically hers or her mother's. She **read her mother's intent** before anyone else: Marfa wanted to see whether the group could be persuaded, through an exchange, to help solve the **Case of the Missing Stromboli**. At her old flagship parlor, now [Bugsy's](../npcs/bugsy.md), she ordered a vegetarian pizza with anchovies. She shared the whole Season 1 story with Marfa and fought the Kenku assassin.
+- **Session 2.** Marfa spoke with her alone in the back room, which set off a [flashback](../season2/session-notes.md#lucy-and-marfa-and-lucys-flashback) to the moment her pact with Babe began (see above). The talk went warmly: Marfa said she was so glad to have Lucy back, since trust is hard to find in their business, and **hugged her**. Lucy took **Jetson** along to "learn the business" and led the way to the Iron Annex. There she made it canon that **she used to date [Tilptek](../npcs/tilptek.md)**. When the Kenku cast Darkness, **she was the only one who could see.**
 
 ## Threads on her
 

@@ -69,6 +69,7 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
 ## Season 2
 
 - **Session 1.** At the Bral docks he told [Lawrence](../npcs/lawrence.md) he had **"not much of a last name to give."** His Shrike still has to be registered at the DAV, with the costs waived thanks to Marfa. At the Pie Parlor he ordered a pizza with everything on it, including fruits, vegetables, meats and far too many toppings.
+- **Session 2.** Marfa offered him a **crew of 6** for the Shrike's upcoming journey. He went to check on the Shrike (all fine), and on the way told Megan to give up on getting home. His **History** roll pointed Megan to the nearest temple, to get Speak with Dead cast on Krysta's head. He then joined Lucy, Pip and Jetson heading to the Iron Annex.
 - **His account to Marfa:** he was captured after a few **failed raids on Githyanki outposts**. Some raids succeeded, but the crew bit off more than it could chew, and he was sent to Warden's Maw for **petty revenge**. Nolan calls this an "overall partial truth." It fits with, and adds to, the backstory's "ambushed and captured by a githyanki patrol."
 - **The fight:** he was the **only one to spot the Kenku assassin** by the exit. He threw a dagger and missed, which bought Megan the moment to block the dart with Krysta's head.
 

@@ -12,6 +12,8 @@ On the [Rock of Bral](../locations/rock-of-bral.md). She now **knows the party's
 
 The social genius of the family, and Babe Ruth's spouse. She learns about people, works out what they can do for her and how to pull their strings, then makes trades. Her name alone moves Bral's dock officers.
 
+Threats on Ruth lives aren't infrequent. Her first step is always the [Iron Annex](../locations/iron-annex.md): find out who hired the assassin, then outpay them or apply the right "pressure." **Planned:** Session 2 opens with her flustered.
+
 ## Family
 
 Mother of Luckyluciano and her older sister, [Bugsy](bugsy.md). Bugsy's son [Jetson](jetson.md) is Marfa's **grandson** and Luckyluciano's nephew.
@@ -47,4 +49,4 @@ She arrived in the [*Slice Runner*](../ships/ruth-family-ships.md#the-slice-runn
 - **At the docks:** her influence got the party past [Lawrence](lawrence.md) with only names taken, and got the registration costs on Korran's ship waived. She watched closely as the group described themselves as "evil," "violent," "a prince," and so on.
 - **Breakfast:** she invited everyone except Tamenik, who had left, to breakfast at the [Bral flagship Pie Parlor](../locations/bral-pie-parlor.md). She shooed Bugsy away and sent Jetson to "join his mother."
 - **The story:** she heard the whole Season 1 story. Then she asked for help with the family's **Case of the Missing Stromboli**, which **began at this very table**.
-- **The attack:** at that moment a Kenku assassin by the exit fired a poison dart. Megan blocked it with Krysta's head. Whether she or the head was the target is open.
+- **The attack:** at that moment a Kenku assassin by the exit fired a poison dart. Megan blocked it with Krysta's head. Marfa assumes she was the target. **The real target was the head** (Nolan's ruling), and nobody at the table knows that yet.

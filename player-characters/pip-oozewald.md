@@ -47,13 +47,23 @@ Darkvision 60 ft.
 ## Proficiencies and languages
 
 - **Armor:** light, medium, shields
-- **Weapons:** martial weapons, simple weapons
+- **Weapons:** martial weapons, simple weapons. He fights with a **warhammer** (from Nolan's Season 2 notes; not on the sheet export).
 - **Tools:** none
 - **Languages:** Common, Primordial
 
 ## Background
 
-**He led an unsuccessful coup against his brother, and that's why he was imprisoned.** His brother is the plasmoid king.
+**He led an unsuccessful coup against his brother, and that's why he was imprisoned.** His brother is the plasmoid king, **Pip Jr.**
+
+**The shared throne** (Drew, Season 2): when their father, the previous king, died, he didn't leave the throne to his firstborn. His three children were to **take turns ruling, one year each**: **Pip Jr.** (the eldest), **Philip "Pip"** (the middle child), and **Phillis** (the youngest; Pip's sister). The names are intentionally, sillily close. Pip Jr. went first and **won't give up the throne**, which is why Pip calls him the usurper.
+
+**The night it broke** (played as a flashback in Season 2, Session 2), some months or years before Warden's Maw:
+- It was Pip's turn, and Pip was getting angry. His brother said Pip's anger would make him a bad ruler, and offered to **put it to a vote of the populace**. Pip refused; he wanted his turn.
+- Their **sister**, waiting outside, came in crying and begged Pip not to be violent.
+- Pip drew his warhammer and the **Giff guards** advanced. He **threw the warhammer out the window and jumped after it**, falling from the tower as the guards watched.
+- He survived, escaped, gathered allies, and led the coup that failed and sent him to Warden's Maw.
+
+Beyond the anger argument and the vote, why Pip Jr. won't let go is `[unconfirmed]`.
 
 He also has a **separate cousin**, who served that brother through the coup. A plasmoid High Wizard named [Gelp](../npcs/gelp.md) is his **brother the king's** best wizard — the same Gelp who petrified [Megan Forthfang](../npcs/megan-forthfang.md) during the conquest of Thorndumm.
 
@@ -71,6 +81,7 @@ The front line, and the reason the enemy can find them.
 ## Season 2
 
 - **Session 1.** He gave his name at the docks; the party described themselves to Marfa as, among other things, "a prince." At the Pie Parlor he ordered a pile of random toppings, including pineapple, anchovies and mushrooms, put it all on the table, and **engulfed it with his whole body**. He shared the whole Season 1 story with [Marfa](../npcs/marfa-ruth.md) and fought the Kenku assassin.
+- **Session 2.** Pulling his bloodied warhammer away from the Kenku fight set off a [flashback](../season2/session-notes.md#pips-flashback) to the night his brother refused to give up the throne (see Background). Marfa offered him a real conversation about the Ruths backing **another coup attempt**. He waited at the parlor door for Lucy, then went with her to the Iron Annex.
 
 ## Threads on him
 

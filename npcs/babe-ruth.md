@@ -12,7 +12,7 @@ Offscreen. Named but never appeared.
 
 The syndicate runs **Babe Ruth's Galactic Pie Parlors**, an interplanetary chain of family eateries known for meteor-spiced crusts and deep-space delivery. In reality they are money-laundering hubs for illegal cargo running and weapons smuggling across Wildspace systems.
 
-Luckyluciano ran one of the flagship parlors orbiting the Rock of Bral, handling codeword orders, scrubbing astral manifests, and coordinating shipments disguised as pepperoni pallets. She was also her father's favoured errand girl for sensitive tasks — his "personal warlock." **He is literally her warlock patron.**
+Luckyluciano ran one of the flagship parlors orbiting the Rock of Bral, handling codeword orders, scrubbing astral manifests, and coordinating shipments disguised as pepperoni pallets. She was also her father's favoured errand girl for sensitive tasks — his "personal warlock." **He is literally her warlock patron.** The pact began when Lucy was a child: he told her she was too young for the family's secrets, then tapped her on the head with the folder holding the Stromboli recipe (Season 2, Session 2 flashback).
 
 ## Family
 

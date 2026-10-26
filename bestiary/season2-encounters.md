@@ -16,4 +16,4 @@ At the [Pie Parlor](../locations/bral-pie-parlor.md) on the Rock of Bral, just a
 - **The fight:** in initiative, the whole party landed attacks.
 - **The Kenku's turn:** it went last, pulled off its glove, and **disintegrated itself** with the ring. It left only dust and the ring, which has **one charge remaining**. See [`items.md`](../items.md).
 
-**Who hired it** is unknown at the table. In planning, Nolan has it **contracted by the [Iron Annex](../locations/iron-annex.md)** to take out Marfa or Krysta's memories. Which target it was after is still open.
+**Who hired it** is unknown at the table. In planning, Nolan has it **contracted by the [Iron Annex](../locations/iron-annex.md)** It was a member of **The Unkindness**. **Its real target was Krysta's head, not Marfa** (Nolan's ruling). The players don't know this yet; the [Session 2 plan](../season2/session2-plan.md#what-the-players-dont-know) reveals it at the Annex.
