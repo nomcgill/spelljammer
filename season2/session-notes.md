@@ -92,6 +92,8 @@ Back in the Pie Parlor, Marfa told Korran and Pip she could offer them what they
 - **Korran:** a **crew of 6** for his upcoming journey in the Shrike.
 - **Pip:** a real conversation about the Ruths helping with **another coup attempt** to take back the throne from his brother.
 
+Marfa also told them about **The Unkindness**, and that **the Joisey Jiffs hadn't hired them** (from Nicole's recap at the start of Session 3; Nolan confirmed).
+
 Then the party split:
 - **Korran** went to check on his ship at the dock, and **Megan** followed him.
 - **Marfa** asked to speak with **Lucy alone** in the back room.
@@ -141,3 +143,87 @@ In the Iron Annex lobby, inside the Kenku's Darkness, with Megan and the head pr
 - The DAV registration of the Shrike, and the spice house.
 
 See [`session2-plan.md`](session2-plan.md#4-the-iron-annex) for the scripts.
+
+---
+
+## Session 3
+
+Played October 26, 2026. Plan: [`session3-plan.md`](session3-plan.md). The session covered the plan's scenes 1 to 4: Korran's flashback, the lobby fight, and the chase, which ended at a window in the director's office. Unlike earlier sessions, this one was recorded. The raw transcript and a fuller blow-by-blow are in [`transcripts/season2/`](../transcripts/season2/session3-summary.md).
+
+**At the table:** Nicole, Brad and Drew. Drew had lost his voice, so Pip's lines were typed and read out.
+
+### Opening: Korran's flashback
+
+Nolan read the plan's [raid script](session3-plan.md#the-raid-improvised) with changes, and the table filled in the rest:
+- **Age:** Korran was about **10 in human years.**
+- **The ships:** the *Star-Reaver*, a ribcage "the size of a large, large hill," came with **several other pirate ships**, each with its own unique features. The pirates were **Hadozee and other races** Korran had never seen.
+- **Where Korran was:** on a smaller, lower floating island. He heard his mother calling and **glided island to island** toward home.
+- **Gold:** in the Cloudjumper Tribe's home, gold is plentiful enough to be **a building material**. His mother taught him it's part of their tradition, **how their people honor the land.**
+- **The growers:** the gold-dusted peppers from the Session 2 cold open come from this tradition. It belongs to **the peoples of the Ral'taka Expanse**, who aren't necessarily all Hadozee (Nolan, after the session).
+- **Korran hid and cried quietly** while the pirates bound villagers and lingered over the gold.
+- **Gloamcast's lines were read as written.** He glided down, looked at Korran's mother for a long moment, and said *"The gold. And any who'll fetch a price. Not her."*
+- **Korran's attempt:** on a Wisdom save of 17, Korran ran out to protect her, and bit and fought a Hadozee beside the captain.
+- **The retcon:** Nolan first narrated a deal, with Gloamcast taking Korran in exchange for leaving the village alone. At Brad's suggestion he retconned it. **There was no deal. The pirates simply took him** aboard the *Star-Reaver*.
+- **The ending:** *"Did you ever see your mother again?"* **He never did** (Nolan confirmed after the session). She could have been taken aboard any of the ships. Korran doesn't know what became of her or his people.
+
+### The fight in the lobby
+
+- **Lucy** went first and cast **Psychic Lance**: 24 psychic damage, and the Kenku was incapacitated. **His concentration broke, and the Darkness ended.**
+- **Megan** charged with *"Not my allies!"* and bloodied him.
+- **Tino at the back door** played as planned. Only Lucy saw him, and she whispered **"Saucepan."**
+- **Korran and Pip** struck non-lethally, so they could find out who he worked for.
+- **Megan wanted him alive**, because he had questions. **Lucy cast Suggestion**, and it worked.
+- **The rings:** Korran rolled **Sleight of Hand 29** and slid **both rings** off the Kenku's fingers. **He doesn't know what they are yet.**
+
+### The questioning
+
+- **The Kenku**, under Suggestion:
+  - Megan *"was not the goal."* The target was **the head**, and the job was to **"eradicate"** it.
+  - He was hired **"just now"** by **"an anonymous source,"** doesn't know "the Saucepan," and pointed them to Tilptek.
+  - **Afterward:** the party left him slumped in the lobby. **He hobbled out and got away** (Nolan, not said at the table).
+- **Tilptek**, intimidated by Lucy with Korran flourishing blades on the counter:
+  - Lucy knocked over his computer, and he went for a blue **"MANAGER"** button. **Korran's Mobile Flourish, a natural 20, cut off one of his arms.** He has three left.
+  - He gave up the client: *"That was him. He just left."* The man had been there five minutes before the party arrived, and **he placed the contract that the Kenku then picked up.**
+  - Lucy asked him on a date for Friday. He'll be in the hospital.
+
+### The back rooms
+
+- **A map room:** a glowing map of the Rock of Bral, and a monitor showing the lobby.
+- **A lounge:** Lucy Eldritch Blasted the security camera and taught Jetson the rules: *"Keep your trap shut, and don't leave evidence."* Jetson didn't recognize Tino: *"I was seven, Aunt Lucy."*
+- **The director's office:** a big desk, and nobody at it. **Tino** was squeezing out a half-open, stuck window while a Giff guard named **Gary** covered him. *"Occupy them! This is why we pay you the big bucks!"*
+
+### The fight at the window
+
+- **The spells:** Lucy's Suggestion on Gary failed, which ended her Suggestion on the Kenku. Korran's **Faerie Fire** outlined Tino.
+- **The hits:**
+  - Pip shot Tino with his **musket**, for 12.
+  - Megan **launched his longsword blade** into him. Per Xenk Yendar's stat block, it reattaches to its hilt.
+- **Gary's grenade:** a force grenade hit Lucy, Pip and Megan for 10 each. Lucy punched him.
+- **The card:** Lucy's grapple failed, but she caught Tino's coat, and **a card fell out.**
+- **Tino goes down:** Korran stabbed him down non-lethally. He's **barely conscious**, and the party hauled him back inside.
+- **Gary surrendered.** He tossed Pip a protein bar, which Pip ate, and left.
+
+### The card
+
+- **Megan picked it up but can't read Common.**
+- It reads ***Varrow & Daughters, Fine Spices***, with a dock address.
+- **Korran, Perception 22:** it smells of **gold-dusted pepper**, the smell of his childhood.
+
+**The session ended there.** The table's jokes about Pip eating Tino are not canon.
+
+### New canon from the table
+
+- **Giffs dress like Pooh Bear:** shirts, no pants.
+- **Megan can't read Common.** He was raised a warrior despite being royalty, because where he comes from, strength in arms is respected far more than learning.
+- **Pip carries a scimitar, a musket and his warhammer.**
+- **Lucy's spell names:** "Spicy Meatball" is her Fireball, and "Linguine of Fate" her Psychic Lance.
+- **Jetson is a preteen**, shorter than Korran.
+
+### Where Session 4 picks up
+
+In the Iron Annex director's office, with Tino barely conscious in the party's hands and the Varrow card found. Planned but **not yet played**:
+- **Director Tallyworth's line** over the speaker. It didn't come up in Session 3.
+- **Tino's confession** and Lucy deciding his fate, then **Marfa's scene** ([plan](session3-plan.md#5-tino)).
+- **The temple** and **Megan's goodbye**.
+- **Closing the case:** the spice house and the DAV.
+- **The launch.**

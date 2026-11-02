@@ -27,7 +27,7 @@ He owns a legendary **Stromboli recipe**, which Nicole has pitched as the target
 
 The syndicate's commercial reach is the party's diplomatic weapon.
 
-It also cuts the other way: the Psurlons at the shipping hub were specifically interested in favours connected to Luckyluciano's family, and the real [Krysta](krysta.md)'s body had a **Pie Parlors IOU** on it. The syndicate is already entangled with the Psurlon operation.
+It also cuts the other way: the Psurlons at the shipping hub were specifically interested in favours connected to Luckyluciano's family, and the body of the Ringer wearing [Krysta](krysta.md) had a **Pie Parlors IOU** on it. The syndicate is already entangled with the Psurlon operation.
 
 See [`factions.md`](../factions.md) for the Crustfall Conspiracy that put Luckyluciano in prison, and [Tino Fennetti](tino-fennetti.md) for the cousin who informed on her.
 

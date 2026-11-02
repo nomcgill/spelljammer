@@ -10,6 +10,14 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 - **What the players know:** they don't yet know what it is. They only saw it work once.
 - **Where it is:** whether anyone picked it up is `[unconfirmed]`.
 
+**Two rings from the Annex Kenku** (found Season 2, Session 3) — [Korran](player-characters/korran-cloudjumper.md). He slid them off the Kenku's fingers in the Iron Annex lobby with a Sleight of Hand of 29, and pocketed them.
+- **What they are:** one is the Kenku's **Darkness** ring, the source of the Darkness in the lobby. The other is his **Disintegrate** ring. Charges are `[unconfirmed]`.
+- **What the players know:** **Korran doesn't know what they do yet.**
+
+**The Varrow & Daughters card** (found Season 2, Session 3) — fell from Tino's coat when Lucy grabbed him at the Annex window. Megan picked it up, but he can't read Common.
+- **What it says:** *Varrow & Daughters, Fine Spices*, with a dock address.
+- **The smell:** Korran smells **gold-dusted pepper** on it, the smell of his childhood.
+
 ## Confirmed in the party's hands
 
 **Fish Suit** (Uncommon; acquired Season 1, Session 2) — [Korran](player-characters/korran-cloudjumper.md). From the [*Star-Reaver*](ships/star-reaver.md). Breathe in a vacuum and swim through space as if through water. Made his Session 7 spacewalk to the mothership possible.
@@ -71,6 +79,6 @@ All five *Star-Reaver* items are homebrew. The unclaimed **Spelljamming Helm** w
 
 ## Elsewhere
 
-**An IOU from Babe Ruth's Galactic Pie Parlors** — on the real Krysta's body, still at the Psurlon container yard. Evidence connecting the Ruth syndicate to the Psurlon operation.
+**An IOU from Babe Ruth's Galactic Pie Parlors** — on the body of the Ringer wearing Krysta's form, still at the Psurlon container yard. It's how Tino Fennetti paid the Psurlons (the players don't know this yet). Evidence connecting the Ruth syndicate to the Psurlon operation.
 
 **A void-forged grimoire linked to the Nine Hells** — what Luckyluciano was trading a fake "moonstone pie" for when she was arrested. Presumably in evidence somewhere. From her backstory.

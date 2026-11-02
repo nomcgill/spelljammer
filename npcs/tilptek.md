@@ -6,21 +6,19 @@ Thri-kreen. A **clerk** behind the reception desk at the [Iron Annex](../locatio
 
 ## Status
 
-Alive, on the Rock of Bral, working the desk.
+Alive, on the Rock of Bral, **down to three arms**: Korran cut one off in Season 2, Session 3. He expects to be in the hospital.
 
 ## Appearance
 
 Matte black exoskeleton with hints of bronze, reflecting the lobby lights at weird insectoid angles. Nested in a seat fitted for chitinous physiology behind a curved alloy desk.
 
-All four hands are busy: one types Thri-kreen claw-code, one scrolls contract listings with a carved obsidian orb, one holds a ceramic mug labelled **"#1 Subordinate Drone"** full of a bubbling green liquid that smells faintly of sage and engine grease, and the fourth idly twiddles a metal triangular fidget spinner that hums airily. His mandibles twitch twice in what might be a smile.
+As first described, all four hands are busy: one types Thri-kreen claw-code, one scrolls contract listings with a carved obsidian orb, one holds a ceramic mug labelled **"#1 Subordinate Drone"** full of a bubbling green liquid that smells faintly of sage and engine grease, and the fourth idly twiddles a metal triangular fidget spinner that hums airily. His mandibles twitch twice in what might be a smile.
 
 ## The dangling question
 
 He's one of many: **almost all of the Annex is operated by Thri-kreen**. The boss is the exception: an **autognome**, **Director Tallyworth** (Nolan's ruling).
 
 **He and Lucy used to date.** Lucy made this canon at the table in Season 2, Session 2.
-
-**Planned for the fight (Session 3):** Tilptek stays impartial and tries to get the lights back on. *"Really, the lights* should *be on."*
 
 **Who is "the boss"?** Tilptek is a desk clerk relaying someone else's instructions. Whoever that is knew, within hours, both that Tamenik couldn't be scried and that Pip was a usable proxy. That's a third party with unusually good information, and they have not been named.
 
@@ -39,3 +37,13 @@ That is the extent of his role. The mothership threat came from [Alkgleb](alkgle
 ### Session 2
 
 The party walked into the Annex with plenty of swagger to work him for information, and found a Kenku already at his desk. Lucy, his ex, approached. When Megan walked in carrying Krysta's head, Tilptek told the Kenku: *"Your target has just entered the lobby." "Efficiency."* The Kenku cast Darkness, and **Tilptek kept typing.**
+
+### Session 3
+
+- **The protest:** when the Kenku started talking under Lucy's Suggestion, Tilptek protested: *"You're not supposed to share."*
+- **Old flames:** he called Lucy "babe" (*"We shared something special"*), and she shut him down.
+- **The intimidation:** Lucy pushed over his computer while Korran flourished blades on the counter. *"I'm not paid enough for this."*
+- **The arm:** he reached for a blue **"MANAGER"** button on the wall, and Korran's Mobile Flourish, a natural 20, **cut off one of his arms**. Purple blood.
+- **The client:** he gave up the client. *"That was him. He just left."* The man had been there five minutes before the party arrived and placed the contract. The Kenku picked it up after.
+- **The warning:** he told them not to go into the back: *"If the boss finds out he's gonna be pissed."*
+- **The date:** Lucy asked him out for Friday. *"I'm gonna be in the hospital."*

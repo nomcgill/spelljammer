@@ -16,4 +16,30 @@ At the [Pie Parlor](../locations/bral-pie-parlor.md) on the Rock of Bral, just a
 - **The fight:** in initiative, the whole party landed attacks.
 - **The Kenku's turn:** it went last, pulled off its glove, and **disintegrated itself** with the ring. It left only dust and the ring, which has **one charge remaining**. See [`items.md`](../items.md).
 
-**Who hired it** is unknown at the table. In planning, Nolan has it **contracted by the [Iron Annex](../locations/iron-annex.md)** It was a member of **The Unkindness**. **Its real target was Krysta's head, not Marfa** (Nolan's ruling). The players don't know this yet; the [Session 2 plan](../season2/session2-plan.md#what-the-players-dont-know) reveals it at the Annex.
+**Who hired it** is unknown at the table. In planning, Nolan has it **contracted by the [Iron Annex](../locations/iron-annex.md)** It was a member of **The Unkindness**. **Its real target was Krysta's head, not Marfa** (Nolan's ruling). The players learned it at the Annex in Session 3.
+
+## Session 3 — The Annex lobby
+
+At the [Iron Annex](../locations/iron-annex.md), continuing from Session 2's Darkness.
+
+| Creature | CR | Notes |
+| --- | --- | --- |
+| Kenku assassin ×1 (*Scritch*; name not said) | `[unconfirmed]` | Member of The Unkindness. Blind and blindfolded, echolocates. Two rings: **Darkness** and **Disintegrate** |
+
+**How it went:**
+- **The Darkness ends:** Lucy's Psychic Lance (24 psychic) incapacitated him and broke his concentration on the Darkness.
+- **The beating:** Megan bloodied him. Korran and Pip struck non-lethally.
+- **The surrender:** Lucy's Suggestion stopped the fight and made him answer questions.
+- **The rings:** Korran stole both with a Sleight of Hand of 29, so he never got to use Disintegrate.
+- **After:** left slumped in the lobby, he **hobbled out and got away** (Nolan; not said at the table).
+
+## Session 3 — The director's office
+
+| Creature | CR | Notes |
+| --- | --- | --- |
+| [Tino Fennetti](../npcs/tino-fennetti.md) (Giff) | `[unconfirmed]` | The plan gave him a Spy stat block. Stuck halfway out a window the whole fight |
+| [Gary](../npcs/gary.md) (Giff guard) | `[unconfirmed]` | Rifle and a **force grenade** (10 force each to Lucy, Pip and Megan) |
+
+**How it went:**
+- **Tino:** Korran's Faerie Fire outlined him. Pip's musket hit him for 12, and Megan's launched longsword blade hit him too. Lucy's grapple failed, but knocked a card from his coat. Korran stabbed him down non-lethally, and the party took him **barely conscious**.
+- **Gary:** he saved against Lucy's Suggestion, threw his grenade, and then asked to leave. He paid Pip off with a protein bar.

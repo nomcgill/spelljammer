@@ -10,6 +10,8 @@ The organisations in play. Every one of them has a personal claim on at least on
 
 **PC tie:** [Luckyluciano](player-characters/luckyluciano-ruth.md) is Babe and Marfa's daughter, ran the flagship parlor orbiting the Rock of Bral, and served as her father's personal warlock — Babe is her warlock patron. Her older sister [Bugsy](npcs/bugsy.md) is Babe's intended heir and doesn't want it. Bugsy's son [Jetson](npcs/jetson.md) is Lucy's nephew.
 
+**How Giffs dress:** like Winnie the Pooh, in **shirts and no pants**. This is canon from the table in Season 2, Session 3, and applies to Giffs generally, not just the Ruths.
+
 **House drink:** **Hawaiian Punch** is the primary drink at the Pie Parlors, their equivalent of Coca-Cola.
 
 **Family treasures:** Babe Ruth's legendary **Stromboli recipe** — the object of Nicole's pitched side quest (see [Luckyluciano](player-characters/luckyluciano-ruth.md#pitch-the-case-of-the-missing-stromboli)).
@@ -22,7 +24,7 @@ The organisations in play. Every one of them has a personal claim on at least on
 
 From Nicole's notes on Lucy. Neither has appeared at the table yet.
 
-- **The Joisey Jiffs** — the Ruths' oldest rivals. They're **soft-G** Giffs — "Jiffs" — as opposed to the **hard-G** Ruth Giffs. That pronunciation split is campaign homebrew, not published Giff lore. Nicole's pitch makes them the prime suspects in the stolen Stromboli recipe.
+- **The Joisey Jiffs** — the Ruths' oldest rivals. They're **soft-G** Giffs — "Jiffs" — as opposed to the **hard-G** Ruth Giffs. That pronunciation split is campaign homebrew, not published Giff lore. Nicole's pitch makes them the prime suspects in the stolen Stromboli recipe. In Season 2, Session 2, **Marfa told the party the Jiffs hadn't hired The Unkindness.**
 - **Astro Nommie's Slicehouse** — the Joisey Jiffs' pizza operation, and the rival to Babe Ruth's Galactic Pie Parlors.
 
 ## The Plasmoid Kingdom
@@ -51,7 +53,7 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 **Role:** contract brokerage on the [Rock of Bral](locations/iron-annex.md). It paged Kirrak within hours of the breakout and supplied the method for finding an unscryable target.
 
-**Assassins for hire:** the Annex is how **Kenku assassins** are hired on the Rock of Bral. The guild is called **The Unkindness** (a flock of ravens). They're hardcore: **every member wears a Disintegrate ring**, and they'll use it on themselves before they're taken. Each also carries **a second ring with its own spell**, so no two are alike. **Scritch**, a blind Kenku who echolocates, has Darkness as his second ring. Threats on Ruth lives aren't infrequent, and the family's first step is to check the Annex. Then they either **outpay whoever hired the contract** or apply the right **"pressure"** (Nolan, after Season 2 Session 1).
+**Assassins for hire:** the Annex is how **Kenku assassins** are hired on the Rock of Bral. The guild is called **The Unkindness** (a flock of ravens). They're hardcore: **every member wears a Disintegrate ring**, and they'll use it on themselves before they're taken. Each also carries **a second ring with its own spell**, so no two are alike. **Scritch**, a blind Kenku who echolocates, has Darkness as his second ring. **Once issued, the guild doesn't care what happens to the rings** (Nolan), so nobody comes looking for them. Threats on Ruth lives aren't infrequent, and the family's first step is to check the Annex. Then they either **outpay whoever hired the contract** or apply the right **"pressure"** (Nolan, after Season 2 Session 1).
 
 **The open thread:** Tilptek acts on instructions from **"the boss"**, who has never been named. That's the most interesting unexplained actor in the campaign — someone who knew within hours both that Tamenik couldn't be scried and that Pip was a usable proxy.
 
@@ -69,7 +71,7 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 **Role:** operate a [shipping hub](locations/psurlon-shipping-hub.md) inside the hollowed-out remains of a dead god. They trade in cargo, debts and favours — "Would you like to incur a debt?" — and are unmoved by intimidation.
 
-**Notable:** a **Psurlon Ringer** ate Megan's daughter [Krysta](npcs/krysta.md) and wore her. The real Krysta's body carried a **Pie Parlors IOU**, so the Psurlons and the Ruth syndicate are already doing business.
+**Notable:** a **Psurlon Ringer** ate Megan's daughter [Krysta](npcs/krysta.md) and wore her. The Ringer's body carried a **Pie Parlors IOU**, so the Psurlons and the Ruth syndicate are already doing business.
 
 **Standing with the party:** bad. The party killed several Psurlons escaping, took a Ringer's head, and left after spending a favour. Megan wants to fight them on sight, considering them inherently evil.
 

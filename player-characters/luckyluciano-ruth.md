@@ -97,6 +97,17 @@ The party's face and closer — the one whose name opens doors.
 
 - **Session 1.** At the Bral docks she told [Lawrence](../npcs/lawrence.md) the *Slice Runner* was **"property of the Ruth family,"** not specifically hers or her mother's. She **read her mother's intent** before anyone else: Marfa wanted to see whether the group could be persuaded, through an exchange, to help solve the **Case of the Missing Stromboli**. At her old flagship parlor, now [Bugsy's](../npcs/bugsy.md), she ordered a vegetarian pizza with anchovies. She shared the whole Season 1 story with Marfa and fought the Kenku assassin.
 - **Session 2.** Marfa spoke with her alone in the back room, which set off a [flashback](../season2/session-notes.md#lucy-and-marfa-and-lucys-flashback) to the moment her pact with Babe began (see above). The talk went warmly: Marfa said she was so glad to have Lucy back, since trust is hard to find in their business, and **hugged her**. Lucy took **Jetson** along to "learn the business" and led the way to the Iron Annex. There she made it canon that **she used to date [Tilptek](../npcs/tilptek.md)**. When the Kenku cast Darkness, **she was the only one who could see.**
+- **Session 3.**
+  - **The lobby fight:**
+    - She opened with **Psychic Lance**, which broke the Kenku's Darkness.
+    - She **saw Tino at the back door**, alone, and whispered "Saucepan." Nobody else saw him.
+    - With Megan wanting the Kenku alive, she **made him talk with Suggestion**.
+  - **Tilptek:** she intimidated him, knocked over his computer, and **asked him out for Friday** after Korran took his arm.
+  - **The back rooms:**
+    - She Eldritch Blasted the lounge's security camera and taught Jetson the family rules: *"Keep your trap shut, and don't leave evidence."*
+    - To Tilptek's warning about the boss: *"There's only one boss, and that's my father."*
+  - **The window:** her grapple on Tino failed, but she caught his coat and **knocked loose the Varrow & Daughters card**.
+- **Her spell names** (Nicole): **"Spicy Meatball"** is her Fireball, and **"Linguine of Fate"** her Psychic Lance.
 
 ## Threads on her
 
@@ -104,6 +115,6 @@ Her mother saved the party in Lucy's own seized ship, the *Slice Runner*. How Ma
 
 Her sister Bugsy is the heir who doesn't want the job, and Lucy wants it.
 
-The real Krysta's body, back at the Psurlon yard, carried a **Pie Parlors IOU** — the syndicate was already doing business with the Psurlons before the party ever arrived.
+The Ringer's body (in Krysta's form), back at the Psurlon yard, carried a **Pie Parlors IOU** — the syndicate was already doing business with the Psurlons before the party ever arrived.
 
-And Tino is still out there.
+And Tino is now in the party's hands, barely conscious (Season 2, Session 3).

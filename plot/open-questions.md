@@ -84,3 +84,13 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 - ~~**Lucy's flashback: envelope or folder?**~~ **Answered: the folder.** Same object.
 - ~~**The sibling names.**~~ **Answered:** the three are **Pip Jr.** (the eldest, now king), **Philip "Pip"** (the PC, always one L), and **Phillis**. The names are intentionally, sillily close.
 - **The Session 1 Kenku's personal ring.** Only the Disintegrate ring was found on it. Whether it had a second ring, and what happened to it, is `[unconfirmed]`.
+- ~~**Korran's crew from Marfa: six or seven?**~~ **Answered: six.** Nicole said seven in her Session 3 recap.
+
+## Open after Season 2, Session 3
+
+- **What became of Korran's mother.** Nolan is deliberately leaving it open, as a possible plot motivation.
+  - **What's known:** he never saw her again, and Gloamcast singled her out ("Not her").
+  - **Why Korran never looked:** he never tried hard to find her. Nolan's ideas are that he assumed she was fine, or that he was ashamed to return home. Why he didn't check in on her is **Brad's call**.
+  - **The "late mother" problem:** in Tamenik's fever dream, Gloamcast called her Korran's *late* mother. Does Korran believe she's dead, or did he hear that line and write it off?
+- **Who Varrow & Daughters is.** A placeholder the agent invented during Session 2 prep, not Brad's or Nolan's idea. The agent pitched a former quartermaster of a crew that sailed with the *Star-Reaver*. Nolan decides. Brad only needs asking if it touches his backstory's "partnered crews."
+- ~~**Does The Unkindness come for its rings?**~~ **Answered: no.** Once issued, it doesn't care about them. The Annex Kenku got away.

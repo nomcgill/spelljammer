@@ -71,7 +71,9 @@ The card holds two secrets:
 
 ### Who hired it
 
-*Proposed:* a former quartermaster of a pirate crew that **sailed in partnership with the *Star-Reaver***. They now run a respectable-looking **spice import house in Bral's docks**. Placeholder name: *Varrow & Daughters, Fine Spices*.
+**Superseded (Nolan, for Session 3):** **[Tino Fennetti](../npcs/tino-fennetti.md)** hired The Unkindness. He bought the route from the Psurlons himself, paying with a Ruth IOU, then sold the stolen mark to the buyer described below. That buyer is now the end client rather than the one who hired the Kenku. See the [Session 3 brainstorm](session3-brainstorm.md#the-face-at-the-back-door-nolans-opening-beat).
+
+*Original proposal:* a former quartermaster of a pirate crew that **sailed in partnership with the *Star-Reaver***. They now run a respectable-looking **spice import house in Bral's docks**. Placeholder name: *Varrow & Daughters, Fine Spices*.
 - **What they want:** they've wanted back into the Ral'taka Expanse for the gold, and the hoard, ever since the *Star-Reaver* vanished.
 - **How they got the route:** they bought it from the **Psurlons**. The Ringer that wore Krysta knew the route from her memories.
 - **What was missing:** the **grower's mark**, which only Babe's card has. So they hired the theft through the Annex.

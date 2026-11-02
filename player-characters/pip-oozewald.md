@@ -47,7 +47,7 @@ Darkvision 60 ft.
 ## Proficiencies and languages
 
 - **Armor:** light, medium, shields
-- **Weapons:** martial weapons, simple weapons. He fights with a **warhammer** (from Nolan's Season 2 notes; not on the sheet export).
+- **Weapons:** martial weapons, simple weapons. He carries a **warhammer**, a **scimitar** and a **musket** (Nolan, after Season 2 Session 3; none are on the sheet export). He fought with the scimitar, using the Nick property, and the musket in Session 3.
 - **Tools:** none
 - **Languages:** Common, Primordial
 
@@ -82,6 +82,10 @@ The front line, and the reason the enemy can find them.
 
 - **Session 1.** He gave his name at the docks; the party described themselves to Marfa as, among other things, "a prince." At the Pie Parlor he ordered a pile of random toppings, including pineapple, anchovies and mushrooms, put it all on the table, and **engulfed it with his whole body**. He shared the whole Season 1 story with [Marfa](../npcs/marfa-ruth.md) and fought the Kenku assassin.
 - **Session 2.** Pulling his bloodied warhammer away from the Kenku fight set off a [flashback](../season2/session-notes.md#pips-flashback) to the night his brother refused to give up the throne (see Background). Marfa offered him a real conversation about the Ruths backing **another coup attempt**. He waited at the parlor door for Lucy, then went with her to the Iron Annex.
+- **Session 3.** Drew had lost his voice, so Pip's lines were typed and read out.
+  - **The lobby:** he raged and struck the Kenku non-lethally with his scimitar. His read on the Kenku: *"Perhaps he's just telling the truth and is an idiot... like my sister Phillis, who sucks."*
+  - **The window:** in the director's office he shot Tino with his musket.
+  - **Gary:** he asked if he could eat Gary, the Giff guard, who tossed him a protein bar instead and left. Pip ate the protein bar.
 
 ## Threads on him
 

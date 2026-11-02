@@ -35,3 +35,10 @@ The party spent most of Sessions 3 through 6 hunting astral silk to bind the wou
 ### Session 1
 
 He came to Marfa's breakfast at the Pie Parlor, but she told him to "join his mother," [Bugsy](bugsy.md). He ate a **sausage and heavy cheese pizza** at the end of the bar while the party told Marfa their story.
+
+### Sessions 2 and 3
+
+- **Learning the business:** Lucy took him along to the [Iron Annex](../locations/iron-annex.md) to "learn the business." He's a **preteen**, shorter than Korran (from the table, Session 3).
+- **The fight:** Lucy told him to stay out of it.
+- **The rules:** in the back rooms she taught him the family rules: *"Keep your trap shut, and don't leave evidence."*
+- **Tino:** he didn't recognize Tino: *"I was seven, Aunt Lucy."*

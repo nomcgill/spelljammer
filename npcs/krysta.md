@@ -18,7 +18,11 @@ A Psurlon Ringer keeps the memories and languages of whoever it ate, permanently
 
 ## Loose ends
 
-Her **body**, left back at the container yard, had an **IOU from Babe Ruth's Galactic Pie Parlors** stuck to it. That connects the Psurlon operation directly to [Luckyluciano](../player-characters/luckyluciano-ruth.md)'s family, and Nolan flagged it twice as something to remember.
+The **Ringer's body** (in Krysta's form), left back at the container yard, had an **IOU from Babe Ruth's Galactic Pie Parlors** stuck to it. That connects the Psurlon operation directly to [Luckyluciano](../player-characters/luckyluciano-ruth.md)'s family, and Nolan flagged it twice as something to remember.
+
+**What the players don't know (decided for Session 3):** the IOU is how **[Tino Fennetti](tino-fennetti.md)** paid the Psurlons for the route into the Ral'taka Expanse. The Ringer was there for the deal, which is why Tino hired The Unkindness to destroy the head.
+
+**The real Krysta's body was never at the container yard** (Nolan). Where it is is `[unconfirmed]`.
 
 Nolan's prep question: what was the real Krysta's story, and how does it bleed into the Psurlon who ate her?
 

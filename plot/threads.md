@@ -1,6 +1,6 @@
 # Plot Threads
 
-Every thread the campaign has opened, with its status as of Season 2, Session 1. Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
+Every thread the campaign has opened, with its status as of Season 2, Session 3 (the Kenku and Tino threads; others as of Session 1). Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
 
 ## Open and pressing
 
@@ -11,9 +11,9 @@ Every thread the campaign has opened, with its status as of Season 2, Session 1.
 - **Nolan's plan:** it's solved by the end of Session 2 and sends the party to the Ral'taka Expanse. Krysta's head holds clues to the theft of the recipe's ingredient. Prep is in [`season2/session2-brainstorm.md`](../season2/session2-brainstorm.md).
 
 **The Kenku assassin** `(S2)`. A Kenku tried to dart the table the moment Marfa raised the Stromboli case. The dart hit Krysta's head, and the Kenku disintegrated itself with a ruby ring rather than be taken.
-- **Decided (players don't know yet):** it was after **Krysta's head**, not Marfa. The players learn this at the Iron Annex.
-- **Open:** who hired it.
-- **Nolan's plan:** the Iron Annex contracted it. The players don't know this. They'll probably need to go to the Annex to find out, since a lot of questionable contract work goes through it.
+- **Learned at the Annex (Session 3):** it was after **Krysta's head**, not Marfa. A second Kenku, collecting the reissued contract, said so under Suggestion.
+- **Learned at the Annex (Session 3):** **[Tino Fennetti](../npcs/tino-fennetti.md)** placed the contract, per Tilptek. The party caught Tino, barely conscious, with a ***Varrow & Daughters, Fine Spices*** card on him. Why he did it hasn't been played yet.
+- **The second Kenku** got away after the party left it in the lobby. Korran has both its rings and doesn't know what they do.
 
 **The ruby ring** `(S2)`. A homebrew **Ring of Disintegrate** with **one charge left**. The players don't know what it is yet, and whether they picked it up is `[unconfirmed]`. See [`items.md`](../items.md).
 
@@ -45,9 +45,9 @@ Every thread the campaign has opened, with its status as of Season 2, Session 1.
 
 **Gelp the plasmoid High Wizard** `(S1)`. Cast the Flesh to Stone that trapped Megan. Best wizard of Pip's **brother, King Pip Jr.** Unseen so far. Pip's separate cousin (who served the king through the coup) is also still unnamed.
 
-**Krysta's head** `(S1)`. The party is carrying the severed head of a Psurlon Ringer wearing the memories of Megan's daughter. Megan claimed Speak with Dead, but per Nolan he doesn't know it. Nolan's prep asks what Krysta's story was and how it bleeds into the Psurlon who ate her. Her body, back at the shipyard, had an IOU from Babe Ruth's Galactic Pie Parlors on it — connecting the Psurlons to Luckyluciano's family.
+**Krysta's head** `(S1)`. The party is carrying the severed head of a Psurlon Ringer wearing the memories of Megan's daughter. Megan claimed Speak with Dead, but per Nolan he doesn't know it. Nolan's prep asks what Krysta's story was and how it bleeds into the Psurlon who ate her. The Ringer's body, back at the shipyard, had an IOU from Babe Ruth's Galactic Pie Parlors on it — connecting the Psurlons to Luckyluciano's family.
 
-**The Ruth Syndicate** `(S1)`. Luckyluciano's imprisonment came out of the Crustfall Conspiracy, a sting that broke open the family's pizza-parlor money laundering. Her cousin Tino "The Saucepan" Fennetti flipped and named her. Her ship, the *Slice Runner*, was found adrift full of Infernal runes. Tino is still out there.
+**The Ruth Syndicate** `(S1)`. Luckyluciano's imprisonment came out of the Crustfall Conspiracy, a sting that broke open the family's pizza-parlor money laundering. Her cousin Tino "The Saucepan" Fennetti flipped and named her. Her ship, the *Slice Runner*, was found adrift full of Infernal runes. Tino is now in the party's hands (Season 2, Session 3).
 
 **Pip's diamond stomach** `(S1)`. He is carrying 100,000 gp of diamonds internally. Some went into the Hyperdrive Core. The Chwinga finds this hilarious.
 

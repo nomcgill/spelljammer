@@ -18,6 +18,8 @@ Plasmoids attacked his kingdom of Thorndumm. A plasmoid High Wizard named [Gelp]
 
 He has never been on a spaceship before.
 
+**He can't read Common** (Nolan, Season 2 Session 3). He never had to: he was raised as a warrior despite being royalty, because where he comes from, strength in arms is respected far more than learning.
+
 ## Open threads
 
 He wanted to fight the Psurlons on sight, on the grounds that they are inherently evil.
@@ -25,6 +27,8 @@ He wanted to fight the Psurlons on sight, on the grounds that they are inherentl
 His own daughter Krysta had been eaten and replaced by a Psurlon Ringer, and the party killed it and kept the head. Whether he knows this, and what he does about it, is unresolved.
 
 **His first priority** (Nolan): getting **home to help in the war between the Red Lions and the Brown Lions**. He doesn't know how it's going. How that war relates to the plasmoid attack on Thorndumm is `[unconfirmed]`.
+
+**Planned for Session 3:** after the temple's Speak with Dead, he leaves the party to find his way home, **keeping Krysta's head.**
 
 **What the players don't know:** he returns later, in the Ral'taka Expanse.
 
@@ -56,3 +60,11 @@ He is also carrying, or was offered as an option, a **unicorn horn** — an alte
 - He followed Korran to the dock and asked for advice on getting home. Korran told him to give up; **Megan said he would not.**
 - He asked where to find a **religious establishment that could cast Speak with Dead** on Krysta's head. Korran's History roll pointed him to **the nearest temple** (nondescript), and **Megan left the party with Krysta's head**. 
 - Later he **walked into the Iron Annex** behind the party, still carrying the head, to ask them for **money to pay the temple** for Speak with Dead. Tilptek pointed him out to the Kenku as the target, and the Kenku cast Darkness. The session ended there.
+
+### Session 3
+
+- **The lobby:** he charged the Kenku with *"Not my allies!"* and bloodied it. Asked by Lucy whether to kill it or question it, he wanted it **alive**, because he had questions.
+- **Tino:** he followed the party into the back, holding Krysta's head tight. At the window he **launched his longsword's blade** into the fleeing Tino. The blade reattaches by magic, per Xenk Yendar's stat block.
+- **Gary's grenade** hit him for 10 force.
+- **The card:** he picked up the card that fell from Tino's coat, but **couldn't read it**.
+- **Still with the party, and still carrying the head.** The temple and his goodbye haven't been played yet.

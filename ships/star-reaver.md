@@ -1,6 +1,6 @@
 # The Star-Reaver
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2 (in flashback)
 
 The pirate ship that destroyed [Korran](../player-characters/korran-cloudjumper.md)'s homeland, then became his home, then became his victim.
 
@@ -10,7 +10,7 @@ An ancient ship, converted into a **squid ship**, whose **hull was built from th
 
 ## History
 
-Under [Captain Gloamcast](../npcs/gloamcast.md), the *Star-Reaver* raided the [Ral'taka Expanse](../locations/raltaka-expanse.md) for its gold and took Hadozee slaves, Korran among them. Korran earned the crew's respect by fighting and killing another Hadozee slave, was recruited into the pirate life, and took the name **Driftblade** for his brutal but swift fighting style.
+Under [Captain Gloamcast](../npcs/gloamcast.md), the *Star-Reaver* raided the [Ral'taka Expanse](../locations/raltaka-expanse.md) for its gold and took Hadozee slaves, Korran among them. Korran's flashback in Season 2, Session 3 showed the raid: the *Star-Reaver* hung over the canopy with **several other pirate ships**, and the pirates simply took ten-year-old Korran aboard. Korran earned the crew's respect by fighting and killing another Hadozee slave, was recruited into the pirate life, and took the name **Driftblade** for his brutal but swift fighting style.
 
 He went on several raids with them. Then he **betrayed and killed the entire original crew, one by one, as revenge for the plundering of his homeland**, and escaped without leaving a trace.
 

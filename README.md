@@ -19,7 +19,7 @@ Season 1 ran seven sessions. The party escaped Warden's Maw and spent the whole 
 
 Season 2 is under way, and its main plot driver is **Korran's past**. Matt isn't playing, so the party is **Korran (Brad), Luckyluciano (Nicole) and Pip (Drew)**. Tamenik went home to Freelin Corporation in Session 1.
 
-In Session 1 the party docked on Bral and told Marfa Ruth their whole story over breakfast. When she asked for help with **the Case of the Missing Stromboli**, a Kenku assassin attacked and then disintegrated itself. Session 2 prep is in [`season2/session2-brainstorm.md`](season2/session2-brainstorm.md). Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
+In Session 1 the party docked on Bral and told Marfa Ruth their whole story over breakfast. When she asked for help with **the Case of the Missing Stromboli**, a Kenku assassin attacked and then disintegrated itself. Season 2 is being logged session by session in [`season2/session-notes.md`](season2/session-notes.md). Sessions are also recorded and transcribed in [`transcripts/`](transcripts/), starting with Season 2, Session 3. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
 
 ## Setting and rules
 
@@ -44,6 +44,7 @@ The agent also cannot read the book's text — it is behind a paywall — so it 
 | [`house-rules.md`](house-rules.md) | Homebrew: hyperspeed, Blackstar Fever, ship combat, creature reskins |
 | [`season1/`](season1/) | Session notes, opening prompt, and Session 0 recap |
 | [`season2/`](season2/) | Season 2 [session notes](season2/session-notes.md), plus per-session plans and brainstorms |
+| [`transcripts/`](transcripts/) | Raw audio transcriptions of sessions, one folder per season, each with a readable summary beside it |
 
 Original source material lives in Google Docs and is linked from the files that draw on it — the [main session notes doc](https://docs.google.com/document/d/18MwI1hvspOiyi9dtMP8RiN7W1wXKQThmwJ8ilMqnvCg/edit) and three per-character backstory docs.
 

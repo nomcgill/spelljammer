@@ -31,14 +31,12 @@ The tone is corporate-brutalist — a bureaucracy of contract killing and retrie
 
 **Where Bral hires its Kenku assassins.** Contracts with the Kenku guild, **The Unkindness**, go through the Annex. To lift a contract, you **outpay whoever placed it**, or apply the right **"pressure."** Threats on Ruth lives aren't infrequent, and checking the Annex is the family's usual first step (Nolan).
 
-**Planned for Season 2 (Nolan; the players don't know yet):** the Annex contracted the **Kenku assassin** who attacked Marfa's table at the [Pie Parlor](bral-pie-parlor.md) in Session 1. To find out who hired it, the party will probably need to come here. **When they visit, there will be combat** (Nolan):
-- **The trigger:** the party walks in on a fresh Kenku collecting the **reissued contract**.
-- **The Darkness:** the Kenku, **Scritch**, is blind, wears a blindfold, and "sees" by echolocation. He fills the lobby with Darkness from one of his two rings. The other is Disintegrate.
-- **The reveal:** he attacks the moment he sees Krysta's head, which tells the party the head was the target, not Marfa.
-- **Tilptek** spends the fight trying to get the lights back on, impartial to everyone.
-- **The chase:** the client's agent, there to raise the fee, flees out the back, and the fight follows.
+**What the players don't know:** the Kenku they fought in Session 3 is **Scritch**. He's blind, wears a blindfold, and "sees" by echolocation. His second ring is Darkness. His name hasn't been said at the table.
 
-Full run sheet in the [Session 2 plan](../season2/session2-plan.md#4-the-iron-annex).
+**The layout behind the desk** (Session 3):
+- **A map room** with a glowing map of the Rock of Bral, and a monitor showing the lobby.
+- **A lounge** with couches and a security camera covering the lobby. Lucy destroyed the camera.
+- **The director's office:** a big desk, and a window whose crank sticks half open.
 
 ## Season 1
 
@@ -57,3 +55,15 @@ The plan that came out of it: scry Pip, follow Pip to Tamenik, and buy Kirrak a 
 ### Session 2
 
 The party's first visit in person: Lucy, Korran, Pip and Jetson walked in with swagger, looking to work [Tilptek](../npcs/tilptek.md) for information. A Kenku was already at the desk. Megan followed them in carrying Krysta's head, and Tilptek told the Kenku its target had arrived. The Kenku cast **Darkness** over the lobby, and the session ended there. Full log in the [session notes](../season2/session-notes.md#the-iron-annex).
+
+### Session 3
+
+- **The lobby fight:**
+  - Lucy's Psychic Lance broke the Darkness, and the party beat the Kenku down non-lethally.
+  - Korran took **both of its rings**.
+  - Under Suggestion, the Kenku said its target was **the head**, to be "eradicated," and that it was hired "just now" by "an anonymous source." Left in the lobby, it **hobbled out and got away**.
+- **Tilptek:**
+  - He lost **an arm** to Korran when he reached for the **"MANAGER"** button.
+  - He confirmed the client had placed the contract five minutes before the party arrived.
+- **The back rooms:** the party pushed through to the director's office. **Tino Fennetti** was trying to escape out the window, with his Giff guard [Gary](../npcs/gary.md) covering him. They caught Tino and found a ***Varrow & Daughters, Fine Spices*** card on him.
+- **Director Tallyworth** hasn't been seen or heard yet. Log in the [session notes](../season2/session-notes.md#session-3).

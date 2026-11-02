@@ -65,7 +65,15 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 - The party might need to **re-register Korran's stolen ship** so the plasmoids can't follow it so easily. Filed as a Session 1 option in the [Session 1 brainstorm](../season2/session1-brainstorm.md#why-the-party-is-at-the-iron-annex).
 - **Extracting memories from [Krysta](../npcs/krysta.md)'s head.** The head holds extractable memories of how she was killed, and the party tries to get that knowledge out of it. Megan had the head when Marfa beamed everyone out.
 
+**Decided for Session 3:** **[Tino Fennetti](../npcs/tino-fennetti.md) hired The Unkindness.** He's the middleman who stole the grower's mark and sold it to a buyer already in the Ral'taka Expanse. He first appears at the Annex's back door, seen only by Lucy. Details are in the [Session 3 brainstorm](../season2/session3-brainstorm.md#the-face-at-the-back-door-nolans-opening-beat). The run sheet is [`season2/session3-plan.md`](../season2/session3-plan.md).
+
+**Resources Nolan has ready:**
+
+- **A map of every room in the Iron Annex**, for extended combat or exploration. Ideas for using it are in the [Session 3 brainstorm](../season2/session3-brainstorm.md#using-your-iron-annex-map).
+
 **From the players:**
+
+- **A beach episode** (Nicole and Brad, Session 3 table talk): a stop at the "Astral Shore," or the **"Joisey Shore,"** a Jersey Shore riff on the Joisey Jiffs.
 
 - Nicole's pitch for Lucy: [The Case of the Missing Stromboli](../player-characters/luckyluciano-ruth.md#pitch-the-case-of-the-missing-stromboli).
 

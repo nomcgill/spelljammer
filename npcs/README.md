@@ -1,6 +1,6 @@
 # NPCs
 
-One file per named NPC. Status is as of Season 2, Session 1.
+One file per named NPC. Status is as of Season 2, Session 3.
 
 **Carries forward?** says whether an NPC is expected to return in later seasons: `Yes`, `Season 1 only`, or `Undecided` (Nolan hasn't said yet).
 
@@ -27,9 +27,10 @@ One file per named NPC. Status is as of Season 2, Session 1.
 | [Lawrence](lawrence.md) | Giff dock officer on Bral | On duty at the docks | Undecided |
 | [Babe Ruth](babe-ruth.md) | Pizza prince, syndicate head, Lucy's warlock patron | Offscreen | Yes |
 | [Bugsy](bugsy.md) | Lucy's older sister, Jetson's mother, Babe's reluctant heir | Runs the reopened Bral flagship Pie Parlor; first appeared Season 2, Session 1 | Yes |
-| [Tilptek](tilptek.md) | Thri-kreen desk clerk at the Iron Annex | On the Rock of Bral | Yes |
+| [Tilptek](tilptek.md) | Thri-kreen desk clerk at the Iron Annex | On the Rock of Bral; lost an arm to Korran (Season 2, Session 3) | Yes |
 | [Gelp](gelp.md) | King's High Wizard; petrified Megan | Offscreen | Yes |
-| [Tino Fennetti](tino-fennetti.md) | The cousin who informed on Luckyluciano | Offscreen | Yes |
+| [Tino Fennetti](tino-fennetti.md) | The cousin who informed on Luckyluciano; hired the Kenku | Captured by the party at the Iron Annex, barely conscious (Season 2, Session 3) | Yes |
+| [Gary](gary.md) | Giff guard with a rifle, working for Tino | Walked away from the Annex (Season 2, Session 3) | Undecided |
 
 ## Whereabouts unknown
 
@@ -38,6 +39,7 @@ One file per named NPC. Status is as of Season 2, Session 1.
 | [The Chwinga](chwinga.md) | Time-stopping trickster | Last seen hiding aboard the Damselfly; what happened to it is unknown | Yes |
 | [Gu](gu.md) | Plasmoid "vice president" | Survived the balcony blast; last seen tackling Aryndac into the Astral Sea | Season 1 only |
 | [A.R.I.A.](aria.md) | The Damselfly's intelligence | Offline; left behind with the Damselfly | Season 1 only |
+| Kenku assassin at the Annex (name not yet said) | The Unkindness assassin who took the reissued contract | Questioned and left in the lobby; hobbled away (Season 2, Session 3). See [Season 2 encounters](../bestiary/season2-encounters.md) | Undecided |
 
 ## Dead
 

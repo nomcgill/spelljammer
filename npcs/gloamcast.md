@@ -1,6 +1,6 @@
 # Captain Gloamcast
 
-**Appears in:** Season 1
+**Appears in:** Season 1, Season 2 (in flashback)
 
 Old Hadozee. Former captain of the [*Star-Reaver*](../ships/star-reaver.md). Dead, and still moving the plot.
 
@@ -35,3 +35,13 @@ On the map, referring to [Korran](../player-characters/korran-cloudjumper.md):
 > "If he's having trouble with my half of the map, tell him that he's reading it wrong. He always took the Cant too literally. Tell him that the cipher is his late mother's birthday. I always had a thing for her."
 >
 > "That treasure belongs to the crew of the *Star-Reaver*, and he's the only one left after this."
+
+## Season 2
+
+### Session 3 (Korran's flashback)
+
+He appeared, younger and alive, in Korran's [flashback](../season2/session-notes.md#opening-korrans-flashback) of the raid on the Cloudjumper Tribe:
+- **The landing:** he glided down from the *Star-Reaver*, and his pirates went quiet.
+- **Korran's mother:** he looked at her for a long moment, then ordered: *"The gold. And any who'll fetch a price. Not her."*
+- **Korran:** when ten-year-old Korran ran out to protect her and bit one of his Hadozee, **there was no deal**. Nolan first narrated one, then retconned it. The pirates simply took Korran aboard the *Star-Reaver*.
+- **The mother:** Korran never saw her again. What Gloamcast's "not her" meant for her fate is `[unconfirmed]`.

@@ -52,6 +52,14 @@ Born to a primal Hadozee tribe — the **Cloudjumper Tribe** of the [Ral'taka Ex
 
 Pirates out of the Astral Sea plundered the plane for its gold and took several Hadozee as slaves. Their ship was the [*Star-Reaver*](../ships/star-reaver.md), hull built from a dead god's ribcage, a skull at the bow. Korran was among the captives.
 
+**The day the pirates came** (played as a flashback in Season 2, Session 3):
+- **His age:** Korran was about **10 in human years**.
+- **The raid:** the *Star-Reaver* came with several other pirate ships, crewed by Hadozee and races he'd never seen.
+- **Gold:** in his tribe's home, gold is plentiful enough to be **a building material**. His mother taught him it's part of their tradition, **how their people honor the land.**
+- **What he did:** he hid and cried, then ran out to protect his mother when [Gloamcast](../npcs/gloamcast.md) had her taken away, biting and fighting a Hadozee beside the captain.
+- **Taken:** there was no deal. **The pirates simply took him** aboard the *Star-Reaver*.
+- **His mother:** **he never saw her again**, and doesn't know what became of her or his people.
+
 He earned the crew's respect **by fighting and killing another Hadozee slave**, and was recruited into the pirate life. He took the name **Driftblade** for a fighting style that was brutal but swift.
 
 Then he betrayed them. He killed the original crew **one by one**, as revenge for the plundering of his homeland, and escaped without leaving a trace. Years of bouncing between pirate crews for gold and glory followed, until his latest crew was ambushed and captured by a githyanki patrol — which is how he ended up in [Warden's Maw](../locations/wardens-maw.md).
@@ -72,10 +80,18 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
 - **Session 2.** Marfa offered him a **crew of 6** for the Shrike's upcoming journey. He went to check on the Shrike (all fine), and on the way told Megan to give up on getting home. His **History** roll pointed Megan to the nearest temple, to get Speak with Dead cast on Krysta's head. He then joined Lucy, Pip and Jetson heading to the Iron Annex.
 - **His account to Marfa:** he was captured after a few **failed raids on Githyanki outposts**. Some raids succeeded, but the crew bit off more than it could chew, and he was sent to Warden's Maw for **petty revenge**. Nolan calls this an "overall partial truth." It fits with, and adds to, the backstory's "ambushed and captured by a githyanki patrol."
 - **The fight:** he was the **only one to spot the Kenku assassin** by the exit. He threw a dagger and missed, which bought Megan the moment to block the dart with Krysta's head.
+- **Session 3.**
+  - **The flashback:** the session opened on his [flashback](../season2/session-notes.md#opening-korrans-flashback) to the raid (see Background).
+  - **The Annex lobby:** he fought the Kenku non-lethally, then **slid both of its rings off with a Sleight of Hand of 29** and pocketed them. **He doesn't know what they do.**
+  - **Tilptek:** he helped Lucy intimidate Tilptek by flourishing his blades on the counter. When Tilptek went for the "MANAGER" button, Korran's **Mobile Flourish (a natural 20) cut off one of his arms**.
+  - **The window:** in the director's office his Faerie Fire outlined Tino, and he stabbed Tino down non-lethally.
+  - **The card:** his Perception of 22 caught the smell of **gold-dusted pepper**, his childhood, on the Varrow & Daughters card.
 
 ## Threads on him
 
 The captain called him "the only one left" of the *Star-Reaver*'s crew — true, because Korran killed the rest, and the captain does not appear to know it. Korran hasn't told the party either.
+
+**His mother** is an open question and a possible plot motivation (Nolan). He never saw her again after the raid, and he never tried very hard to find her. Maybe he assumed she was fine, or he was ashamed to go home. Why he never checked on her is Brad's call.
 
 His own backstory raises two more: some of the original or partnered crews **may still be alive and want him dead**, and where the *Star-Reaver* is now is unanswered.
 
