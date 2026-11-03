@@ -21,7 +21,7 @@ The tone is corporate-brutalist — a bureaucracy of contract killing and retrie
 
 ## Who runs it
 
-**Almost the entire Annex is operated by Thri-kreen**, from the front desk down (Nolan's ruling). The one exception is **the head honcho, "the boss," an autognome**. His name is **Director Tallyworth**. The players haven't met him or learned his name yet.
+**Almost the entire Annex is operated by Thri-kreen**, from the front desk down (Nolan's ruling). The one exception is **the head honcho, "the boss," an autognome**. His name is **Director Tallyworth**. The party heard him over the intercom in Season 2, Session 4, and now know the name. They still haven't seen him.
 
 **The Kenku assassins** hired through the Annex each carry **two rings**. Every one of them wears a **Disintegrate** ring, so none of them can be taken alive. The second ring holds a spell **different for each Kenku**, which makes every one of them unique. The guild is called **The Unkindness**.
 
@@ -67,3 +67,11 @@ The party's first visit in person: Lucy, Korran, Pip and Jetson walked in with s
   - He confirmed the client had placed the contract five minutes before the party arrived.
 - **The back rooms:** the party pushed through to the director's office. **Tino Fennetti** was trying to escape out the window, with his Giff guard [Gary](../npcs/gary.md) covering him. They caught Tino and found a ***Varrow & Daughters, Fine Spices*** card on him.
 - **Director Tallyworth** hasn't been seen or heard yet. Log in the [session notes](../season2/session-notes.md#session-3).
+
+### Session 4
+
+- **Tallyworth** spoke over the office intercom: *"This is Director Tallyworth. Results... are pending."* A camera sat beside the speaker. Korran shot it. Lucy Eldritch Blasted another in the lobby. Cameras in other rooms kept watching.
+- **The invoice** reached **76,225 gp**, billed to the **Fennetti family**. Korran left with the group out the front, still disguised as Tino; Tallyworth saw through it on the other cameras.
+- **Lucy:** Tallyworth did not recognize her as a Ruth. She's been in prison, so **the Annex doesn't currently have her face in the system**. She named the family lawyer, [Frankie "the Gasman"](../npcs/frankie-the-gasman.md).
+- **The long hook:** *"Do give my regards to the Prince. We have found him very... easy to locate."* Help is available if Pip can afford it.
+- **Tilptek's chair was empty** on the way out. Log in the [session notes](../season2/session-notes.md#session-4).

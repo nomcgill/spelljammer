@@ -53,7 +53,7 @@ The Season 1 recap took the form of the party telling Marfa their story. **They 
 - Was the assassin after Marfa or Krysta's head?
 - Who hired it?
 - What did the poison do to the head?
-- Did anyone pick up the ring? `[unconfirmed]`
+- ~~Did anyone pick up the ring?~~ **Yes.** Korran had it, and sold it empty for 1 gp in Session 4.
 
 ---
 
@@ -108,7 +108,8 @@ Then the party split:
 
 ### Lucy and Marfa, and Lucy's flashback
 
-- In the back room, Lucy talked with her mother, and had a **flashback to her father when she was a child.** Nolan: "very heartwarming."
+- In the back room, **Marfa showed Lucy Babe's empty folder**, the one the Stromboli recipe card was stolen from (Nolan, confirmed after Session 3).
+- Lucy talked with her mother, and had a **flashback to her father when she was a child.** Nolan: "very heartwarming."
   - Babe told her she was **too young to learn the family's secrets**. He was protecting her from all of that.
   - He **tapped her on the head with the folder holding the Stromboli recipe**. She was too small to see the recipe itself.
   - **That moment was when Lucy entered her warlock pact with her father**, which is how her powers began. (Babe as her patron was already canon. This is new: how and when the pact started.)
@@ -219,11 +220,108 @@ Nolan read the plan's [raid script](session3-plan.md#the-raid-improvised) with c
 - **Lucy's spell names:** "Spicy Meatball" is her Fireball, and "Linguine of Fate" her Psychic Lance.
 - **Jetson is a preteen**, shorter than Korran.
 
-### Where Session 4 picks up
+### Where Session 4 picked up
 
-In the Iron Annex director's office, with Tino barely conscious in the party's hands and the Varrow card found. Planned but **not yet played**:
-- **Director Tallyworth's line** over the speaker. It didn't come up in Session 3.
-- **Tino's confession** and Lucy deciding his fate, then **Marfa's scene** ([plan](session3-plan.md#5-tino)).
-- **The temple** and **Megan's goodbye**.
-- **Closing the case:** the spice house and the DAV.
-- **The launch.**
+In the Iron Annex director's office, with Tino barely conscious in the party's hands and the Varrow card found. Session 4 played Tallyworth, Tino's confession, the temple, Megan's goodbye, and the start of the warehouse. **Not reached:** Marfa settling Pip's price, the DAV, boarding the Shrike, or Korran unfurling the chart.
+
+---
+
+## Session 4
+
+Played Monday, November 2, 2026. Plan: [`session4-plan.md`](session4-plan.md). The session was recorded. The raw transcript and a fuller blow-by-blow are in [`transcripts/season2/`](../transcripts/season2/session4-summary.md).
+
+**At the table:** Nicole, Brad and Drew. Drew had his voice back.
+
+The session covered the plan's scenes 1, 2, 4 and the start of 5a. It **did not reach** Marfa's deal, the DAV, or boarding the Shrike. It ended inside the Varrow & Daughters warehouse.
+
+### Opening: Tallyworth
+
+- **The voice:** *"This is Director Tallyworth. Results... are pending."* A **security camera** sat beside the speaker. The party now knows his name.
+- **Korran** shot that office camera with a crossbow (no roll) and rolled **Perception 21**: no other cameras in the room.
+- **The invoice** rose to **26,225 gp**, then **+50,000** (to leave with Tino) for **76,225 gp**.
+- **Lucy** named the family and Tino as a Fennetti, and told Tallyworth to contact her lawyer, **[Frankie "the Gasman"](../npcs/frankie-the-gasman.md)**. Her **Persuasion 7** failed. Tallyworth asked for **proof she's a Ruth** and said the Annex does not recognize her. After the session (Nolan): she's been in prison, so **the Annex doesn't currently have her face in the system as a Ruth**.
+- **Korran** cast **Disguise Self as Tino**. They carried the real Tino out the front, Weekend-at-Bernie's style. **Korran left with the group out the front door, still disguised as Tino.** Megan helped; Jetson watched, excited.
+- **Tino** is Lucy's **cousin on dad's side** (Nicole).
+- **The lobby:** empty, **Tilptek's chair empty**. Lucy Eldritch Blasted a lobby camera.
+- **The long hook:** Tallyworth, from an intercom: *"Do give my regards to the Prince. We have found him very... easy to locate."* Then: the Annex is happy to discuss the Prince's situation **if he can afford them**. Pip announced himself as the plasmoid prince and pitched a **noble rebellion**. The others cut him off.
+- **On the way out:** disguised as Tino, Korran told a remaining camera to bill the damage to him. *"We have taken note."*
+- **After the session (Nolan):** the disguise **didn't work**. Through the cameras in the other rooms, Tallyworth saw they were impersonating Tino. The **76,225 gp is billed to the Fennetti family**.
+
+### The Pie Parlor basement
+
+- On the street, nobody cared they were carrying a Giff. An off-duty officer walked past.
+- They took Tino to the Pie Parlor back room and basement. **Marfa wasn't there.** Jetson asked **[Sandra](../npcs/sandra.md)** behind the bar; she's not at this location.
+- Lucy and Korran chained Tino (19 and 17). Something **clinked** in his pocket.
+- **Korran** pickpocketed **3 gp** and **a jar of gold-dusted peppers**. He recognized the smell from the Varrow card and from home, **pocketed the jar**, flicked two coins to the others, and kept one. Lucy later gave those two coins back to Tino.
+
+### Tino talks
+
+He woke up afraid of a **Beholder**, offered money, and wouldn't say where it is.
+
+- **The toes:** Lucy bibbed Pip with a napkin, fork and knife. Joint Intimidation with advantage, then Lucy added a d10, for **26**. Pip started absorbing Tino's toes. Where the d10 came from doesn't matter (Nolan).
+- **What he said** (and Nolan confirmed after):
+  - Krysta *"was the only one that saw that I did a deal"* while she was still her. **Tino knew she had witnessed him making the deal on a spaceship**, and he told the party that.
+  - He paid the **Psurlons** with a **Ruth/Fennetti IOU**. He no longer had a family tie, and was **deceiving them** that he was still good for it. That's how he got **the merchant route within the Ral'taka Expanse**.
+  - He meant to use the route and the mark himself. **Varrow found out and paid more than it was worth** to Tino, so he sold both as a bundle.
+  - It wasn't the recipe. It was **the grower's mark** Babe drew at the bottom.
+  - **Varrow & Daughters** have a warehouse by the docks, at the card's address.
+  - He wanted the head for its memories, not because Krysta was Megan's daughter.
+- **Insight:** Pip rolled a **natural 1**. They couldn't tell how much was performance.
+- **Decision 1: they let him go.** Lucy gave him the two gold back for "the bus home," told him not to forget their generosity, and corrected "Lucy" to **Luckyluciano**. Tino ran out the back door. Pip was disgusted by his own behavior.
+
+### Short rest, the artificer, and Jetson
+
+- Everyone took a **short rest** at the Pie Parlor over a free slice of pie.
+- **Korran** found an unnamed **Loxodon artificer**, eight feet tall, in robes.
+  - The Loxodon identified an Unkindness **Ring of Disintegrate** for free: **one charge left**. It does not have to be aimed at yourself. He can't recharge it.
+  - **The Session 1 Kenku's ring** (empty, zero charges) was **sold for 1 gp**.
+  - The other Annex ring is **Darkness, one charge**. Korran later gave it to **Pip** at the warehouse door.
+- **Jetson:** Lucy invited him to the warehouse. **Bugsy didn't let him go** after he bragged. Nolan added: Jetson stole the family's *DiceGunner* to break the party out of Warden's Maw, there and back with a broken hyperspace drive, then lost the ship. **Repercussions not yet covered.** Brad's secret goal is to turn him into a pirate someday.
+
+### The temple of Mastercat
+
+Bral isn't a religious city, but there are a few temples. The table supplied **Mastercat**, a real 5e god (Nolan). A five-foot copper cat head hangs behind the altar.
+
+- **Lucy paid 2 gp** for Speak with Dead. Megan asked all five questions. **Korran hid behind a pillar.**
+  1. **"How did Krysta die?"** Krysta: *"I trusted it."* Then a colder voice: *"She tasted of lions."*
+  2. **"How are the Brown Lions doing on the war front?"** Krysta: they were **at the gates when she left**.
+  3. **"What is the route into the Expanse?"** **Only the Psurlon's voice:** *"Through the gold. Follow the warm current, until the islands."* After the session (Nolan): **the Psurlon that ate Krysta knew the route.**
+  4. **"Who is Varrow?"** *"I don't know. The one with the daughters. They smell of..."*
+  5. **"Did you love me?"** Krysta: *"I loved you with all my heart, Father."* Megan fell to his knees.
+- Lucy promised regular donations in the Ruths' name. **Drop that as a hook** (Nolan).
+
+### Megan's goodbye
+
+He kept the head, wrapped in **his own jacket**. *"It is not my daughter, but it was the last thing that saw her."* He'll **earn his keep on a ship** and find someone who knows where home is. From what has been described of the Expanse, he doesn't believe Thorndumm is there.
+
+- To Korran: *"My debt to you stands, Hadozee. If you see me again, I still owe you."*
+- To Lucy: the pizza was very good. He will remember.
+- To Pip: **no debt**. Pip asked him to show up for the rebellion; Megan refused.
+- **What the players don't know:** he comes back later, in the Ral'taka Expanse.
+
+### The warehouse
+
+- Closed up, padlocks, no cameras. Guards patrol several warehouses in the area, not this one specifically.
+- Korran picked the **back door** on a **17** (first pick broke, second worked).
+- Inside: almost pitch black, not dusty, someone has been here recently. Korran: Perception 10, good Stealth.
+- As he beckoned the others in, a **giant machine** groaned into motion **15 feet around a corner**, metal grinding, reaching up toward the ceiling. Korran has no darkvision and couldn't see what it was. After the session (Nolan): **undecided** what it is. Might be the giant space hamster, a pepper-processing machine, a fight, or only a scare.
+
+**The session ended there.** Next session is **November 9**. Someone is out on **November 16**.
+
+### New canon from the table, confirmed after
+
+- The **Ral'taka Expanse** is a Wildspace system, a pocket in the Astral Sea. **Easy to find; the merchant routes inside it are not.** The sold route is one of those inner routes.
+- **Mastercat** is a real 5e god, and canonical here.
+- How **plasmoids reproduce** is left a mystery.
+- **Tino knew** Krysta witnessed the deal.
+- The **Fennetti family** owes the Annex **76,225 gp**.
+- **Frankie "the Gasman"** is the family's lawyer.
+- The Annex doesn't have Lucy's face in the system as a Ruth, because she's been in prison.
+
+### Where Session 5 picks up
+
+Inside the dark Varrow & Daughters warehouse, with a machine grinding around a corner. What the machine is is **undecided**. Draft for the rest of the warehouse: a second-story **foreman's office** with a photo of [Varrow](../npcs/varrow.md) and his daughters. Planned in Session 4 but **not yet played**:
+- Finishing the warehouse.
+- **Marfa's scene** and Pip's price for Ruth backing.
+- The **DAV** and naming the Shrike.
+- **Boarding** and Korran unfurling the chart.

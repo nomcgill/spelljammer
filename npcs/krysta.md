@@ -6,7 +6,7 @@ Presented herself as [Megan Forthfang](megan-forthfang.md)'s daughter, a female 
 
 ## Status
 
-**Dead.** The party killed her escaping the hub and took her head with them. Megan still had the head when Marfa beamed everyone off the Damselfly.
+**Dead.** The party killed her escaping the hub and took her head with them. In Season 2, Session 4, [Megan](megan-forthfang.md) had Speak with Dead cast on the head at a temple of Mastercat, then **left the party still carrying it**.
 
 ## Why the head matters
 
@@ -20,7 +20,19 @@ A Psurlon Ringer keeps the memories and languages of whoever it ate, permanently
 
 The **Ringer's body** (in Krysta's form), left back at the container yard, had an **IOU from Babe Ruth's Galactic Pie Parlors** stuck to it. That connects the Psurlon operation directly to [Luckyluciano](../player-characters/luckyluciano-ruth.md)'s family, and Nolan flagged it twice as something to remember.
 
-**What the players don't know (decided for Session 3):** the IOU is how **[Tino Fennetti](tino-fennetti.md)** paid the Psurlons for the route into the Ral'taka Expanse. The Ringer was there for the deal, which is why Tino hired The Unkindness to destroy the head.
+**What the players learned (Season 2, Session 4):** Megan had Speak with Dead cast. Two voices answered, Krysta's and a colder Psurlon voice:
+- **How she died:** *"I trusted it."* Then: *"She tasted of lions."*
+- **The Brown Lions:** they were **at the gates when she left**.
+- **The route:** in the Psurlon's voice only: *"Through the gold. Follow the warm current, until the islands."*
+- **Varrow:** *"I don't know. The one with the daughters. They smell of..."*
+- **Megan:** *"I loved you with all my heart, Father."*
+
+**What the players don't know (Nolan):**
+- **The IOU:** it's how **[Tino Fennetti](tino-fennetti.md)** paid the Psurlons for the merchant route within the Ral'taka Expanse. Tino was deceiving them that he was still good for a family IOU. **This is the same Pie Parlors IOU found on the Ringer's body** (Nolan).
+- **What the head knows:** the real **Krysta was aboard a spaceship where she witnessed Tino's trade**. **The Psurlon that ate her knew the route itself** (Nolan, after Session 4), which is how Speak with Dead could answer in the Psurlon's voice.
+- **How the Ringer got it:** a Psurlon **ate her before the trading vessel docked**, and the Ringer carries her memory of the deal.
+- **Why the head was the target:** Tino **knew she had witnessed the deal**, and hired The Unkindness to destroy the last thread that could tie him to selling out the route.
+- **Why she was aboard that ship** is `[unconfirmed]`. Megan now knows she had been in space, and that he should have asked how.
 
 **The real Krysta's body was never at the container yard** (Nolan). Where it is is `[unconfirmed]`.
 
@@ -36,4 +48,8 @@ She waited outside Megan's container as the party left, then acted as their guid
 
 ### Session 1
 
-At the Pie Parlor, Megan **lifted the head like a shield**, and it took the **Kenku assassin's poison dart**. What the poison did to it is `[unconfirmed]`, and so is whether the dart was meant for the head or for Marfa.
+At the Pie Parlor, Megan **lifted the head like a shield**, and it took the **Kenku assassin's poison dart**. What the poison did to it is `[unconfirmed]`. The dart was meant for the head (Nolan; the players learned that in Session 3).
+
+### Session 4
+
+Megan had Speak with Dead cast at a temple of Mastercat. Two voices answered. He kept the head and left the party with it. See above.

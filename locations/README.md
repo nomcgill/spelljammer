@@ -10,8 +10,9 @@ Places Nolan has said the campaign will come back to.
 | --- | --- | --- |
 | [The Rock of Bral](rock-of-bral.md) | Asteroid port city; where the party is now | Season 1, Season 2 |
 | [Babe Ruth's Galactic Pie Parlor (Bral flagship)](bral-pie-parlor.md) | Luckyluciano's old parlor, reopened by Bugsy; where the Stromboli case began | Season 2 |
-| [The Iron Annex](iron-annex.md) | Contracting office on Bral that arranged the manhunt | Season 1 |
-| [The Ral'taka Expanse](raltaka-expanse.md) | Korran's homeland, a jungle plane of floating islands; never visited | Season 1 (mentioned only) |
+| [The Iron Annex](iron-annex.md) | Contracting office on Bral that arranged the manhunt | Season 1, Season 2 |
+| [The Ral'taka Expanse](raltaka-expanse.md) | Korran's homeland, a Wildspace system of floating islands; never visited | Season 1 (mentioned), Season 2 (cold open, flashback) |
+| [Varrow & Daughters warehouse](varrow-warehouse.md) | Dockside warehouse on Bral; the party is inside | Season 2 |
 
 ## Season 1 only
 

@@ -50,3 +50,9 @@ She arrived in the [*Slice Runner*](../ships/ruth-family-ships.md#the-slice-runn
 - **Breakfast:** she invited everyone except Tamenik, who had left, to breakfast at the [Bral flagship Pie Parlor](../locations/bral-pie-parlor.md). She shooed Bugsy away and sent Jetson to "join his mother."
 - **The story:** she heard the whole Season 1 story. Then she asked for help with the family's **Case of the Missing Stromboli**, which **began at this very table**.
 - **The attack:** at that moment a Kenku assassin by the exit fired a poison dart. Megan blocked it with Krysta's head. Marfa assumes she was the target. **The real target was the head** (Nolan's ruling), and nobody at the table knows that yet.
+
+### Session 2
+
+- **After the fight:** she sent the party to the Iron Annex to find out who paid for the Kenku.
+- **Her offers:** a **crew of 6** for Korran, and a real conversation with Pip about the Ruths backing **another coup**. She told them about **The Unkindness**, and that **the Joisey Jiffs hadn't hired them**.
+- **Alone with Lucy in the back room:** she **showed her Babe's empty folder**, the one the Stromboli recipe card was stolen from. That set off Lucy's flashback. She told Lucy she's so glad to have her back, since trust is hard to find in their business, and hugged her.

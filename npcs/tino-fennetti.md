@@ -6,7 +6,7 @@ A **Giff** (Nolan), a **crust captain** of the Ruth Syndicate, and [Luckyluciano
 
 ## Status
 
-**Captured, barely conscious, in the party's hands** in the Iron Annex director's office (Season 2, Session 3). Beaten down non-lethally while trying to escape out a window.
+**Let go.** The party interrogated him in the Pie Parlor basement in Season 2, Session 4, then Lucy sent him out the back door with two gold for the bus home. Where he went is `[unconfirmed]`.
 
 ## Background
 
@@ -26,14 +26,21 @@ Never appeared at the table. Known only from Luckyluciano's backstory.
 
 ## Season 2
 
-### What the players don't know (Nolan's decision, planned for Session 3)
+### What the players know (as of Session 4)
 
-**Tino is the one who hired The Unkindness.** He's the middleman behind the Case of the Missing Stromboli:
-- **What he stole:** being family, he knew about Babe's folder, the reopening night and the back kitchen. He hired the theft of the recipe card for **the grower's mark** at the bottom, not the recipe. The recipe was never the point.
-- **Why:** a grudge against the Ruths, nowhere left to go, and a mark worth a fortune to the right buyer.
-- **Who he sold it to:** a buyer **already gone to the Ral'taka Expanse**. Still the placeholder *Varrow & Daughters*, which the agent invented in Session 2 prep. It might be from the *Star-Reaver*'s past, but that's the agent's pitch and isn't decided.
-- **Why the head was the target:** Tino bought **the route into the Expanse from the Psurlons**, and the Ringer wearing Krysta was there for the deal, so the head can identify him. He paid with a **Ruth IOU**, which is the Pie Parlors IOU found on Krysta's body.
-- **Why he's at the Annex:** to raise the fee after the first Kenku failed, and to make sure the head is finished.
+**Tino hired The Unkindness.** He's the middleman behind the Case of the Missing Stromboli:
+- He stole Babe's recipe card for **the grower's mark** at the bottom, not the recipe.
+- He bought **the merchant route within the Ral'taka Expanse from the Psurlons**, paying with a **Ruth/Fennetti IOU** he was no longer good for.
+- He meant to use both himself. **Varrow found out and paid more**, so he sold the route and the mark as a bundle.
+- **Krysta witnessed the deal** on a spaceship while she was still herself. That's why he wanted the head destroyed.
+- Varrow & Daughters have a **warehouse by the docks**.
+
+### What the players don't know
+
+- **[Varrow](varrow.md) has already gone to the Ral'taka Expanse** and plans to **use the growers' trust to raid them**. He is probably Season 2's big bad; nothing about him personally is decided yet.
+- Any *Star-Reaver* connection is an unused agent pitch, not decided.
+- **The Pie Parlors IOU on the Ringer's body is the same IOU Tino used** to pay the Psurlons (Nolan).
+- A Psurlon ate Krysta **before that trading vessel docked**, and the Ringer kept the memory. The party heard two voices from the head, but not this mechanism.
 
 ### Session 3
 
@@ -45,4 +52,12 @@ Never appeared at the table. Known only from Luckyluciano's backstory.
   - Pip shot him with a musket, and Megan's thrown longsword blade hit him.
   - Lucy's grapple failed, but she caught his coat and **a card fell out**: *Varrow & Daughters, Fine Spices*, with a dock address.
   - Korran stabbed him down non-lethally.
-- **Now:** the party hauled him back inside, **barely conscious.** His confession hasn't been played yet.
+- **Now:** the party hauled him back inside, **barely conscious.** His confession is in Session 4.
+
+### Session 4
+
+- **Family:** he is Lucy's **cousin on dad's side** (Nicole).
+- **The Annex:** the party carried him out the front, Weekend-at-Bernie's style, while Korran left with them **disguised as Tino**. It didn't fool the other cameras. The Annex **billed the Fennetti family 76,225 gp**.
+- **The basement:** Lucy and Korran chained him. Korran took **3 gp** and the pepper jar. Lucy later gave two coins back.
+- **The confession:** he told them about Krysta witnessing the deal, the Psurlon IOU, selling the route and the grower's mark to Varrow, and the dockside warehouse. Pip started eating his toes. Insight couldn't tell how much was an act.
+- **Let go:** Lucy returned the two gold, told him not to forget their generosity, and corrected "Lucy" to **Luckyluciano**. He ran out the back door.

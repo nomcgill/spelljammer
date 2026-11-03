@@ -18,3 +18,7 @@ The read-aloud description and Midjourney prompt used at the table are in the [S
 Marfa brought the party here for breakfast after docking, and shooed Bugsy away so she could have the room to herself. [Jetson](../npcs/jetson.md) was sent to sit with his mother at the end of the bar.
 
 At the table the party told Marfa the whole Season 1 story. When she asked for their help with the Stromboli case, a **Kenku assassin** by the exit fired a poison dart. Megan blocked it with Krysta's head, and the Kenku disintegrated itself with a ruby ring. See [Season 2 session notes](../season2/session-notes.md#session-1--breakfast-at-the-pie-parlor).
+
+### Session 4
+
+The party brought [Tino Fennetti](../npcs/tino-fennetti.md) in through the back and down to the basement. [Marfa](../npcs/marfa-ruth.md) wasn't there. [Jetson](../npcs/jetson.md) asked **[Sandra](../npcs/sandra.md)** behind the bar, who said Marfa wasn't at this location. The party chained Tino, got his confession, let him go, and took a short rest over a free slice of pie.

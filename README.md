@@ -19,7 +19,7 @@ Season 1 ran seven sessions. The party escaped Warden's Maw and spent the whole 
 
 Season 2 is under way, and its main plot driver is **Korran's past**. Matt isn't playing, so the party is **Korran (Brad), Luckyluciano (Nicole) and Pip (Drew)**. Tamenik went home to Freelin Corporation in Session 1.
 
-In Session 1 the party docked on Bral and told Marfa Ruth their whole story over breakfast. When she asked for help with **the Case of the Missing Stromboli**, a Kenku assassin attacked and then disintegrated itself. Season 2 is being logged session by session in [`season2/session-notes.md`](season2/session-notes.md). Sessions are also recorded and transcribed in [`transcripts/`](transcripts/), starting with Season 2, Session 3. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
+As of Session 4 the party is **inside the Varrow & Daughters warehouse** on Bral. Tino has been let go. Megan has left, still carrying Krysta's head. Season 2 is being logged session by session in [`season2/session-notes.md`](season2/session-notes.md). Sessions are also recorded and transcribed in [`transcripts/`](transcripts/), starting with Season 2, Session 3. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
 
 ## Setting and rules
 

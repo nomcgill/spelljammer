@@ -5,18 +5,22 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 ## Found in Season 2
 
 **Ruby ring: a Ring of Disintegrate** (homebrew; found Season 2, Session 1). The [Kenku assassin](bestiary/season2-encounters.md#session-1--the-kenku-assassin) at the [Pie Parlor](locations/bral-pie-parlor.md) pulled off its glove and used this ring's Disintegrate on itself, turning to dust. Only the ring remains.
-- **Charges:** **one charge remaining.**
+- **Charges:** **none left.** The earlier note of one charge remaining is superseded (Nolan, after Season 2 Session 4).
 - **Where it comes from:** **every Kenku in The Unkindness wears a Disintegrate ring**, alongside a second ring with a spell of its own. Only this ring was found on the Session 1 Kenku.
-- **What the players know:** they don't yet know what it is. They only saw it work once.
-- **Where it is:** whether anyone picked it up is `[unconfirmed]`.
+- **Where it is:** **[Korran](player-characters/korran-cloudjumper.md) had picked it up.** In Session 4 he sold it to an unnamed Loxodon artificer for **1 gp**.
 
-**Two rings from the Annex Kenku** (found Season 2, Session 3) — [Korran](player-characters/korran-cloudjumper.md). He slid them off the Kenku's fingers in the Iron Annex lobby with a Sleight of Hand of 29, and pocketed them.
-- **What they are:** one is the Kenku's **Darkness** ring, the source of the Darkness in the lobby. The other is his **Disintegrate** ring. Charges are `[unconfirmed]`.
-- **What the players know:** **Korran doesn't know what they do yet.**
+**Two rings from the Annex Kenku** (found Season 2, Session 3) — kept by the party (Nolan, after Session 4). Korran slid them off the Kenku's fingers in the Iron Annex lobby with a Sleight of Hand of 29.
+- **Ring of Disintegrate**, **one charge left**. Identified free by the Loxodon in Session 4. It does not have to be aimed at yourself. Korran is wearing it. The Loxodon cannot recharge it.
+- **Ring of Darkness**, **one charge left**. Korran gave it to **[Pip](player-characters/pip-oozewald.md)** at the Varrow warehouse door in Session 4.
 
 **The Varrow & Daughters card** (found Season 2, Session 3) — fell from Tino's coat when Lucy grabbed him at the Annex window. Megan picked it up, but he can't read Common.
 - **What it says:** *Varrow & Daughters, Fine Spices*, with a dock address.
 - **The smell:** Korran smells **gold-dusted pepper** on it, the smell of his childhood.
+- **Why it smelled:** Tino carried **a jar of gold-dusted pepper from Babe's kitchen** in the same coat pocket, as a sample to sell Varrow on his plan. **Korran pocketed the jar** in Session 4.
+
+**Jar of gold-dusted peppers** (found Season 2, Session 4) — [Korran](player-characters/korran-cloudjumper.md). Taken from Tino's coat in the Pie Parlor basement. Same smell as the card and as Korran's childhood in the Ral'taka Expanse.
+
+**The Annex invoice** (Season 2, Session 4) — **76,225 gp, billed to the Fennetti family**. Director Tallyworth saw, through the cameras in the other rooms, that the party was impersonating Tino. Korran's Disguise Self did not fool the Annex.
 
 ## Confirmed in the party's hands
 
@@ -24,7 +28,7 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 
 **Boots of Gravitation** (Uncommon; acquired Season 1, Session 2) — [Korran](player-characters/korran-cloudjumper.md). From the *Star-Reaver*. Change personal gravity orientation as a bonus action.
 
-**100,000 gp of diamonds** (acquired Season 1, Sessions 5–6) — inside [Pip](player-characters/pip-oozewald.md), swallowed in two goes (50,000 gp during the shipyard distraction in Session 5, 100,000 gp total by Session 6). Some has been spent fuelling the Hyperdrive Core, which brought the Rock of Bral back to one day away. The remainder is still in him. [The Chwinga](npcs/chwinga.md) finds this hilarious: *"You're shinier than your cousin."*
+**100,000 gp of diamonds** (acquired Season 1, Sessions 5–6) — inside [Pip](player-characters/pip-oozewald.md), swallowed in two goes (50,000 gp during the shipyard distraction in Session 5, 100,000 gp total by Session 6). **Most of it was spent** repairing and fuelling the Damselfly's Hyperdrive Core, which brought the Rock of Bral back to one day away (Nolan, clarified after Season 2 Session 3). Only a little is still in him, so **the party doesn't have much money**. [The Chwinga](npcs/chwinga.md) finds this hilarious: *"You're shinier than your cousin."*
 
 **Charm of Ruin** (acquired Season 1, Session 4) — granted to Pip by the Chwinga after the Cosmic Horror fight.
 
@@ -33,7 +37,8 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 Uses spent so far are not recorded. Worth tracking — a charm that disintegrates hull sections and doors is a live option.
 
 **Krysta's head** (acquired Season 1, Sessions 5–6) — the severed head of a [Psurlon Ringer](npcs/krysta.md) carrying a murdered Leonin's memories. [Megan](npcs/megan-forthfang.md) still had it when Marfa beamed everyone off the Damselfly. Megan claimed Speak with Dead, but per Nolan he doesn't know it.
-- **Season 2, Session 1:** Megan raised it as a shield, and it **took the Kenku assassin's poison dart** meant for the table. It holds clues to the theft of the Stromboli recipe's ingredient. What the poison did to it is `[unconfirmed]`.
+- **Season 2, Session 1:** Megan raised it as a shield, and it **took the Kenku assassin's poison dart** meant for the table. What the poison did to it is `[unconfirmed]`.
+- **Season 2, Session 4:** a priest of Mastercat cast Speak with Dead on it (Lucy paid 2 gp). The answers are in [Krysta's file](npcs/krysta.md). Megan **left the party still carrying the head**.
 
 **Korran's treasure map, complete** (completed Season 1) — both halves of a Thieves' Cant map to the *Star-Reaver* crew's hoard in the [Ral'taka Expanse](locations/raltaka-expanse.md). Cipher: Korran's late mother's birthday. Partially decoded as of Session 7.
 
@@ -79,6 +84,6 @@ All five *Star-Reaver* items are homebrew. The unclaimed **Spelljamming Helm** w
 
 ## Elsewhere
 
-**An IOU from Babe Ruth's Galactic Pie Parlors** — on the body of the Ringer wearing Krysta's form, still at the Psurlon container yard. It's how Tino Fennetti paid the Psurlons (the players don't know this yet). Evidence connecting the Ruth syndicate to the Psurlon operation.
+**An IOU from Babe Ruth's Galactic Pie Parlors** — on the body of the Ringer wearing Krysta's form, still at the Psurlon container yard. **This is the same IOU [Tino Fennetti](npcs/tino-fennetti.md) used to pay the Psurlons** for the merchant route (Nolan). He was deceiving them that he was still good for a family debt. Evidence connecting the Ruth syndicate to the Psurlon operation.
 
 **A void-forged grimoire linked to the Nine Hells** — what Luckyluciano was trading a fake "moonstone pie" for when she was arrested. Presumably in evidence somewhere. From her backstory.

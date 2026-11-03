@@ -42,3 +42,10 @@ He came to Marfa's breakfast at the Pie Parlor, but she told him to "join his mo
 - **The fight:** Lucy told him to stay out of it.
 - **The rules:** in the back rooms she taught him the family rules: *"Keep your trap shut, and don't leave evidence."*
 - **Tino:** he didn't recognize Tino: *"I was seven, Aunt Lucy."*
+
+### Session 4
+
+- He watched the party carry Tino out of the Annex, then went looking for Marfa and asked [Sandra](sandra.md) at the bar.
+- Lucy invited him to the warehouse to learn what they don't teach at the academy. **[Bugsy](bugsy.md) didn't let him go** after he bragged about the adventures.
+- **The *DiceGunner* (Nolan, at the table):** he stole the family ship to break the party out of Warden's Maw. That was half a day's travel out, and longer coming back because the hyperspace drive was broken. Then he lost the ship. There are **repercussions not yet covered**.
+- **Brad's goal, said at the table:** turn him into a pirate someday. Nolan noted that could pair with or conflict with Lucy introducing him to the family crime business.

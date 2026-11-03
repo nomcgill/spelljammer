@@ -8,7 +8,7 @@ The organisations in play. Every one of them has a personal claim on at least on
 
 **Front:** Babe Ruth's Galactic Pie Parlors, an interplanetary chain known for meteor-spiced crusts and deep-space delivery. Underneath: money laundering for illegal cargo running and weapons smuggling across Wildspace.
 
-**PC tie:** [Luckyluciano](player-characters/luckyluciano-ruth.md) is Babe and Marfa's daughter, ran the flagship parlor orbiting the Rock of Bral, and served as her father's personal warlock — Babe is her warlock patron. Her older sister [Bugsy](npcs/bugsy.md) is Babe's intended heir and doesn't want it. Bugsy's son [Jetson](npcs/jetson.md) is Lucy's nephew.
+**PC tie:** [Luckyluciano](player-characters/luckyluciano-ruth.md) is Babe and Marfa's daughter, ran the flagship parlor orbiting the Rock of Bral, and served as her father's personal warlock — Babe is her warlock patron. Her older sister [Bugsy](npcs/bugsy.md) is Babe's intended heir and doesn't want it. Bugsy's son [Jetson](npcs/jetson.md) is Lucy's nephew. **[Frankie "the Gasman"](npcs/frankie-the-gasman.md)** is the family's lawyer (Nolan, after Season 2 Session 4).
 
 **How Giffs dress:** like Winnie the Pooh, in **shirts and no pants**. This is canon from the table in Season 2, Session 3, and applies to Giffs generally, not just the Ruths.
 
@@ -49,7 +49,9 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 ## The Iron Annex / Spherewide Contracting Compact
 
-**Staffed almost entirely by Thri-kreen**, including the desk clerk [Tilptek](npcs/tilptek.md). The exception is the head honcho, "the boss," an **autognome** named **Director Tallyworth**. The players don't know this yet. The Annex is a **division** of the Compact, which is otherwise undescribed.
+**Staffed almost entirely by Thri-kreen**, including the desk clerk [Tilptek](npcs/tilptek.md). The exception is the head honcho, "the boss," an **autognome** named **Director Tallyworth**. The party heard him over the intercom in Season 2, Session 4, and now know the name. They still haven't seen him. The Annex is a **division** of the Compact, which is otherwise undescribed.
+
+**The Fennetti invoice (Season 2, Session 4):** after the party damaged a clerk, cameras, a computer and a window, and left with Tino, Tallyworth billed the **Fennetti family 76,225 gp**. Korran left with the group out the front, still disguised as Tino; other cameras showed the disguise, so it didn't work. The Annex also does not currently have [Lucy](player-characters/luckyluciano-ruth.md)'s face in the system as a Ruth, because she's been in prison.
 
 **Role:** contract brokerage on the [Rock of Bral](locations/iron-annex.md). It paged Kirrak within hours of the breakout and supplied the method for finding an unscryable target.
 
@@ -71,7 +73,7 @@ Note the tangle: the plasmoids freed Pip by accident, are hunting Pip deliberate
 
 **Role:** operate a [shipping hub](locations/psurlon-shipping-hub.md) inside the hollowed-out remains of a dead god. They trade in cargo, debts and favours — "Would you like to incur a debt?" — and are unmoved by intimidation.
 
-**Notable:** a **Psurlon Ringer** ate Megan's daughter [Krysta](npcs/krysta.md) and wore her. The Ringer's body carried a **Pie Parlors IOU**, so the Psurlons and the Ruth syndicate are already doing business.
+**Notable:** a **Psurlon Ringer** ate Megan's daughter [Krysta](npcs/krysta.md) and wore her. The Ringer's body carried a **Pie Parlors IOU**, **the same one [Tino Fennetti](npcs/tino-fennetti.md) used to pay them** for the merchant route (Nolan). The Psurlons and the Ruth syndicate are already doing business on paper, even though Tino was no longer good for that debt.
 
 **Standing with the party:** bad. The party killed several Psurlons escaping, took a Ringer's head, and left after spending a favour. Megan wants to fight them on sight, considering them inherently evil.
 

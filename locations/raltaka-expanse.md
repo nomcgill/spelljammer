@@ -6,7 +6,9 @@
 
 ## What it is
 
-A **jungle plane of floating islands** in Wildspace. Home of the Cloudjumper Tribe and other primal Hadozee tribes.
+A **Wildspace system**, a pocket within the Astral Sea (Nolan, Season 2 Session 4). A jungle of floating islands. Home of the Cloudjumper Tribe and other primal Hadozee tribes.
+
+**Easy to find; hard to travel.** The Expanse itself isn't difficult to locate. **Specific merchant routes within it are.** The route [Tino Fennetti](../npcs/tino-fennetti.md) bought from the Psurlons and sold to Varrow is one of those inner routes, not the way to find the Expanse.
 
 The plane had an **excessive amount of gold**. The Hadozee tribes respected that gold as part of nature and used it in crafts rather than as currency.
 
@@ -23,9 +25,9 @@ Pirates out of the Astral Sea plundered the plane for its gold and took several 
 
 Korran holds a **complete treasure map** to the hoard the original *Star-Reaver* crew took — the plundered Hadozee gold, plus whatever else the crew accumulated. It's written in Thieves' Cant, in two halves that he has now pieced together.
 
-The map's real value is navigational: the Expanse is a maze of floating islands, and the map gives the **route through it** to where the gold resides. Without it the hoard is effectively unreachable.
+The map's real value is navigational: the Expanse is a maze of floating islands, and the map gives the **route through it** to where the gold resides. Without a route, the groves and the hoard are effectively unreachable even once a ship is in the system.
 
-The cipher is **Korran's late mother's birthday**, relayed through Tamenik's fever dream by [Captain Gloamcast](../npcs/gloamcast.md). Before that was known, two symbols near the destination were unreadable. As of Session 7, Korran has made "a little progress" decoding it.
+The cipher is **Korran's late mother's birthday**, relayed through Tamenik's fever dream by [Captain Gloamcast](../npcs/gloamcast.md). Before the cipher, two symbols near the destination couldn't be understood. Korran would have needed to ask whoever wrote them. As of Session 7, he has made "a little progress" decoding the map with the cipher. **Whether the cipher unlocks those two symbols is undecided.**
 
 Per the captain: *"That treasure belongs to the crew of the Star-Reaver, and he's the only one left after this."*
 
@@ -48,6 +50,8 @@ Shown in a **cold open** the players watched without their characters ([session 
 
 Who was aboard, and what the mark is, the players don't know.
 
+**What the players don't know (Nolan):** the ship is **Varrow & Daughters'**, carrying the mark Tino stole and sold. Varrow plans to **use the growers' trust to raid them**.
+
 A Midjourney prompt for the Expanse, seen from one of its islands, is in the [Session 3 plan](../season2/session3-plan.md#1-opening-korrans-flashback).
 
 ### Session 3
@@ -58,3 +62,9 @@ The raid on the Cloudjumper Tribe was played as Korran's [flashback](../season2/
 - **Captured:** he was taken aboard the *Star-Reaver*.
 
 At the end of the session, the party found a ***Varrow & Daughters, Fine Spices*** card on Tino. Korran smelled gold-dusted pepper on it.
+
+### Session 4
+
+- **Tino told them** he bought a route from the Psurlons and sold it, with the grower's mark, to Varrow. He meant to use it himself.
+- **Speak with Dead**, in the Psurlon's voice only: *"Through the gold. Follow the warm current, until the islands."* The Psurlon that ate Krysta knew that route (Nolan).
+- Korran pocketed Tino's **jar of gold-dusted peppers**, the same smell as home.

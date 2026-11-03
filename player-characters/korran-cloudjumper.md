@@ -82,10 +82,16 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
 - **The fight:** he was the **only one to spot the Kenku assassin** by the exit. He threw a dagger and missed, which bought Megan the moment to block the dart with Krysta's head.
 - **Session 3.**
   - **The flashback:** the session opened on his [flashback](../season2/session-notes.md#opening-korrans-flashback) to the raid (see Background).
-  - **The Annex lobby:** he fought the Kenku non-lethally, then **slid both of its rings off with a Sleight of Hand of 29** and pocketed them. **He doesn't know what they do.**
+  - **The Annex lobby:** he fought the Kenku non-lethally, then **slid both of its rings off with a Sleight of Hand of 29** and pocketed them. He didn't know what they did yet.
   - **Tilptek:** he helped Lucy intimidate Tilptek by flourishing his blades on the counter. When Tilptek went for the "MANAGER" button, Korran's **Mobile Flourish (a natural 20) cut off one of his arms**.
   - **The window:** in the director's office his Faerie Fire outlined Tino, and he stabbed Tino down non-lethally.
   - **The card:** his Perception of 22 caught the smell of **gold-dusted pepper**, his childhood, on the Varrow & Daughters card.
+- **Session 4.**
+  - **The Annex:** he shot the office camera, cast **Disguise Self as Tino**, and **left with the group out the front door** still disguised. He told a camera to bill the damage to Tino. It didn't work. The Fennetti family was invoiced **76,225 gp**.
+  - **Tino:** he pickpocketed **3 gp** and **the gold-dusted pepper jar**, and kept both the jar and one coin.
+  - **The rings:** he had the Session 1 Kenku's empty Disintegrate ring all along and **sold it for 1 gp**. The Loxodon identified the Annex **Disintegrate ring (one charge)** for free. He gave the **Darkness ring (one charge)** to Pip.
+  - **The warehouse:** he picked the back lock (17) and stepped into the dark. A machine started moving around a corner. He has no darkvision.
+  - **Out of character:** Brad's secret goal is to turn [Jetson](../npcs/jetson.md) into a pirate someday.
 
 ## Threads on him
 

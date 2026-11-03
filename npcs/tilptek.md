@@ -46,4 +46,8 @@ The party walked into the Annex with plenty of swagger to work him for informati
 - **The arm:** he reached for a blue **"MANAGER"** button on the wall, and Korran's Mobile Flourish, a natural 20, **cut off one of his arms**. Purple blood.
 - **The client:** he gave up the client. *"That was him. He just left."* The man had been there five minutes before the party arrived and placed the contract. The Kenku picked it up after.
 - **The warning:** he told them not to go into the back: *"If the boss finds out he's gonna be pissed."*
-- **The date:** Lucy asked him out for Friday. *"I'm gonna be in the hospital."*
+- **The date:** Lucy asked him out for Friday. *"I'm gonna be in the hospital."* **Don't pursue that as a hook** (Nolan, after Session 4).
+
+### Session 4
+
+His chair was **empty** when the party carried Tino out through the lobby.

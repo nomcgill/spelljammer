@@ -18,7 +18,7 @@ That gap is the engine of Lucy's personal arc: Lucy is out to prove to her fathe
 
 ## Unknowns
 
-- Whether she knows Jetson "borrowed" the *DiceGunner* and flew into a Githyanki prison.
+- How far the **repercussions** for Jetson stealing the *DiceGunner* have gone. Nolan flagged them in Session 4 and hasn't covered them yet.
 - Jetson's father.
 - How she feels about Lucy's ambitions.
 
@@ -27,3 +27,7 @@ That gap is the engine of Lucy's personal arc: Lucy is out to prove to her fathe
 ### Session 1
 
 The party met her briefly at the parlor before [Marfa](marfa-ruth.md) shooed her away. Jetson was sent to "join his mother" and ate a sausage and heavy cheese pizza at the end of the bar.
+
+### Session 4
+
+She **didn't let Jetson go** to the Varrow warehouse after he bragged about the Annex adventures.

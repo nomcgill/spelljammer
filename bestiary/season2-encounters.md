@@ -14,7 +14,7 @@ At the [Pie Parlor](../locations/bral-pie-parlor.md) on the Rock of Bral, just a
 - **Spotting it:** everyone rolled Perception, and only Korran noticed it.
 - **The dart:** Korran threw a dagger and missed. Megan lifted Krysta's head as a shield, and the dart hit the head.
 - **The fight:** in initiative, the whole party landed attacks.
-- **The Kenku's turn:** it went last, pulled off its glove, and **disintegrated itself** with the ring. It left only dust and the ring, which has **one charge remaining**. See [`items.md`](../items.md).
+- **The Kenku's turn:** it went last, pulled off its glove, and **disintegrated itself** with the ring. It left only dust and the ring. Korran later had it; in Session 4 it was identified as **empty** and sold for 1 gp. See [`items.md`](../items.md).
 
 **Who hired it** is unknown at the table. In planning, Nolan has it **contracted by the [Iron Annex](../locations/iron-annex.md)** It was a member of **The Unkindness**. **Its real target was Krysta's head, not Marfa** (Nolan's ruling). The players learned it at the Annex in Session 3.
 

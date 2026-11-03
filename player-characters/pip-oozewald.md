@@ -86,6 +86,12 @@ The front line, and the reason the enemy can find them.
   - **The lobby:** he raged and struck the Kenku non-lethally with his scimitar. His read on the Kenku: *"Perhaps he's just telling the truth and is an idiot... like my sister Phillis, who sucks."*
   - **The window:** in the director's office he shot Tino with his musket.
   - **Gary:** he asked if he could eat Gary, the Giff guard, who tossed him a protein bar instead and left. Pip ate the protein bar.
+- **Session 4.** Drew had his voice back.
+  - **Tallyworth** called him easy to locate. Pip pitched a noble rebellion; Tallyworth will talk **if Pip can afford it**.
+  - **Tino:** Lucy bibbed him, and he started eating Tino's toes. Afterward he was disgusted by his own behavior.
+  - **Megan** told him he has **no debt** to Pip. Pip asked him to show up for the rebellion anyway.
+  - **The Darkness ring** (one charge) was given to him at the warehouse door.
+  - How plasmoids reproduce came up at the table. **Left a mystery** (Nolan).
 
 ## Threads on him
 
@@ -93,6 +99,6 @@ The front line, and the reason the enemy can find them.
 
 **He is the tracking beacon.** [Tamenik](tamenik-freelin.md) can't be scried, so the hunters scried Pip instead and followed him to Tamenik. Wherever Pip is, the hunters can find him — which makes his presence both the party's greatest liability and the reason the plot arrives on schedule.
 
-He is carrying a fortune internally. The Chwinga thinks the diamond stomach is the funniest thing in Wildspace: *"You're shinier than your cousin"* — meaning Pip's cousin, not his brother the king.
+He was carrying a fortune internally, but **most of it went into repairing the Damselfly's Hyperdrive Core** (Nolan). Only a little is left, and the party is short on money. The Chwinga thinks the diamond stomach is the funniest thing in Wildspace: *"You're shinier than your cousin"* — meaning Pip's cousin, not his brother the king.
 
 And the ally the party rescued was petrified by **Gelp, his brother the king's wizard.** Megan doesn't appear to know yet.

@@ -99,3 +99,15 @@ Matt isn't playing, so the party is Korran, Luckyluciano and Pip. Session-by-ses
 - Marfa asked for their help with the **Case of the Missing Stromboli**, which began at that very table.
 - Korran spotted a **Kenku assassin** at the exit and threw a dagger, which missed. Megan raised **Krysta's head** as a shield, and it took the poison dart.
 - The party piled onto the Kenku. On its turn it **disintegrated itself** with a ruby ring, leaving only the ring.
+
+### Session 2
+
+Cold open in the Ral'taka Expanse: a Hadozee grower welcomes a strange ship holding Babe's mark. Marfa sends the party to the Iron Annex. Pip's and Lucy's flashbacks. Megan leaves for a temple, then walks into the Annex with Krysta's head. A blindfolded Kenku casts Darkness. Cliffhanger.
+
+### Session 3
+
+Korran's raid flashback. The party beats the Kenku, cuts off Tilptek's arm, and catches **Tino Fennetti** in the director's office. A *Varrow & Daughters, Fine Spices* card falls from his coat.
+
+### Session 4
+
+Tallyworth invoices the Fennetti family **76,225 gp**. The party interrogates Tino in the Pie Parlor basement and **lets him go**. He sold the grower's mark and the merchant route within the Expanse to Varrow. Speak with Dead on Krysta's head; **Megan leaves**. Korran picks the lock of the Varrow warehouse. A machine starts moving in the dark. Cliffhanger.

@@ -1,6 +1,6 @@
 # Plot Threads
 
-Every thread the campaign has opened, with its status as of Season 2, Session 3 (the Kenku and Tino threads; others as of Session 1). Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
+Every thread the campaign has opened, with its status as of Season 2, Session 4. Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
 
 ## Open and pressing
 
@@ -12,10 +12,15 @@ Every thread the campaign has opened, with its status as of Season 2, Session 3 
 
 **The Kenku assassin** `(S2)`. A Kenku tried to dart the table the moment Marfa raised the Stromboli case. The dart hit Krysta's head, and the Kenku disintegrated itself with a ruby ring rather than be taken.
 - **Learned at the Annex (Session 3):** it was after **Krysta's head**, not Marfa. A second Kenku, collecting the reissued contract, said so under Suggestion.
-- **Learned at the Annex (Session 3):** **[Tino Fennetti](../npcs/tino-fennetti.md)** placed the contract, per Tilptek. The party caught Tino, barely conscious, with a ***Varrow & Daughters, Fine Spices*** card on him. Why he did it hasn't been played yet.
-- **The second Kenku** got away after the party left it in the lobby. Korran has both its rings and doesn't know what they do.
+- **Learned at the Annex (Session 3):** **[Tino Fennetti](../npcs/tino-fennetti.md)** placed the contract, per Tilptek. The party caught Tino, barely conscious, with a ***Varrow & Daughters, Fine Spices*** card on him.
+- **Confessed (Session 4):** he stole the grower's mark, bought the merchant route within the Expanse from the Psurlons, and sold both to Varrow. He knew Krysta had witnessed the deal. The party **let him go**.
+- **The second Kenku** got away after the party left it in the lobby. Its two rings (Disintegrate, one charge; Darkness, one charge) are with the party.
 
-**The ruby ring** `(S2)`. A homebrew **Ring of Disintegrate** with **one charge left**. The players don't know what it is yet, and whether they picked it up is `[unconfirmed]`. See [`items.md`](../items.md).
+**The ruby ring** `(S2)`. The Session 1 Kenku's **Ring of Disintegrate**, empty. **Korran sold it for 1 gp** in Session 4. See [`items.md`](../items.md).
+
+**The Fennetti invoice** `(S2)`. The Iron Annex billed the Fennetti family **76,225 gp** after Session 4. Korran left with the group out the front, still disguised as Tino; the other cameras saw through it. The Annex doesn't currently have Lucy's face in the system as a Ruth, because she's been in prison. **[Frankie "the Gasman"](../npcs/frankie-the-gasman.md)** is the family's lawyer.
+
+**Varrow** `(S2)`. [Varrow](../npcs/varrow.md) of Varrow & Daughters is **probably Season 2's big bad** (Nolan). The party hasn't met him. They picked the lock of his warehouse in Session 4 and stopped in the dark as a machine started moving. They don't know if he has already sailed.
 
 **Marfa knows everything** `(S2)`. The party told her the whole Season 1 story at breakfast. She's the family's dealmaker, so she now knows exactly what each of them wants and how to trade for it.
 
@@ -25,7 +30,7 @@ Every thread the campaign has opened, with its status as of Season 2, Session 3 
 
 **Korran's stolen ship** `(S1)`. Korran hijacked a Shrike out of the mothership's loading bay. The plasmoids may want it back. It still has to be **registered at the DAV**, which wipes its scry trace. The costs were waived at the dock thanks to Marfa. See [`ships/korrans-stolen-ship.md`](../ships/korrans-stolen-ship.md).
 
-**The Ruth family, up close** `(S1)`. Marfa rescued the party in the *Slice Runner* and they owe her. How she got Lucy's impounded ship back is `[unconfirmed]`, and Jetson still lost the family's *DiceGunner*.
+**The Ruth family, up close** `(S1)`. Marfa rescued the party in the *Slice Runner* and they owe her. How she got Lucy's impounded ship back is `[unconfirmed]`. Jetson still lost the family's *DiceGunner*, and there are **repercussions not yet covered** (Nolan, Session 4). Korran secretly hopes to make a pirate of him; Lucy wants him in the family business.
 
 **Kirrak wants Tamenik back** `(S1)`. Tamenik's nephew runs Freelin Corporation and had him imprisoned for being annoying with his drums. He paid his way onto a plasmoid warship to collect him, and the party slipped away. Freelin Corporation is based on the Rock of Bral, where the party now is. Tamenik's own read, from his backstory: if they meet, Kirrak would have him detained as a threat, assuming he wants revenge. **Season 2, Session 1:** Tamenik went home to Freelin Corporation while Kirrak is still away.
 
@@ -37,19 +42,19 @@ Every thread the campaign has opened, with its status as of Season 2, Session 3 
 
 **Korran's treasure map** `(S1)`. He now holds both halves of a Thieves' Cant map to the hoard the original *Star-Reaver* crew took from his homeland, including Hadozee gold. The cipher is his late mother's birthday, relayed via Tamenik's dream. He has made "a little progress" decoding it. Two symbols near the destination remained unreadable before the cipher was known.
 
-**The Ral'taka Expanse** `(S1)`. Korran's home plane — a jungle world of floating islands, rich in gold that the Hadozee tribes treated as part of nature. The map gives navigation instructions through it. This is the obvious destination once Bral is behind them.
+**The Ral'taka Expanse** `(S1)`. Korran's home — a Wildspace system of floating islands, rich in gold that the tribes treated as part of nature. **Easy to find; the merchant routes inside it are not.** Tino sold one of those routes to Varrow. The head gave, in the Psurlon's voice: *"Through the gold. Follow the warm current, until the islands."*
 
 **The *Star-Reaver* itself** `(S1)`. Found derelict in a toxic air envelope, hull built from a dead god's ribcage, still loaded with plundered magic items the party may or may not have taken. Korran betrayed and killed its original crew as revenge for the sacking of his homeland. Per his backstory: some of that crew, or partnered crews, may still be alive and may want him dead. Where the ship is now, and whether anyone reclaims it, is open.
 
-**Megan Forthfang's real story** `(S1)`. A Leonin who says he is King of the Red Lions of Thorndumm, has never been on a spaceship, was petrified by a plasmoid High Wizard named Gelp, and fights and heals like a level 17 paladin. Nolan's own prep note asks what his story actually is. He owes Korran a debt.
-
 **Gelp the plasmoid High Wizard** `(S1)`. Cast the Flesh to Stone that trapped Megan. Best wizard of Pip's **brother, King Pip Jr.** Unseen so far. Pip's separate cousin (who served the king through the coup) is also still unnamed.
 
-**Krysta's head** `(S1)`. The party is carrying the severed head of a Psurlon Ringer wearing the memories of Megan's daughter. Megan claimed Speak with Dead, but per Nolan he doesn't know it. Nolan's prep asks what Krysta's story was and how it bleeds into the Psurlon who ate her. The Ringer's body, back at the shipyard, had an IOU from Babe Ruth's Galactic Pie Parlors on it — connecting the Psurlons to Luckyluciano's family.
+**Krysta's head** `(S1)`. Megan had Speak with Dead cast in Session 4, then **left the party still carrying the head**. Two voices answered. The Psurlon that ate her knew the merchant route. Why she was in space is still open. The Ringer's body, back at the shipyard, had an IOU from Babe Ruth's Galactic Pie Parlors on it — **the same IOU Tino used to pay the Psurlons** (Nolan).
 
-**The Ruth Syndicate** `(S1)`. Luckyluciano's imprisonment came out of the Crustfall Conspiracy, a sting that broke open the family's pizza-parlor money laundering. Her cousin Tino "The Saucepan" Fennetti flipped and named her. Her ship, the *Slice Runner*, was found adrift full of Infernal runes. Tino is now in the party's hands (Season 2, Session 3).
+**Megan Forthfang's real story** `(S1)`. A Leonin who says he is King of the Red Lions of Thorndumm, has never been on a spaceship, was petrified by a plasmoid High Wizard named Gelp, and fights and heals like a level 17 paladin. He left the party in Session 4 to earn passage home. He still owes Korran a debt, and **comes back later in the Expanse** (the players don't know). Nolan's own prep note asks what his story actually is.
 
-**Pip's diamond stomach** `(S1)`. He is carrying 100,000 gp of diamonds internally. Some went into the Hyperdrive Core. The Chwinga finds this hilarious.
+**The Ruth Syndicate** `(S1)`. Luckyluciano's imprisonment came out of the Crustfall Conspiracy, a sting that broke open the family's pizza-parlor money laundering. Her cousin Tino "The Saucepan" Fennetti flipped and named her. Her ship, the *Slice Runner*, was found adrift full of Infernal runes. Tino was interrogated and **let go** in Season 2, Session 4. The Annex has billed the Fennettis 76,225 gp.
+
+**Pip's diamond stomach** `(S1)`. He swallowed 100,000 gp of diamonds. **Most went into repairing the Damselfly's Hyperdrive Core** (Nolan), so only a little is left in him, and the party is short on money. The Chwinga finds this hilarious.
 
 **The Charm of Ruin** `(S1)`. Pip can disintegrate a nonmagical 5-foot cube three times, then it vanishes. Uses spent so far are not recorded. Granted by the Chwinga after the Cosmic Horror fight — **not** related to curing Blackstar Fever.
 

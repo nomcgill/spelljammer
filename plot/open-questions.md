@@ -73,7 +73,7 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 
 - **Did the party share Korran's secret?** The party "shared everything," so nothing is a secret from Marfa. But the party itself has never known that Korran killed the *Star-Reaver*'s crew, and his telling of how he got to the Maw was an "overall partial truth." Does Marfa know about the crew?
 - **Was the Remove Curse prologue played?** The plan put it aboard the *Slice Runner* on approach, and Nolan's report doesn't mention it.
-- **Did anyone pick up the ruby ring?**
+- ~~**Did anyone pick up the ruby ring?**~~ **Answered (Nolan, after Session 4):** Korran had it. It was empty, and he **sold it for 1 gp**.
 - **What did the poison do to Krysta's head?**
 - ~~**Who was the Kenku after:** Marfa, or the head?~~ **Answered by Nolan: the head.** The players think it was Marfa until the Iron Annex.
 - ~~**Is Disintegrate standard issue for The Unkindness?**~~ **Answered by Nolan: yes.** Every member carries a Disintegrate ring ("they're hardcore"), plus a personal ring with its own spell.
@@ -83,7 +83,7 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 - ~~**Megan's Speak with Dead lead.**~~ **Answered:** Korran sent him to the **nearest temple** (nondescript). He took Krysta's head with him; he had it the whole time.
 - ~~**Lucy's flashback: envelope or folder?**~~ **Answered: the folder.** Same object.
 - ~~**The sibling names.**~~ **Answered:** the three are **Pip Jr.** (the eldest, now king), **Philip "Pip"** (the PC, always one L), and **Phillis**. The names are intentionally, sillily close.
-- **The Session 1 Kenku's personal ring.** Only the Disintegrate ring was found on it. Whether it had a second ring, and what happened to it, is `[unconfirmed]`.
+- **The Session 1 Kenku's personal ring.** Only the Disintegrate ring was found on it. Whether it had a second ring, and what happened to it, is `[unconfirmed]`. The Disintegrate ring itself was empty and sold in Session 4.
 - ~~**Korran's crew from Marfa: six or seven?**~~ **Answered: six.** Nicole said seven in her Session 3 recap.
 
 ## Open after Season 2, Session 3
@@ -92,5 +92,19 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
   - **What's known:** he never saw her again, and Gloamcast singled her out ("Not her").
   - **Why Korran never looked:** he never tried hard to find her. Nolan's ideas are that he assumed she was fine, or that he was ashamed to return home. Why he didn't check in on her is **Brad's call**.
   - **The "late mother" problem:** in Tamenik's fever dream, Gloamcast called her Korran's *late* mother. Does Korran believe she's dead, or did he hear that line and write it off?
-- **Who Varrow & Daughters is.** A placeholder the agent invented during Session 2 prep, not Brad's or Nolan's idea. The agent pitched a former quartermaster of a crew that sailed with the *Star-Reaver*. Nolan decides. Brad only needs asking if it touches his backstory's "partnered crews."
+- **Who Varrow is.** First name, race, look, and history are all open. Nolan: **probably the big bad of Season 2.** They haven't met him. The old *Star-Reaver* quartermaster pitch is unused.
+  - **Decided (Nolan):** Varrow plans to **use the growers' trust to raid them**. He bought the route and the mark from Tino after learning of Tino's plan.
+  - **For Session 5 (draft):** a photo of him and his daughters in a second-story foreman's office at the warehouse, so the party can recognize him later.
+- **Why was Krysta in space?** She was aboard the ship where Tino bought the route, and Megan hadn't seen her in years. Speak with Dead didn't get that question. Megan realized afterward he should have asked.
+- ~~**The IOU on the Ringer's body.**~~ **Answered:** it **is** the same IOU Tino used to pay the Psurlons. Whether the Psurlon who ate Krysta was the one he paid is still `[unconfirmed]`.
 - ~~**Does The Unkindness come for its rings?**~~ **Answered: no.** Once issued, it doesn't care about them. The Annex Kenku got away.
+
+## Open after Season 2, Session 4
+
+- **The warehouse machine.** A giant machine started moving in the dark. **Undecided** (Nolan): it might be the giant space hamster, a pepper-processing machine, a fight, or only a scare. Session 5 begins there.
+- **What Varrow left behind**, and whether Varrow has already sailed.
+- **The Fennetti invoice.** The Annex billed the family **76,225 gp**. Who among the Fennettis or Ruths hears about that, and what they do, is open.
+- ~~**Lucy's failed Persuasion.**~~ **Answered:** she's been in prison, so the Annex doesn't currently have her face in the system as a Ruth.
+- **The Loxodon artificer's name.**
+- ~~**Megan's jacket.**~~ **Answered:** it was his own.
+- **How plasmoids reproduce.** Left a mystery (Nolan). Don't fill it in.

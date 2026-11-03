@@ -67,6 +67,24 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 
 **Decided for Session 3:** **[Tino Fennetti](../npcs/tino-fennetti.md) hired The Unkindness.** He's the middleman who stole the grower's mark and sold it to a buyer already in the Ral'taka Expanse. He first appears at the Annex's back door, seen only by Lucy. Details are in the [Session 3 brainstorm](../season2/session3-brainstorm.md#the-face-at-the-back-door-nolans-opening-beat). The run sheet is [`season2/session3-plan.md`](../season2/session3-plan.md).
 
+**Decided after Session 3 (Nolan):**
+- **Tino meant to use the route and the mark himself.** When Varrow & Daughters found out about his plan, they offered a pretty penny for both, and he sold.
+- **Varrow plans to use the growers' trust to raid them.**
+- **What the head knows:** the real Krysta was **aboard the ship where Tino bought the route** from the Psurlons, and witnessed it. A Psurlon ate her before that ship docked. **The Psurlon that ate her knew the route** (Nolan, after Session 4). **Tino knew she had witnessed the deal**, and told the party that (the table beat the earlier "bar gossip only" line).
+- **Megan:** he hadn't seen Krysta in years, so learning she'd been in space startles him.
+
+**Decided for Session 4:** the session was meant to end with the party **boarding Korran's Shrike** and **Korran unfurling the chart**. **It didn't.** Session 4 ended inside the Varrow warehouse. The run sheet is [`season2/session4-plan.md`](../season2/session4-plan.md).
+- **Tallyworth's long hook:** played. He let Pip know the Annex found him "very... easy to locate," and that help would be expensive.
+
+**Decided after Session 4 (Nolan):**
+- The **Ral'taka Expanse** is easy to find. The **merchant routes within it** are not. That is what Tino sold.
+- **76,225 gp** is billed to the **Fennetti family**. Korran's Tino disguise didn't fool the other cameras.
+- Korran had the Session 1 Disintegrate ring and **sold it empty for 1 gp**. The two Annex rings stay with the party.
+- How **plasmoids reproduce** is left a mystery.
+- **Drop as hooks:** Lucy's promised temple donations; Lucy's Friday date with Tilptek.
+- **[Varrow](../npcs/varrow.md) is probably the big bad of Season 2.** Nothing about him personally is decided yet.
+- **The Pie Parlors IOU on the Ringer's body is the same IOU Tino used** to pay the Psurlons.
+
 **Resources Nolan has ready:**
 
 - **A map of every room in the Iron Annex**, for extended combat or exploration. Ideas for using it are in the [Session 3 brainstorm](../season2/session3-brainstorm.md#using-your-iron-annex-map).
@@ -74,6 +92,13 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 **From the players:**
 
 - **A beach episode** (Nicole and Brad, Session 3 table talk): a stop at the "Astral Shore," or the **"Joisey Shore,"** a Jersey Shore riff on the Joisey Jiffs.
+- **Jetson and the *DiceGunner*** (Nolan, Session 4): there are **repercussions not yet covered** for him stealing the family ship to break the party out of Warden's Maw.
+- **Jetson's future** (Brad and Nolan, Session 4): Korran secretly hopes to turn him into a pirate someday. That could **pair with or conflict with** Lucy introducing him to the family crime business.
+- **Varrow's face** (Nolan, after Session 4): a photo of him and his daughters in the warehouse, so the party can recognize the season's likely big bad later.
+
+~~Lucy promising regular donations to the temple of Mastercat in the Ruths' name.~~ *(Drop: said at the table in Session 4; Nolan is not pursuing it.)*
+
+~~Lucy's date with Tilptek on Friday.~~ *(Drop: asked in Session 3; Nolan is not pursuing it.)*
 
 - Nicole's pitch for Lucy: [The Case of the Missing Stromboli](../player-characters/luckyluciano-ruth.md#pitch-the-case-of-the-missing-stromboli).
 
@@ -160,7 +185,7 @@ Brainstorm only. Check the Korran twists with Brad first, since they rewrite his
 - He plans to gather allies for a revolution against his brother, whom he calls the usurper.
 - Gelp is the king's wizard, and Gelp is the one who petrified Megan. Megan is a natural first ally, and he owes Korran a debt.
 - Pip is still scryable.
-- He's carrying 100,000 gp of diamonds, minus what fuelled the Hyperdrive Core.
+- He swallowed 100,000 gp of diamonds, but **most went into repairing the Damselfly's Hyperdrive Core** (Nolan). Only a little is left, so the party doesn't have much money.
 - He has the Charm of Ruin. How many of its three uses are spent isn't recorded.
 - His unnamed cousin served the king through the coup, and could be a possible defector.
 
@@ -179,7 +204,7 @@ Brainstorm only. Check the Korran twists with Brad first, since they rewrite his
 - **Already played:** docking, Marfa's breakfast, and the Kenku attack.
 - **The investigation:** Marfa is flustered and sends the party to the Iron Annex. From there they follow several avenues: outpaying or pressuring the Annex, the Kenku guild and its ring, the reopening night, the Jiffs, the docks, the DAV, and getting Krysta's head questioned.
 - **How it closes:** the case closes on Bral. The card is recovered, Bugsy and the Jiffs are cleared, and the culprit is named. But **the client has already left for the Expanse.**
-- **Loose ends tied off:** the Shrike is registered and named, and the head gives up the **route into the Expanse**.
+- **Loose ends tied off:** the Shrike is registered and named. The head **gave a route in the Psurlon's voice** (Session 4): *"Through the gold. Follow the warm current, until the islands."* That is the merchant route within the Expanse. Tino sold it to Varrow; the party may still need Tino, the warehouse, the DAV filing, or Korran's map to follow it.
 
 ### Beat 2: The crossing (one or two sessions)
 
@@ -187,7 +212,7 @@ Brainstorm only. Check the Korran twists with Brad first, since they rewrite his
   - neogi in a nightspider;
   - ship gravity failing;
   - teleporting on and off the ship.
-- **The *Star-Reaver* is now optional.** Its Star Chart was the way into the Expanse, but the head now gives the route. It's still there for the Spelljamming Helm and Void Crystal Focus, and for learning that **someone else has been aboard**.
+- **The *Star-Reaver* is now optional.** Its Star Chart helps navigate the Expanse, but the party may have the way in from Tino or the DAV filing. It's still there for the Spelljamming Helm and Void Crystal Focus, and for learning that **someone else has been aboard**.
 - **Flashbacks** fill the travel time. See [`season2/flashbacks.md`](../season2/flashbacks.md).
 
 ### Beat 3: The Ral'taka Expanse (the middle of the season)
@@ -208,7 +233,7 @@ Brainstorm only. Check the Korran twists with Brad first, since they rewrite his
 
 - **Megan's war at home.** He wants to get back to the war between the **Red Lions and the Brown Lions**, and doesn't know how it's going. Krysta's head gives him the first news. Paying this off is a strong **season finale or Season 3 hook**.
 - **The Iron Annex and "the boss."** The Annex brokered both the manhunt in Season 1 and the Kenku contract.
-- **The Kenku guild wants its ring back.**
+- ~~**The Kenku guild wants its ring back.**~~ **Dropped:** The Unkindness doesn't care about the rings once they're issued (Nolan).
 - **Someone from Warden's Maw wants revenge.** This is the later hook from the hook bank.
 - **The plasmoid court and Gelp.** Pip's revolution needs a face to the enemy at some point.
 - **Tamenik at Freelin Corporation.** He's available as a cameo or a rumour, and Kirrak comes home eventually.

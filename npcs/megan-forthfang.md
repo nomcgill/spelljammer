@@ -2,11 +2,11 @@
 
 **Appears in:** Season 1, Season 2
 
-Leonin. Claims to be the **King of the Red Lions** of Thorndumm. Currently the party's single most powerful asset, and the biggest question mark among the NPCs.
+Leonin. Claims to be the **King of the Red Lions** of Thorndumm. He left the party in Season 2, Session 4, and is the biggest question mark among the NPCs.
 
 ## Status
 
-Alive, travelling with the party, now on the [Rock of Bral](../locations/rock-of-bral.md). Marfa beamed him off the Damselfly with the others. Owes [Korran](../player-characters/korran-cloudjumper.md) a debt: *"I owe a debt to you, Hadozee."*
+Alive, on the [Rock of Bral](../locations/rock-of-bral.md), **no longer with the party**. He left after Speak with Dead in Season 2, Session 4, still carrying [Krysta](krysta.md)'s head, to earn passage home. Owes [Korran](../player-characters/korran-cloudjumper.md) a debt: *"My debt to you stands, Hadozee."*
 
 ## Stats
 
@@ -28,9 +28,14 @@ His own daughter Krysta had been eaten and replaced by a Psurlon Ringer, and the
 
 **His first priority** (Nolan): getting **home to help in the war between the Red Lions and the Brown Lions**. He doesn't know how it's going. How that war relates to the plasmoid attack on Thorndumm is `[unconfirmed]`.
 
-**Planned for Session 3:** after the temple's Speak with Dead, he leaves the party to find his way home, **keeping Krysta's head.**
+**He left in Session 4,** keeping Krysta's head.
+- **Why he left:** he doesn't know where home is, and the party can't help him find it. He'll **earn his own passage**, and find someone on the Rock of Bral who knows where Thorndumm is. From what has been described of the Expanse, **he doesn't believe Thorndumm is there** (Nolan).
+- **No hard feelings:** he isn't bitter. He still owes **Korran** his life. He told Pip he has **no debt to Pip**.
 
-**What the players don't know:** he returns later, in the Ral'taka Expanse.
+**What the players don't know:**
+- **His return:** he comes back later, in the Ral'taka Expanse.
+
+He **hadn't seen Krysta in years**. In Session 4 he learned she'd been in space, and that he should have asked the head how. Why she was out there is `[unconfirmed]`.
 
 **His motivation going into Season 2** (Nolan): he doesn't know how to get home, he doesn't know anyone, and he'd like some insight into the IOU that was on his daughter's body. He doesn't know Speak with Dead, which would likely help solve the mystery of her death.
 
@@ -67,4 +72,13 @@ He is also carrying, or was offered as an option, a **unicorn horn** — an alte
 - **Tino:** he followed the party into the back, holding Krysta's head tight. At the window he **launched his longsword's blade** into the fleeing Tino. The blade reattaches by magic, per Xenk Yendar's stat block.
 - **Gary's grenade** hit him for 10 force.
 - **The card:** he picked up the card that fell from Tino's coat, but **couldn't read it**.
-- **Still with the party, and still carrying the head.** The temple and his goodbye haven't been played yet.
+- **Still with the party, and still carrying the head.**
+
+### Session 4
+
+- He helped carry Tino out of the Annex, and went with the party to the Pie Parlor basement and then the temple.
+- **Speak with Dead:** Lucy paid 2 gp at a temple of Mastercat. Megan asked all five questions (see [Krysta](krysta.md)). He fell to his knees when Krysta's voice said she loved him.
+- **Goodbye:** *"It is not my daughter, but it was the last thing that saw her. I have a kingdom at war. I must find a way home."* He wrapped the head in **his own jacket** and left.
+  - To Korran: *"My debt to you stands, Hadozee. If you see me again, I still owe you."*
+  - To Lucy: the pizza was very good. He will remember.
+  - To Pip: no debt. He refused to promise the rebellion.
