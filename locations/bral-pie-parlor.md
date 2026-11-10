@@ -22,3 +22,7 @@ At the table the party told Marfa the whole Season 1 story. When she asked for t
 ### Session 4
 
 The party brought [Tino Fennetti](../npcs/tino-fennetti.md) in through the back and down to the basement. [Marfa](../npcs/marfa-ruth.md) wasn't there. [Jetson](../npcs/jetson.md) asked **[Sandra](../npcs/sandra.md)** behind the bar, who said Marfa wasn't at this location. The party chained Tino, got his confession, let him go, and took a short rest over a free slice of pie.
+
+### Session 5
+
+Sandra said Marfa had just been there and gone **home**. The Marfa scene happened at Lucy's family townhome, not here.

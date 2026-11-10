@@ -6,7 +6,7 @@ The **interplanetary pizza prince of the criminal underworld.** [Luckyluciano](.
 
 ## Status
 
-Offscreen. Named but never appeared.
+Offscreen. Named but never appeared. As of Season 2, Session 5 he is **not on the Rock of Bral**. Marfa does not know where, exactly. He probably doesn't know Lucy is back. They work independently.
 
 ## The operation
 

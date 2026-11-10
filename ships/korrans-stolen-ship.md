@@ -11,7 +11,7 @@ A smaller ship that [Korran](../player-characters/korran-cloudjumper.md) hijacke
 - Name, crew capacity, weapons: still to be decided.
 - Whether the plasmoids noticed the theft, and whether they want it back: `[unconfirmed]`.
 - Whether it becomes the party's new ship now that the Damselfly is gone: `[unconfirmed]`.
-- **Possible direction (Nolan):** re-register it so the plasmoids can't follow it so easily. See the [Session 1 brainstorm](../season2/session1-brainstorm.md#why-the-party-is-at-the-iron-annex).
+- **Possible direction (Nolan):** re-register it so the plasmoids can't follow it so easily. See the [Session 1 brainstorm](../season2/session1-brainstorm.md#why-the-party-is-at-the-iron-annex). **Session 5:** Marfa says registration **has gone through**. Paperwork at the helm looked legit. Re-registering **wipes the scry**. Name still Brad's.
 
 ## Season 1
 
@@ -25,4 +25,10 @@ He flew it to the [Rock of Bral](../locations/rock-of-bral.md) alongside Marfa's
 
 ### Session 1
 
-Docked beside the *Slice Runner* at the Bral shipyard. [Lawrence](../npcs/lawrence.md), the dock officer, waived the costs because of Marfa, but said the ship **still has to be registered at the DAV** when it opens a couple of hours later. Per Nolan's plan, re-registering wipes the scry-locating trace on the ship, and probably on whoever took its helm, and makes it officially Korran's. As of the end of the session, it's **not yet registered**.
+Docked beside the *Slice Runner* at the Bral shipyard. [Lawrence](../npcs/lawrence.md), the dock officer, waived the costs because of Marfa, but said the ship **still has to be registered at the DAV** when it opens a couple of hours later. Per Nolan's plan, re-registering wipes the scry-locating trace on the ship, and probably on whoever took its helm, and makes it officially Korran's. As of the end of Session 4, it's **not yet registered**.
+
+### Session 5
+
+Marfa told the party registration **went through**. Korran found the paperwork at the helm; it looked legit. Scry trace wiped.
+
+He skipped a long rest to vet the crew. [Dottie](../npcs/dottie.md) and [Wrench](../npcs/rocco-wrench.md) arrived. [Lumen](../npcs/lumen.md) and [Nedd, Nodd, and Nudd](../npcs/nedd-nodd-nudd.md) have not appeared yet. **Skipper** (Matt) is approaching as navigator — leave him for next session. The name is still Brad's; he is thinking before next session. They did **not** launch. Jobs are in the [Session 5 plan](../season2/session5-plan.md#who-does-what-on-this-ship).

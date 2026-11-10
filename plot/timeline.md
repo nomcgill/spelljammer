@@ -111,3 +111,7 @@ Korran's raid flashback. The party beats the Kenku, cuts off Tilptek's arm, and 
 ### Session 4
 
 Tallyworth invoices the Fennetti family **76,225 gp**. The party interrogates Tino in the Pie Parlor basement and **lets him go**. He sold the grower's mark and the merchant route within the Expanse to Varrow. Speak with Dead on Krysta's head; **Megan leaves**. Korran picks the lock of the Varrow warehouse. A machine starts moving in the dark. Cliffhanger.
+
+### Session 5
+
+Warehouse: giant space hamster (Roger), thunder glyph, photo of Varrow left behind, torn recipe, Split Current chart, unpaired Sending Stone. Marfa's townhome: get the mark; Pip's deal on a 22; registration done. Lucy and Pip long rest. Korran skips rest to vet Dottie and Wrench. Skipper approaching. No launch.

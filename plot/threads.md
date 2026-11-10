@@ -1,10 +1,10 @@
 # Plot Threads
 
-Every thread the campaign has opened, with its status as of Season 2, Session 4. Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
+Every thread the campaign has opened, with its status as of Season 2, Session 5. Each thread is tagged with the season it opened in — `(S1)` for Season 1, `(after S1)` for threads raised between seasons, `(S2)` for Season 2. Sourced from [`season1/session-notes.md`](../season1/session-notes.md) and the [Spelljammer Adventure Ideas](https://docs.google.com/document/d/1qV2FOTgUu6EJ_Ki1f8F3XIHX3K64nYGXikZsHe_P-h8/edit) doc.
 
 ## Open and pressing
 
-**Pip's revolution** `(S1)`. Now on the Rock of Bral, Pip plans to **gather allies and lead a revolution against his usurping brother, the plasmoid king**. Pip sees the brother as the usurper, even though it was Pip's own coup that failed.
+**Pip's revolution** `(S1)`. Now on the Rock of Bral, Pip plans to **gather allies and lead a revolution against his usurping brother, the plasmoid king**. Pip sees the brother as the usurper, even though it was Pip's own coup that failed. **Session 5:** Marfa's price is locked (Persuasion 22): a piece of the kingdom, a seat at court, a share of the Expanse haul, and a crewmate watching the books. She will fund a stealth insertion against the brother **if** they bring enough back.
 
 **The Case of the Missing Stromboli** `(after S1)`. This began as Nicole's pitch: Babe Ruth's legendary Stromboli recipe has been stolen, all signs point to the rival **Joisey Jiffs**, and Lucy wants it back to prove herself to her father. Nicole's twist: *"What if the recipe was never meant to be stolen?"* Full pitch in [Luckyluciano's file](../player-characters/luckyluciano-ruth.md#pitch-the-case-of-the-missing-stromboli).
 - **Now live (Season 2, Session 1):** Marfa asked the party to help solve it. She says it **began at the corner table** of the [Bral flagship Pie Parlor](../locations/bral-pie-parlor.md).
@@ -20,7 +20,7 @@ Every thread the campaign has opened, with its status as of Season 2, Session 4.
 
 **The Fennetti invoice** `(S2)`. The Iron Annex billed the Fennetti family **76,225 gp** after Session 4. Korran left with the group out the front, still disguised as Tino; the other cameras saw through it. The Annex doesn't currently have Lucy's face in the system as a Ruth, because she's been in prison. **[Frankie "the Gasman"](../npcs/frankie-the-gasman.md)** is the family's lawyer.
 
-**Varrow** `(S2)`. [Varrow](../npcs/varrow.md) of Varrow & Daughters is **probably Season 2's big bad** (Nolan). The party hasn't met him. They picked the lock of his warehouse in Session 4 and stopped in the dark as a machine started moving. They don't know if he has already sailed.
+**Varrow** `(S2)`. [Varrow](../npcs/varrow.md) of Varrow & Daughters is **probably Season 2's big bad** (Nolan). Astral elf, blonde, four daughters. The party has seen his photo (left it; Elvish plate) and has his Split Current chart. Marfa: he used to coordinate the pepper **without the route**. They still have not met him. They don't know if he has already sailed.
 
 **Marfa knows everything** `(S2)`. The party told her the whole Season 1 story at breakfast. She's the family's dealmaker, so she now knows exactly what each of them wants and how to trade for it.
 
@@ -28,9 +28,9 @@ Every thread the campaign has opened, with its status as of Season 2, Session 4.
 
 **The Damselfly left behind** `(S1)`. The party left the Damselfly, with A.R.I.A. offline aboard it, beside the plasmoid mothership so they could get away. What happens to it and A.R.I.A. now is open.
 
-**Korran's stolen ship** `(S1)`. Korran hijacked a Shrike out of the mothership's loading bay. The plasmoids may want it back. It still has to be **registered at the DAV**, which wipes its scry trace. The costs were waived at the dock thanks to Marfa. See [`ships/korrans-stolen-ship.md`](../ships/korrans-stolen-ship.md).
+**Korran's stolen ship** `(S1)`. Korran hijacked a Shrike out of the mothership's loading bay. The plasmoids may want it back. **Session 5:** Marfa says it **is registered**; paperwork at the helm looked legit; scry wiped. Still unnamed (Brad thinking). Dottie and Wrench aboard; Skipper approaching for Matt. They have not launched. See [`ships/korrans-stolen-ship.md`](../ships/korrans-stolen-ship.md).
 
-**The Ruth family, up close** `(S1)`. Marfa rescued the party in the *Slice Runner* and they owe her. How she got Lucy's impounded ship back is `[unconfirmed]`. Jetson still lost the family's *DiceGunner*, and there are **repercussions not yet covered** (Nolan, Session 4). Korran secretly hopes to make a pirate of him; Lucy wants him in the family business.
+**The Ruth family, up close** `(S1)`. Marfa rescued the party in the *Slice Runner* and they owe her. How she got Lucy's impounded ship back is `[unconfirmed]`. Jetson lost the family's *DiceGunner*. **Grounded** if they ask (proud he took it, mad he didn't bring it back). Babe is **off Bral** as of Session 5 and probably doesn't know Lucy is back. Korran still hopes to make a pirate of Jetson; Lucy wants him in the family business.
 
 **Kirrak wants Tamenik back** `(S1)`. Tamenik's nephew runs Freelin Corporation and had him imprisoned for being annoying with his drums. He paid his way onto a plasmoid warship to collect him, and the party slipped away. Freelin Corporation is based on the Rock of Bral, where the party now is. Tamenik's own read, from his backstory: if they meet, Kirrak would have him detained as a threat, assuming he wants revenge. **Season 2, Session 1:** Tamenik went home to Freelin Corporation while Kirrak is still away.
 
@@ -40,9 +40,9 @@ Every thread the campaign has opened, with its status as of Season 2, Session 4.
 
 ## Open and slower-burning
 
-**Korran's treasure map** `(S1)`. He now holds both halves of a Thieves' Cant map to the hoard the original *Star-Reaver* crew took from his homeland, including Hadozee gold. The cipher is his late mother's birthday, relayed via Tamenik's dream. He has made "a little progress" decoding it. Two symbols near the destination remained unreadable before the cipher was known.
+**Korran's treasure map** `(S1)`. He now holds both halves of a Thieves' Cant map to the hoard the original *Star-Reaver* crew took from his homeland, including Hadozee gold. The cipher is his late mother's birthday, relayed via Tamenik's dream. He has made "a little progress" decoding it. Two symbols near the destination remained unreadable. **Session 5:** Varrow's Split Current chart is the **same stretch** of the Expanse. He has not overlapped the maps or connected common features yet.
 
-**The Ral'taka Expanse** `(S1)`. Korran's home — a Wildspace system of floating islands, rich in gold that the tribes treated as part of nature. **Easy to find; the merchant routes inside it are not.** Tino sold one of those routes to Varrow. The head gave, in the Psurlon's voice: *"Through the gold. Follow the warm current, until the islands."*
+**The Ral'taka Expanse** `(S1)`. Korran's home — a Wildspace system of floating islands, rich in gold that the tribes treated as part of nature. **Easy to find; the merchant routes inside it are not.** Tino sold one of those routes to Varrow. The head gave, in the Psurlon's voice: *"Through the gold. Follow the warm current, until the islands."* Varrow's chart labels the fork **the Split Current**. Korran has that paper.
 
 **The *Star-Reaver* itself** `(S1)`. Found derelict in a toxic air envelope, hull built from a dead god's ribcage, still loaded with plundered magic items the party may or may not have taken. Korran betrayed and killed its original crew as revenge for the sacking of his homeland. Per his backstory: some of that crew, or partnered crews, may still be alive and may want him dead. Where the ship is now, and whether anyone reclaims it, is open.
 

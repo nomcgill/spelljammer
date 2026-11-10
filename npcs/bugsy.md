@@ -18,7 +18,6 @@ That gap is the engine of Lucy's personal arc: Lucy is out to prove to her fathe
 
 ## Unknowns
 
-- How far the **repercussions** for Jetson stealing the *DiceGunner* have gone. Nolan flagged them in Session 4 and hasn't covered them yet.
 - Jetson's father.
 - How she feels about Lucy's ambitions.
 
@@ -31,3 +30,7 @@ The party met her briefly at the parlor before [Marfa](marfa-ruth.md) shooed her
 ### Session 4
 
 She **didn't let Jetson go** to the Varrow warehouse after he bragged about the Annex adventures.
+
+### Session 5
+
+Did not appear. She lives elsewhere with Jetson; her childhood room at the family townhome is a 2000s time capsule. **Jetson is grounded** if anyone asks: proud he took the *DiceGunner*, mad he didn't bring it back.

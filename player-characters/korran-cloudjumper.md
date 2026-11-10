@@ -92,6 +92,11 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
   - **The rings:** he had the Session 1 Kenku's empty Disintegrate ring all along and **sold it for 1 gp**. The Loxodon identified the Annex **Disintegrate ring (one charge)** for free. He gave the **Darkness ring (one charge)** to Pip.
   - **The warehouse:** he picked the back lock (17) and stepped into the dark. A machine started moving around a corner. He has no darkvision.
   - **Out of character:** Brad's secret goal is to turn [Jetson](../npcs/jetson.md) into a pirate someday.
+- **Session 5.**
+  - **The office:** picked the glyph-trapped door on a **28**. Took **6 thunder** (half, then a feat). Lit a hooded lantern. Investigation 19 on the desk. **Has Varrow's Split Current chart.** Left the photo. Compared it to his treasure map later: **same stretch of the Expanse**, not properly matched yet.
+  - **Marfa** told him the ship is registered and she will hunt him if he doesn't help get the mark. Insight on the look he shot Pip: he will act in his own interest.
+  - **Skipped the long rest** to vet the crew. Awake ~22 hours already; **exhaustion 1 quite soon**. Wants to recruit Jetson against his parents' will.
+  - Met [Dottie](../npcs/dottie.md) and [Wrench](../npcs/rocco-wrench.md). Wrench passed Insight 18. **Skipper** approaching — leave for Matt. Ship still unnamed; Brad is thinking.
 
 ## Threads on him
 

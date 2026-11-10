@@ -76,13 +76,15 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 **Decided for Session 4:** the session was meant to end with the party **boarding Korran's Shrike** and **Korran unfurling the chart**. **It didn't.** Session 4 ended inside the Varrow warehouse. The run sheet is [`season2/session4-plan.md`](../season2/session4-plan.md).
 - **Tallyworth's long hook:** played. He let Pip know the Annex found him "very... easy to locate," and that help would be expensive.
 
+**Decided for Session 5:** **warehouse → rest → board the Shrike and set off.** **What actually played:** warehouse, Marfa/Pip's deal anyway, Lucy and Pip long rest, Korran vetting crew. **No launch.** The run sheet is [`season2/session5-plan.md`](../season2/session5-plan.md). Log in [`season2/session-notes.md`](../season2/session-notes.md#session-5).
+
 **Decided after Session 4 (Nolan):**
 - The **Ral'taka Expanse** is easy to find. The **merchant routes within it** are not. That is what Tino sold.
 - **76,225 gp** is billed to the **Fennetti family**. Korran's Tino disguise didn't fool the other cameras.
 - Korran had the Session 1 Disintegrate ring and **sold it empty for 1 gp**. The two Annex rings stay with the party.
 - How **plasmoids reproduce** is left a mystery.
 - **Drop as hooks:** Lucy's promised temple donations; Lucy's Friday date with Tilptek.
-- **[Varrow](../npcs/varrow.md) is probably the big bad of Season 2.** Nothing about him personally is decided yet.
+- **[Varrow](../npcs/varrow.md) is probably the big bad of Season 2.** Astral elf, **blonde**, four daughters, gold pepper-leaf pin, Elvish plate. Photo left in the office. First name and story still open.
 - **The Pie Parlors IOU on the Ringer's body is the same IOU Tino used** to pay the Psurlons.
 
 **Resources Nolan has ready:**
@@ -92,9 +94,13 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 **From the players:**
 
 - **A beach episode** (Nicole and Brad, Session 3 table talk): a stop at the "Astral Shore," or the **"Joisey Shore,"** a Jersey Shore riff on the Joisey Jiffs.
-- **Jetson and the *DiceGunner*** (Nolan, Session 4): there are **repercussions not yet covered** for him stealing the family ship to break the party out of Warden's Maw.
+- **Jetson and the *DiceGunner*** (Nolan, Session 4; Session 5): the repercussion is **Bugsy grounding him**. Not mad he took the family ship — her brave boy. Mad he didn't bring it back. Not said at the table. If they ask or check, he's grounded. Korran wants to recruit him anyway.
 - **Jetson's future** (Brad and Nolan, Session 4): Korran secretly hopes to turn him into a pirate someday. That could **pair with or conflict with** Lucy introducing him to the family crime business.
-- **Varrow's face** (Nolan, after Session 4): a photo of him and his daughters in the warehouse, so the party can recognize the season's likely big bad later.
+- **Varrow's face** (Session 5): **astral elf, blonde**, photo with **four daughters**, gold pepper-leaf pin, Elvish plate. They left the photo. Roger's yellow-haired office visitor is always Varrow.
+- **Matt / Skipper** (Session 5 ended): Skipper is **approaching the ship**. Leave him for Matt next session. Do not NPC him.
+- **Unpaired Sending Stone:** Lucy has one. Korran used it; nobody on the other end. Where the other is is undecided.
+- **Ship's name:** Brad is thinking before next session.
+- **Korran's exhaustion:** skipped long rest; 22 hours awake; exhaustion 1 quite soon.
 
 ~~Lucy promising regular donations to the temple of Mastercat in the Ruths' name.~~ *(Drop: said at the table in Session 4; Nolan is not pursuing it.)*
 

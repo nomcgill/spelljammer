@@ -8,6 +8,8 @@ The party's pilot, and the reason they have a ship at all. Family connection to 
 
 Alive, on the [Rock of Bral](../locations/rock-of-bral.md). His Githyanki poison was healed by [Megan Forthfang](megan-forthfang.md) in Session 7. He passed out at the end of Session 6 and was unconscious or barely functional through the mothership's arrival. [Marfa](marfa-ruth.md) beamed him off the Damselfly with the rest of the party and flew him to Bral in the [*Slice Runner*](../ships/ruth-family-ships.md#the-slice-runner).
 
+**Session 5:** he is **not sailing**. [Bugsy](bugsy.md) grounded him — not for taking the *DiceGunner*, for not bringing it back. Not said at the table; true if they ask.
+
 ## Who he is
 
 [Luckyluciano](../player-characters/luckyluciano-ruth.md)'s **nephew**, and much younger than her. He's the son of her older sister [Bugsy](bugsy.md), so **"Aunt Lucy"** is literal. That makes [Babe Ruth](babe-ruth.md) and [Marfa Ruth](marfa-ruth.md) his grandparents. His father is `[unconfirmed]`.
@@ -47,5 +49,9 @@ He came to Marfa's breakfast at the Pie Parlor, but she told him to "join his mo
 
 - He watched the party carry Tino out of the Annex, then went looking for Marfa and asked [Sandra](sandra.md) at the bar.
 - Lucy invited him to the warehouse to learn what they don't teach at the academy. **[Bugsy](bugsy.md) didn't let him go** after he bragged about the adventures.
-- **The *DiceGunner* (Nolan, at the table):** he stole the family ship to break the party out of Warden's Maw. That was half a day's travel out, and longer coming back because the hyperspace drive was broken. Then he lost the ship. There are **repercussions not yet covered**.
+- **The *DiceGunner* (Nolan, at the table):** he stole the family ship to break the party out of Warden's Maw. That was half a day's travel out, and longer coming back because the hyperspace drive was broken. Then he lost the ship.
 - **Brad's goal, said at the table:** turn him into a pirate someday. Nolan noted that could pair with or conflict with Lucy introducing him to the family crime business.
+
+### Session 5
+
+Did not appear. **Grounded** (Nolan): Bugsy is proud he took the *DiceGunner*, mad he didn't bring it back. That line was not said at the table. If they ask, or go check, they find him grounded. [Korran](../player-characters/korran-cloudjumper.md) wants to recruit him anyway, against his parents' will.

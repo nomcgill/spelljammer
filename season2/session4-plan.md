@@ -1,6 +1,6 @@
 # Season 2, Session 4: Plan
 
-**Played Monday, November 2, 2026.** What happened is in [`session-notes.md`](session-notes.md#session-4). The session **diverged**: it ended inside the Varrow warehouse, not aboard the Shrike. Scenes 3 (Marfa), 5b (the DAV) and 5c (boarding) were not reached. They, and finishing the warehouse, are for Session 5.
+**Played Monday, November 2, 2026.** What happened is in [`session-notes.md`](session-notes.md#session-4). The session **diverged**: it ended inside the Varrow warehouse, not aboard the Shrike. Scenes 3 (Marfa), 5b (the DAV) and 5c (boarding) were not reached. They, and finishing the warehouse, are in the [Session 5 plan](session5-plan.md).
 
 The original run sheet, in table order. **Where it was meant to end** (Nolan): at the end of scene 5, with the party **boarding Korran's Shrike** and Korran **unfurling the chart**. They leave the Rock of Bral for the [Ral'taka Expanse](../locations/raltaka-expanse.md) at the start of Session 5. No combat is planned. The tension comes from **three decisions** and the skill checks around them.
 
@@ -28,7 +28,7 @@ The three decisions in this session, in table order. A fourth is saved for the s
 | 1 | What happens to Tino | Lucy, with the party weighing in | [2](#2-tino-talks) |
 | 2 | What the Ruths get for backing Pip's coup | Pip | [3](#3-marfa-settles-accounts) |
 | 3 | What to ask the head, with only five questions | The whole party, with Megan pushing | [4](#4-the-temple) |
-| 4 *(Session 5)* | Where in the Expanse to aim first | Korran, with the party | [Saved for Session 5](#saved-for-session-5) |
+| 4 *(Session 5)* | Where in the Expanse to aim first | Korran, with the party | [Session 5 plan](session5-plan.md#3-the-ship-and-launch) |
 
 ## Before you run this
 
@@ -300,37 +300,7 @@ Korran registers the Shrike. Marfa has already waived the costs. Registering **w
 
 ## Saved for Session 5
 
-Session 4 ended inside the warehouse, not at the chart table. Session 5 picks up there, then (if there's time) Marfa, the DAV, boarding, plotting the course, Decision 4 and the launch.
-
-### Plotting the course
-
-Aboard the newly named Shrike, before launch. Korran spreads out the **treasure map**, which is in Thieves' Cant with his mother's birthday as the cipher. Two symbols near the destination have never been readable.
-
-**The check: Intelligence with navigator's tools (DC 15, Korran).** Krysta's head can't give the route (it only saw the route being sold), so combine the map with whatever else they have. Grant advantage if they have one of these: Tino's memory of the route, Tallyworth's manifest, or the DAV filing.
-- **Success:** the route and the map line up. One of the two unreadable symbols now makes sense. **What it means is for you to decide**, or you can leave it as "a place, and he knows it."
-- **Failure:** the route is clear enough to get into the Expanse, but the symbols stay dark.
-- **Help:** Lucy has navigator's tools too, so she can give advantage.
-
-### Decision 4: where to aim first
-
-The Expanse is a maze of floating islands. Put the choice to the party, with Korran's voice loudest:
-1. **Chase Varrow.** Follow the old trade route straight to **the growers**, where Varrow is using Babe's mark. This is the fastest way to get the mark back for Marfa and Pip's deal, and to find out what Varrow wants with Korran's people.
-2. **Go for the hoard.** Follow Korran's map to the *Star-Reaver* crew's hoard first. That's a war chest for Pip and a fortune for Lucy, and it may put them ahead of anyone else who knows it's there.
-3. **Go home first.** Head for the **Cloudjumper Tribe**: Korran's home island and his people, and maybe news of his mother. **This is Brad's to offer, or not.** Korran never went looking before.
-
-Whatever they pick sets their heading.
-
-### The launch
-
-*Read-aloud:*
-
-> The Shrike slips out of its berth, the Rock of Bral falling away beneath you: towers on towers, lanterns, laundry lines, a hundred colours that don't belong to any one world. Ahead, the silver haze of the Astral Sea. Somewhere past it, warm gold light.
-
-If Jetson is aboard, give him the line:
-
-> *"PUNCH IT."*
-
-**Optional final cut:** back to the Ral'taka Expanse. The grower stands at the edge of their island, watching a ship moored by the groves. Someone at the rail is handing out gifts. The grower smiles. Their "friend" is back again.
+Session 4 ended inside the warehouse, not at the chart table. The run sheet is now [`session5-plan.md`](session5-plan.md): warehouse and the machine, Varrow clues plus one map-symbol, Marfa and Pip's price, rest, the six crew waiting inside the Shrike, Decision 4, launch.
 
 ## Skill checks at a glance
 

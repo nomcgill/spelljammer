@@ -92,6 +92,10 @@ The front line, and the reason the enemy can find them.
   - **Megan** told him he has **no debt** to Pip. Pip asked him to show up for the rebellion anyway.
   - **The Darkness ring** (one charge) was given to him at the warehouse door.
   - How plasmoids reproduce came up at the table. **Left a mystery** (Nolan).
+- **Session 5.**
+  - **The warehouse:** tasted hamster feed, spat it out, guarded the door. Took **25 thunder** from the office glyph. Helped Korran search.
+  - **Marfa:** Persuasion **22**. Deal locked: she gets a piece of the kingdom, a seat at court, a share of the Expanse haul, and a crewmate watching. She will fund a stealth insertion against his brother if they bring enough back. He asked what's in it for him, then pitched assassination over a 100,000-slime army.
+  - **Long rest** at Lucy's townhome.
 
 ## Threads on him
 

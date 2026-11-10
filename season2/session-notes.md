@@ -318,10 +318,93 @@ He kept the head, wrapped in **his own jacket**. *"It is not my daughter, but it
 - **Frankie "the Gasman"** is the family's lawyer.
 - The Annex doesn't have Lucy's face in the system as a Ruth, because she's been in prison.
 
-### Where Session 5 picks up
+### Where Session 5 picked up
 
-Inside the dark Varrow & Daughters warehouse, with a machine grinding around a corner. What the machine is is **undecided**. Draft for the rest of the warehouse: a second-story **foreman's office** with a photo of [Varrow](../npcs/varrow.md) and his daughters. Planned in Session 4 but **not yet played**:
-- Finishing the warehouse.
-- **Marfa's scene** and Pip's price for Ruth backing.
-- The **DAV** and naming the Shrike.
-- **Boarding** and Korran unfurling the chart.
+Inside the dark Varrow & Daughters warehouse, with a machine grinding around a corner.
+
+---
+
+## Session 5
+
+Played Monday, November 9, 2026. Plan: [`session5-plan.md`](session5-plan.md). The session was recorded. The raw transcript and a fuller blow-by-blow are in [`transcripts/season2/`](../transcripts/season2/session5-summary.md).
+
+**At the table:** Nicole, Brad and Drew. Matt showed his baby at the start of the recording and left. He did not play.
+
+The session covered the warehouse, Marfa's deal (the plan had parked it; they went looking), a long rest for Lucy and Pip, and Korran starting to vet the crew. It **did not** launch. Lumen and the penguin triplets were not introduced.
+
+### The warehouse: Roger
+
+- Power off. They **did not** hit the light switch. Lucy has devil's sight; Pip darkvision 60; Korran none. Lucy held Korran's hand in the dark.
+- The grinding is a **giant space hamster** in a treadwheel crane, tired, maybe 600 pounds, too fat to climb out, slowly moving empty loft platforms. Gold-dusted pepper smell. Feed sacks on the floor.
+- Lucy pocketed feed. Pip tasted it and spat it out. Table talk: Giffs might be a pizza-only diet — **mentioned, possibly canonical** (Nolan).
+- Lucy went to the hamster. Korran and Pip went to the office.
+
+### The thunder glyph
+
+- Office door locked. They did **not** spot the glyph. Korran picked it on a **28**. The lock opened and **Explosive Runes (thunder)** fired.
+- **Pip 25 thunder.** **Korran 6** (half, then a feat; which feat doesn't matter). **Lucy 0.**
+- Windows rattled. A dog barked two buildings over. The hamster sprinted on the wheel. Nobody came.
+- Korran lit a **hooded lantern**. A joke about a second, light-activated trap; **not real**.
+
+### Speak with Animals
+
+- Lucy: Speak with Animals, Animal Handling **16** with advantage. The hamster slows. She feeds it.
+- Varrow's people call it Hamster. **Roger** is the name in its head. Nobody at Varrow & Daughters used that.
+- She tried to recruit it as a war steed. It wants food and digesting, not battle. It asked for water and another bag.
+- Who uses the office: **one two-legged creature, yellow hair, doesn't feed him, walks around like he owns the place.** After the session (Nolan): that's always **[Varrow](../npcs/varrow.md)**. Blonde hair. Astral elf.
+- They left Roger in the warehouse.
+
+### The desk
+
+- Korran Investigation **19**, Pip helping.
+- **Photo:** Varrow and **four daughters**, cheap frame, gold pepper-leaf pin. Caption in **Elvish**; nobody can read it. They **left the frame**.
+- **Recipe card:** Common, bottom torn off. Lucy knows it's the Stromboli. She showed it to Marfa. Nolan **thinks Lucy still has it** (`[unconfirmed]`).
+- **Varrow's chart:** Common, gold current, islands, fork labeled **the Split Current**. Same heading as the head. **Korran has it.**
+- A **pocket watch** in a drawer: mundane, left behind.
+- Korran Investigation **1** rummaging crates. Lucy looked for water (outhouse outside). Pip guarded the door.
+
+### The Sending Stone
+
+- Dusty **MISC** crate, manifest ~three months old. **Needle trap skipped.**
+- Junk, and a smooth stone. Lucy Arcana: one **Sending Stone** of a pair.
+- Korran screamed **"mayday" twice** into it. Nobody holding the other. Spell didn't go. **Lucy keeps the stone.** Other end still undecided.
+
+### Marfa's townhome
+
+- Sandra at the parlor: Marfa just went **home**. Lucy's family townhome, three floors, no butler. Bugsy's old room is a 2000s time capsule; Bugsy lives elsewhere with Jetson.
+- **[Babe](../npcs/babe-ruth.md) is not home and is not on Bral.** He probably doesn't know Lucy is back. They work independently.
+- Lucy handed over the torn card. Marfa: Babe can make the recipe in his sleep; the **grower's mark** and the pepper are the problem. Varrow used to **coordinate** the pepper without having the route himself. Now he might. **Get the mark back.**
+- Korran's registration **has gone through**. Crew will be at the ship. She will hunt him if he doesn't help.
+- **Decision 2, Pip's price (Persuasion 22):** Marfa gets **a piece of the kingdom, a seat at Pip's court, and a share of whatever they bring back from the Expanse**, plus a crewmate already aboard watching the books ("I wouldn't say spy"). She will fund a stealth insertion / small team against Pip's brother **if** the Expanse haul is valuable enough.
+- Insight 17 (Lucy): Korran will act in his own interest. Marfa threatens Babe's curse if they harm Lucy.
+- Sending Stone: hard to find the pair unless it's in the same wildspace system. She told Korran to throw it away or keep yelling into it.
+- No cash stipend. They can stop by for fighting gear. **Dottie** will intro the crew; she's "one of us."
+- **Fennetti invoice:** not mentioned.
+- **Jetson grounding:** not said at the table. Still true if they ask (Nolan).
+
+### Rest, split
+
+- Lucy and Pip **long rest** at the townhome.
+- **Korran goes to the ship** and **skips the long rest** to vet the crew. The party had already been awake **22 hours**. He is hitting **exhaustion 1 quite soon**.
+- He wants to kick people he doesn't trust and maybe recruit Jetson against his parents' will.
+
+### The Shrike
+
+- Nobody waiting outside. Paperwork already at the helm: registration looks legit. Re-registering **wiped the scry**.
+- He compared Varrow's chart to his treasure map. **Same stretch of the Expanse.** He has **not** overlapped them or connected common features yet. Two illustrators; his map is Thieves' Cant with unread symbols.
+- **[Dottie](../npcs/dottie.md):** Giff, white shirt, no pants, 50s. Running Ruth decks 30 years. They peacock. He will meet everyone personally.
+- **[Wrench](../npcs/rocco-wrench.md):** greasy Giff, ~30, slight limp, talking to himself. Chose the name Wrench ("a fitting niche"). ~10 years, military ships in dock, likes ballistae. Ruth tie: cousin's cousin's dad; he doesn't really know them. Korran Insight **18**: keeps to himself, thrown by the question, no reason he lied. Passes.
+- **Skipper** starts approaching: older bullywug navigator. **Leave him for Matt next session.** Do not voice him.
+- No launch. No Lumen. No penguins. **Ship's name:** Brad is thinking before next session.
+
+### New canon from the table, confirmed after
+
+- Roger the hamster; name in his head only.
+- Varrow is an **astral elf**, **blonde**, four daughters, photo left in the office, caption Elvish.
+- Split Current chart in Korran's hands. Same stretch of Expanse as the treasure map; not properly matched yet.
+- Lucy has the unpaired Sending Stone.
+- Marfa/Pip deal as above.
+- Registration done. Scry wiped.
+- Babe is off Bral.
+- Giff pizza diet: possibly canonical.
+- Korran skipping rest; exhaustion 1 soon.

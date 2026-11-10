@@ -92,19 +92,29 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
   - **What's known:** he never saw her again, and Gloamcast singled her out ("Not her").
   - **Why Korran never looked:** he never tried hard to find her. Nolan's ideas are that he assumed she was fine, or that he was ashamed to return home. Why he didn't check in on her is **Brad's call**.
   - **The "late mother" problem:** in Tamenik's fever dream, Gloamcast called her Korran's *late* mother. Does Korran believe she's dead, or did he hear that line and write it off?
-- **Who Varrow is.** First name, race, look, and history are all open. Nolan: **probably the big bad of Season 2.** They haven't met him. The old *Star-Reaver* quartermaster pitch is unused.
-  - **Decided (Nolan):** Varrow plans to **use the growers' trust to raid them**. He bought the route and the mark from Tino after learning of Tino's plan.
-  - **For Session 5 (draft):** a photo of him and his daughters in a second-story foreman's office at the warehouse, so the party can recognize him later.
+- **Who Varrow is.** First name, history, and the daughters' names are still open. Nolan: **probably the big bad of Season 2.** They haven't met him. The old *Star-Reaver* quartermaster pitch is unused.
+  - **Decided (Nolan):** Varrow plans to **use the growers' trust to raid them**. He bought the route and the mark from Tino after learning of Tino's plan. Marfa (Session 5): he used to coordinate the pepper **without the route**.
+  - **Session 5:** **astral elf, blonde**, photo with **four daughters**, gold pepper-leaf pin, Elvish plate. They **left the photo**. Distant-readable: blonde hair, midnight-blue coat, the pin.
 - **Why was Krysta in space?** She was aboard the ship where Tino bought the route, and Megan hadn't seen her in years. Speak with Dead didn't get that question. Megan realized afterward he should have asked.
 - ~~**The IOU on the Ringer's body.**~~ **Answered:** it **is** the same IOU Tino used to pay the Psurlons. Whether the Psurlon who ate Krysta was the one he paid is still `[unconfirmed]`.
 - ~~**Does The Unkindness come for its rings?**~~ **Answered: no.** Once issued, it doesn't care about them. The Annex Kenku got away.
 
 ## Open after Season 2, Session 4
 
-- **The warehouse machine.** A giant machine started moving in the dark. **Undecided** (Nolan): it might be the giant space hamster, a pepper-processing machine, a fight, or only a scare. Session 5 begins there.
-- **What Varrow left behind**, and whether Varrow has already sailed.
-- **The Fennetti invoice.** The Annex billed the family **76,225 gp**. Who among the Fennettis or Ruths hears about that, and what they do, is open.
+- ~~**The warehouse machine.**~~ **Answered:** [Roger](../npcs/roger.md), a giant space hamster on a treadwheel crane. Name in his own head. Left there.
+- ~~**What Varrow left behind**~~ **partly answered:** photo (left), torn recipe, Split Current chart (Korran), one Sending Stone (Lucy). Whether Varrow has already sailed is still open.
+- **The Fennetti invoice.** The Annex billed the family **76,225 gp**. Who among the Fennettis or Ruths hears about that, and what they do, is open. Not mentioned to Marfa in Session 5.
 - ~~**Lucy's failed Persuasion.**~~ **Answered:** she's been in prison, so the Annex doesn't currently have her face in the system as a Ruth.
 - **The Loxodon artificer's name.**
 - ~~**Megan's jacket.**~~ **Answered:** it was his own.
 - **How plasmoids reproduce.** Left a mystery (Nolan). Don't fill it in.
+- **The other Sending Stone.** Lucy has one of a pair. Korran used it; nobody on the other end. Where the other is is **undecided**.
+- **The recipe card.** Nolan thinks Lucy still has it after showing Marfa. `[unconfirmed]`.
+- **The ship's name.** Brad is thinking before next session.
+- **Giff pizza diet.** Mentioned; **possibly canonical**.
+
+## Open after Season 2, Session 5
+
+- **Korran's exhaustion.** He skipped the long rest. The party had been awake 22 hours. 1st level of exhaustion quite soon.
+- **Skipper.** Leave for Matt next session as he approaches the ship. Do not NPC him.
+- **Map overlap.** Split Current chart and the treasure map are the same stretch of the Expanse. Korran has not connected them properly yet.

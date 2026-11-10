@@ -8,7 +8,7 @@
 
 A **Wildspace system**, a pocket within the Astral Sea (Nolan, Season 2 Session 4). A jungle of floating islands. Home of the Cloudjumper Tribe and other primal Hadozee tribes.
 
-**Easy to find; hard to travel.** The Expanse itself isn't difficult to locate. **Specific merchant routes within it are.** The route [Tino Fennetti](../npcs/tino-fennetti.md) bought from the Psurlons and sold to Varrow is one of those inner routes, not the way to find the Expanse.
+**Easy to find; hard to travel.** The Expanse itself isn't difficult to locate. **Specific merchant routes within it are.** The route [Tino Fennetti](../npcs/tino-fennetti.md) bought from the Psurlons and sold to Varrow is one of those inner routes, not the way to find the Expanse. **The Split Current** is a fork in the warm gold stream **inside** the Expanse, on that inner route. It is not a second system. Varrow's office chart, now with Korran, labels it in Common. It is the **same stretch** of the Expanse as Korran's treasure map; he has not overlapped the two properly yet.
 
 The plane had an **excessive amount of gold**. The Hadozee tribes respected that gold as part of nature and used it in crafts rather than as currency.
 

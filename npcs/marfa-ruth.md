@@ -56,3 +56,12 @@ She arrived in the [*Slice Runner*](../ships/ruth-family-ships.md#the-slice-runn
 - **After the fight:** she sent the party to the Iron Annex to find out who paid for the Kenku.
 - **Her offers:** a **crew of 6** for Korran, and a real conversation with Pip about the Ruths backing **another coup**. She told them about **The Unkindness**, and that **the Joisey Jiffs hadn't hired them**.
 - **Alone with Lucy in the back room:** she **showed her Babe's empty folder**, the one the Stromboli recipe card was stolen from. That set off Lucy's flashback. She told Lucy she's so glad to have her back, since trust is hard to find in their business, and hugged her.
+
+### Session 5
+
+At the family townhome, not the parlor. [Babe](babe-ruth.md) is **off Bral** and probably doesn't know Lucy is back.
+
+- Lucy brought the torn Stromboli card. Marfa: the recipe isn't the problem; the **grower's mark** is. [Varrow](varrow.md) used to coordinate the pepper **without the route**. Now he may have it. **Get the mark back.**
+- Korran's ship **is registered**. [Dottie](dottie.md) rounded up the crew.
+- **Pip's price (Persuasion 22):** she gets a piece of the kingdom, a seat at his court, a share of the Expanse haul, and a crewmate watching the books. She will fund a stealth insertion against his brother **if** they bring enough back.
+- No cash. They can stop by for fighting gear.

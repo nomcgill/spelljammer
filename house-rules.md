@@ -83,3 +83,5 @@ The rule of thumb: the stat block is a starting point for numbers, and the ficti
 
 - **DAS MALEFITZ**, a physical board game, was played at the table during the Session 1 escape as a minigame.
 - **Inspiration is awarded for birthdays.** Pip got one for his player's.
+- **Giffs and pizza** (Season 2, Session 5): said at the table that Giffs are a pizza-only diet. **Possibly canonical** (Nolan). Don't treat it as locked.
+- **Exhaustion / time awake** (Season 2, Session 5): the PCs had been awake **22 hours** before they split for the night. Lucy and Pip long-rested. Korran skipped the rest to vet crew and is hitting **exhaustion 1 quite soon**.

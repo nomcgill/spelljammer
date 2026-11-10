@@ -24,7 +24,7 @@ A **Flying Fish**, sister ship to the *Slice Runner*. Presumably destroyed.
 
 [Jetson](../npcs/jetson.md) "borrowed" the *DiceGunner* from the family **without permission** and crashed it into Warden's Maw during the breakout. It was **shot down** in the escape.
 
-That theft is a small unresolved family matter — Jetson took a syndicate ship without asking and lost it, and Marfa had to fly in to rescue him and his aunt Lucy. Whether his mother, [Bugsy](../npcs/bugsy.md), knows is `[unconfirmed]`.
+That theft is a family matter — Jetson took a syndicate ship without asking and lost it, and Marfa had to fly in to rescue him and his aunt Lucy. **Session 5 (draft, Nolan):** [Bugsy](../npcs/bugsy.md) knows. She is proud he took it. She grounded him because he didn't bring it back. He is not sailing with the party.
 
 ### The Slice Runner rescue
 

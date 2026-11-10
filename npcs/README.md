@@ -1,12 +1,31 @@
 # NPCs
 
-One file per named NPC. Status is as of Season 2, Session 4.
+One file per named NPC. Status is as of Season 2, Session 5.
 
 **Carries forward?** says whether an NPC is expected to return in later seasons: `Yes`, `Season 1 only`, or `Undecided` (Nolan hasn't said yet).
 
 ## Travelling with the party
 
-None right now. [Megan](megan-forthfang.md) left after Speak with Dead. [Jetson](jetson.md) is on Bral with [Bugsy](bugsy.md).
+None of the PCs are together overnight. Lucy and Pip are at Lucy's townhome. Korran is on the Shrike with [Dottie](dottie.md) and [Wrench](rocco-wrench.md). [Megan](megan-forthfang.md) left after Speak with Dead. [Jetson](jetson.md) is on Bral with [Bugsy](bugsy.md), grounded.
+
+## Korran's Shrike crew
+
+[Marfa](marfa-ruth.md) hired them. **Skipper** is Matt's bullywug navigator PC next session — not an NPC; do not voice him. He is approaching the ship as Session 5 ended.
+
+| NPC | What they are | Status | Carries forward? |
+| --- | --- | --- | --- |
+| [Dottie](dottie.md) | Giff boatswain; Marfa's first | Met Korran, Session 5 | Yes |
+| [Rocco "Wrench"](rocco-wrench.md) | Giff engineer; chose the name | Met Korran, Session 5; passed | Yes |
+| [Lumen](lumen.md) | Autognome purser; Marfa's accountant, so the trip doesn't sink the parlor | Not yet on camera | Yes |
+| [Nedd, Nodd, and Nudd](nedd-nodd-nudd.md) | Dohwar stewards; 3 for the price of 2 | Not yet on camera | Yes |
+
+Unused drafts, available later:
+
+| NPC | What they are | Status | Carries forward? |
+| --- | --- | --- | --- |
+| [Spoons](spoons.md) | Giff cook | Not on this voyage | Undecided |
+| [Momo](momo.md) | Hadozee rigger | Not on this voyage | Undecided |
+| [Nix](nix.md) | Tiefling lookout | Not on this voyage | Undecided |
 
 ## Hunting the party
 
@@ -15,16 +34,17 @@ None right now. [Megan](megan-forthfang.md) left after Speak with Dead. [Jetson]
 | [Alkgleb](alkgleb.md) | Plasmoid mothership general | Aboard the mothership; the party got away | Yes |
 | [Kirrak](kirrak-freelin.md) | Tortle, CEO of Freelin Corp, Tamenik's nephew | Aboard the mothership; the party got away | Yes |
 | [Aryndac](aryndac.md) | Githyanki guard who sabotaged the drive | Alive, teleported away, unaccounted for | Season 1 only |
-| [Varrow](varrow.md) | Name behind Varrow & Daughters | Not appeared; probably Season 2's big bad | Yes |
+| [Varrow](varrow.md) | Astral elf, blonde; Varrow & Daughters; four daughters | Photo seen, left behind; probably Season 2's big bad | Yes |
 
 ## Allies and offscreen powers
 
 | NPC | What they are | Status | Carries forward? |
 | --- | --- | --- | --- |
-| [Marfa Ruth](marfa-ruth.md) | Luckyluciano's mother | On Bral; not at the flagship parlor during Session 4 | Yes |
+| [Marfa Ruth](marfa-ruth.md) | Luckyluciano's mother | On Bral; Pip's deal closed Session 5 | Yes |
 | [Lawrence](lawrence.md) | Giff dock officer on Bral | On duty at the docks | Undecided |
-| [Babe Ruth](babe-ruth.md) | Pizza prince, syndicate head, Lucy's warlock patron | Offscreen | Yes |
-| [Jetson](jetson.md) | Giff pilot; Lucy's nephew (Bugsy's son) | Alive, on Bral; Bugsy kept him from the warehouse | Yes |
+| [Babe Ruth](babe-ruth.md) | Pizza prince, syndicate head, Lucy's warlock patron | Off Bral as of Session 5 | Yes |
+| [Jetson](jetson.md) | Giff pilot; Lucy's nephew (Bugsy's son) | Alive, on Bral; grounded if they ask | Yes |
+| [Roger](roger.md) | Giant space hamster; name in his own head | Left in Varrow's warehouse | Undecided |
 | [Bugsy](bugsy.md) | Lucy's older sister, Jetson's mother, Babe's reluctant heir | Runs the reopened Bral flagship Pie Parlor; kept Jetson from the warehouse | Yes |
 | [Tilptek](tilptek.md) | Thri-kreen desk clerk at the Iron Annex | On the Rock of Bral; lost an arm; chair empty in Session 4 | Yes |
 | [Gelp](gelp.md) | King's High Wizard; petrified Megan | Offscreen | Yes |

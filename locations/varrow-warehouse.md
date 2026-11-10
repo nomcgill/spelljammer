@@ -6,7 +6,7 @@ A dockside warehouse on the [Rock of Bral](rock-of-bral.md), at the address on t
 
 ## Status
 
-The party picked the back lock and stepped inside in Season 2, Session 4. A machine started moving in the dark. They haven't explored it yet.
+The party searched it in Season 2, Session 5 and left. [Roger](../npcs/roger.md) is still in the treadwheel. The framed photo of [Varrow](../npcs/varrow.md) and his daughters is still on the desk. Power was off; they never hit the lights.
 
 ## Season 2
 
@@ -19,16 +19,12 @@ From the outside:
 - **Guards patrol several warehouses** in the area, not this one specifically. No cameras.
 - Sealed second-story windows, a big front door, a small back door.
 
-[Korran](../player-characters/korran-cloudjumper.md) picked the back door (17; first pick broke). Inside it was almost pitch black, not dusty or musty, so someone has been here recently. As he beckoned the others in, a **giant machine** groaned into motion about 15 feet around a corner, metal grinding, reaching toward the ceiling. He has no darkvision and couldn't see what it was.
+[Korran](../player-characters/korran-cloudjumper.md) picked the back door (17; first pick broke). Inside it was almost pitch black, not dusty or musty, so someone has been here recently. As he beckoned the others in, a **giant machine** groaned into motion about 15 feet around a corner, metal grinding, reaching toward the ceiling. He has no darkvision and couldn't see what it was. The session ended there.
 
-**What the machine is** is undecided (Nolan). It might be the giant space hamster from the plan, a pepper-processing machine, something to fight, or only a scare. **Season 2, Session 5 begins here.**
+### Session 5
 
-The session ended there. Log in the [session notes](../season2/session-notes.md#the-warehouse).
+The machine is a **treadwheel crane** run by Roger, a giant space hamster. The loft platforms were empty. Gold-dusted pepper, bulk sacks, hamster feed.
 
-## Planned for Session 5 (draft)
+Office door: Arcane Lock, **thunder glyph**. They didn't spot it. Korran picked a 28; it fired. Pip 25, Korran 6, Lucy 0. Nobody came.
 
-Nolan wants the party to be able to **recognize [Varrow](../npcs/varrow.md) later**, without deciding his whole story yet.
-
-**The photo (Nolan's idea):** a second-story **foreman's office**. On the desk or the wall, a framed picture of Varrow with his daughters. That pays off the head's *"the one with the daughters"* and gives the table a face.
-
-Appearance, caption, and how many daughters are still for Nolan to pick when he runs it. Nothing about Varrow is canon until it is.
+On the desk: photo (left behind, Elvish plate), torn Stromboli card, Split Current chart. A MISC crate held one Sending Stone (needle trap skipped). They left Roger. Log in the [session notes](../season2/session-notes.md#session-5).

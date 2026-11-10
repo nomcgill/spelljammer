@@ -20,7 +20,13 @@ Everything the notes name. Possession is tracked here. Each entry notes the seas
 
 **Jar of gold-dusted peppers** (found Season 2, Session 4) — [Korran](player-characters/korran-cloudjumper.md). Taken from Tino's coat in the Pie Parlor basement. Same smell as the card and as Korran's childhood in the Ral'taka Expanse.
 
-**The Annex invoice** (Season 2, Session 4) — **76,225 gp, billed to the Fennetti family**. Director Tallyworth saw, through the cameras in the other rooms, that the party was impersonating Tino. Korran's Disguise Self did not fool the Annex.
+**The Annex invoice** (Season 2, Session 4) — **76,225 gp, billed to the Fennetti family**. Director Tallyworth saw, through the cameras in the other rooms, that the party was impersonating Tino. Korran's Disguise Self did not fool the Annex. Not mentioned to Marfa in Session 5.
+
+**Varrow's Split Current chart** (found Season 2, Session 5) — [Korran](player-characters/korran-cloudjumper.md). Cheap folded merchant map, Common, gold current, islands, a fork labeled **the Split Current**. Same heading the head gave. It is the **same stretch** of the [Ral'taka Expanse](locations/raltaka-expanse.md) as his treasure map. He has **not** overlapped them or connected common features yet.
+
+**Unpaired Sending Stone** (found Season 2, Session 5) — [Luckyluciano](player-characters/luckyluciano-ruth.md). One of a pair, from a MISC crate in Varrow's warehouse. Korran screamed "mayday" twice into it; nobody was holding the other; the spell did not go. Where the other stone is is **undecided**. They cannot sell a singleton.
+
+**Babe's torn Stromboli recipe card** (found Season 2, Session 5) — bottom torn off (the grower's mark). Shown to [Marfa](npcs/marfa-ruth.md). Nolan **thinks Lucy still has it**; that's `[unconfirmed]`.
 
 ## Confirmed in the party's hands
 
@@ -40,7 +46,7 @@ Uses spent so far are not recorded. Worth tracking — a charm that disintegrate
 - **Season 2, Session 1:** Megan raised it as a shield, and it **took the Kenku assassin's poison dart** meant for the table. What the poison did to it is `[unconfirmed]`.
 - **Season 2, Session 4:** a priest of Mastercat cast Speak with Dead on it (Lucy paid 2 gp). The answers are in [Krysta's file](npcs/krysta.md). Megan **left the party still carrying the head**.
 
-**Korran's treasure map, complete** (completed Season 1) — both halves of a Thieves' Cant map to the *Star-Reaver* crew's hoard in the [Ral'taka Expanse](locations/raltaka-expanse.md). Cipher: Korran's late mother's birthday. Partially decoded as of Session 7.
+**Korran's treasure map, complete** (completed Season 1) — both halves of a Thieves' Cant map to the *Star-Reaver* crew's hoard in the [Ral'taka Expanse](locations/raltaka-expanse.md). Cipher: Korran's late mother's birthday. Partially decoded as of Session 7. Two unread symbols near the destination remain. Session 5: compared to Varrow's chart — **same stretch of the Expanse**, not properly matched yet.
 
 ## Whereabouts uncertain
 

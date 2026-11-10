@@ -114,6 +114,10 @@ The party's face and closer — the one whose name opens doors.
   - **The temple:** she **paid 2 gp** for Speak with Dead. She promised regular donations in the Ruths' name; **don't pursue that as a hook** (Nolan).
   - **Tilptek's Friday date:** said in Session 3. **Don't pursue that as a hook** (Nolan).
   - **Jetson:** she wants him learning the family business. That may pair with or conflict with Korran's hope of turning him into a pirate.
+- **Session 5.**
+  - **The warehouse:** Speak with Animals on [Roger](../npcs/roger.md) (Animal Handling 16). Took **0** from the thunder glyph. Identified the Sending Stone (Arcana). **She keeps the stone.** Brought the torn Stromboli card to Marfa; Nolan thinks she still has it (`[unconfirmed]`).
+  - **Marfa:** got the job — bring the grower's mark back. Heard Pip's deal close on a 22.
+  - **Long rest** at the family townhome with Pip. Babe is not on Bral.
 
 ## Threads on her
 
