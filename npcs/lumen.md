@@ -6,13 +6,15 @@ Autognome. **Purser** on [Korran's stolen Shrike](../ships/korrans-stolen-ship.m
 
 ## Status
 
-Waiting aboard the Shrike. [Marfa](marfa-ruth.md) hired them. **Marfa's first**, with [Dottie](dottie.md). Insight DC 13 at the hatch.
+Waiting aboard the Shrike. [Marfa](marfa-ruth.md) hired them. **Marfa's first**, with [Dottie](dottie.md). Insight DC 13 at the hatch. Session 6 montage: Korran Insight **5** (disadvantage, groggy). Fail. He does not trust the smile and cannot pin it. Do not tell him the ledger is the spy.
 
 Marfa is paying for this crew. She wants a ledger on the ship so the trip **stays lucrative** and does not **bankrupt the Ruths**. Wages, stores, whatever they bring back — Lumen writes it down and Marfa reads it. If the party dumps Lumen, they are dumping her money. The crew (and Pip's deal) can walk with him.
 
 ## Who they are
 
 Purser: accounts, payroll, manifests. Does not steer. Does not cook. Too helpful. The pen never stops. The spy in the books, not the spy in the rigging. The PCs do not have to like him. He is how Marfa stays in the deal.
+
+Anyone who takes work on a Ruth ship is not on the straight and narrow. Lumen included: criminal background. The books can get creative if the parlor still profits. He will not stop being Marfa's. Do not tell the table the ledger is the spy (Korran Insight 5).
 
 One line at the hatch. Don't play them at the same time as Dottie.
 
@@ -31,3 +33,7 @@ character portrait bust of a small clockwork person, polished brass face with a 
 ### Session 5
 
 Did **not** appear. Marfa told Pip a crewmate is already aboard watching the books ("I wouldn't say spy"). That is Lumen's job; they have not met him yet.
+
+### Session 6 (pre-rolled, not played yet)
+
+Montage interview. Answers: Marfa hired him; the books; purser; no combat; Marfa put him here. Korran Insight **5** vs DC 13, fail. Suspicion without proof. He stays.

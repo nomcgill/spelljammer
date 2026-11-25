@@ -12,6 +12,8 @@ Aboard the Shrike. [Marfa](marfa-ruth.md) hired him. He will take [Korran](../pl
 
 Keeps the ship from coming apart. About ten years on ships, usually **military hulls in dock**, not because he served. Likes checking ballistae first. "Just in case," because ships run on magic. Talks to himself. Slight limp. About 30. Ruth tie: **cousin's cousin's dad** is in the family; he doesn't really know them.
 
+Anyone who takes work on a Ruth ship is not on the straight and narrow. Wrench included: criminal background, extra coin, don't-ask cargo, parts that fell off a truck. Softest of the six.
+
 ## Look (draft)
 
 Stocky Giff man. Grease in the folds of his neck, oregano on his breath, a wrench the size of a forearm. His shirt is worse than Dottie's. He looks happiest when something is broken.

@@ -5,7 +5,7 @@
 Tortle Bard 7 — level 7. Campaign: The Next Jump.
 
 - **Sheet:** [D&D Beyond character 143827022](https://www.dndbeyond.com/characters/143827022)
-- **Player:** Matt — **not playing in Season 2**, so Tamenik isn't part of Season 2 planning. Planned exit: he skips Marfa's pizza dinner and rushes home to Freelin Corporation while Kirrak is still away (see [Season 2 planning](../plot/season2-planning.md#what-happened-to-tamenik)).
+- **Player:** Matt — Tamenik left in Season 2, Session 1 (home to Freelin Corporation while Kirrak is still away; see [Season 2 planning](../plot/season2-planning.md#what-happened-to-tamenik)). Matt returns Session 6 as [Brownish Greenspot](brownish-greenspot.md).
 - **Backstory doc:** [Tamenik Freelin's Backstory](https://docs.google.com/document/d/1Jjmx7FivNkDcAZXhH6CFk2tiK_tCeaJrlqrhyYjpwxI/edit) (one paragraph)
 
 ## Combat basics

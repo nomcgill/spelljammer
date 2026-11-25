@@ -63,5 +63,7 @@ At the family townhome, not the parlor. [Babe](babe-ruth.md) is **off Bral** and
 
 - Lucy brought the torn Stromboli card. Marfa: the recipe isn't the problem; the **grower's mark** is. [Varrow](varrow.md) used to coordinate the pepper **without the route**. Now he may have it. **Get the mark back.**
 - Korran's ship **is registered**. [Dottie](dottie.md) rounded up the crew.
+- **Navigator is non-negotiable** (Session 6, draft): sailing masters willing to work with the Ruths are rare. [Brownish Greenspot](../player-characters/brownish-greenspot.md) is the only one of those **available this week**.
+- **Ruth-ship crew** (locked, Nolan to Brad): anyone willing to work on a Ruth ship is not on the straight and narrow. They kinda all have a criminal background.
 - **Pip's price (Persuasion 22):** she gets a piece of the kingdom, a seat at his court, a share of the Expanse haul, and a crewmate watching the books. She will fund a stealth insertion against his brother **if** they bring enough back.
 - No cash. They can stop by for fighting gear.

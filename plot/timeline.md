@@ -114,4 +114,4 @@ Tallyworth invoices the Fennetti family **76,225 gp**. The party interrogates Ti
 
 ### Session 5
 
-Warehouse: giant space hamster (Roger), thunder glyph, photo of Varrow left behind, torn recipe, Split Current chart, unpaired Sending Stone. Marfa's townhome: get the mark; Pip's deal on a 22; registration done. Lucy and Pip long rest. Korran skips rest to vet Dottie and Wrench. Skipper approaching. No launch.
+Warehouse: giant space hamster (Roger), thunder glyph, photo of Varrow left behind, torn recipe, Split Current chart, unpaired Sending Stone. Marfa's townhome: get the mark; Pip's deal on a 22; registration done. Lucy and Pip long rest. Korran skips rest to vet Dottie and Wrench. Brownish Greenspot (Session 5 table: Skipper) approaching. No launch.

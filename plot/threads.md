@@ -28,7 +28,7 @@ Every thread the campaign has opened, with its status as of Season 2, Session 5.
 
 **The Damselfly left behind** `(S1)`. The party left the Damselfly, with A.R.I.A. offline aboard it, beside the plasmoid mothership so they could get away. What happens to it and A.R.I.A. now is open.
 
-**Korran's stolen ship** `(S1)`. Korran hijacked a Shrike out of the mothership's loading bay. The plasmoids may want it back. **Session 5:** Marfa says it **is registered**; paperwork at the helm looked legit; scry wiped. Still unnamed (Brad thinking). Dottie and Wrench aboard; Skipper approaching for Matt. They have not launched. See [`ships/korrans-stolen-ship.md`](../ships/korrans-stolen-ship.md).
+**Korran's stolen ship** `(S1)`. Korran hijacked a Shrike out of the mothership's loading bay. The plasmoids may want it back. **Session 5:** Marfa says it **is registered**; paperwork at the helm looked legit; scry wiped. Still unnamed (Brad thinking). Dottie and Wrench aboard; Brownish Greenspot approaching for Matt. They have not launched. See [`ships/korrans-stolen-ship.md`](../ships/korrans-stolen-ship.md).
 
 **The Ruth family, up close** `(S1)`. Marfa rescued the party in the *Slice Runner* and they owe her. How she got Lucy's impounded ship back is `[unconfirmed]`. Jetson lost the family's *DiceGunner*. **Grounded** if they ask (proud he took it, mad he didn't bring it back). Babe is **off Bral** as of Session 5 and probably doesn't know Lucy is back. Korran still hopes to make a pirate of Jetson; Lucy wants him in the family business.
 

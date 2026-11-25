@@ -110,11 +110,11 @@ Nolan's rulings on contradictions in the Season 1 notes, including the ones he m
 - **How plasmoids reproduce.** Left a mystery (Nolan). Don't fill it in.
 - **The other Sending Stone.** Lucy has one of a pair. Korran used it; nobody on the other end. Where the other is is **undecided**.
 - **The recipe card.** Nolan thinks Lucy still has it after showing Marfa. `[unconfirmed]`.
-- **The ship's name.** Brad is thinking before next session.
+- **The ship's name.** Chosen: *Star Cleaver*. Brad and Korran are sitting on it. Do not announce at the table.
 - **Giff pizza diet.** Mentioned; **possibly canonical**.
 
 ## Open after Season 2, Session 5
 
-- **Korran's exhaustion.** He skipped the long rest. The party had been awake 22 hours. 1st level of exhaustion quite soon.
-- **Skipper.** Leave for Matt next session as he approaches the ship. Do not NPC him.
+- **Korran's exhaustion.** On by the Session 6 Lumen/triplet montage: groggy, Insight at disadvantage (both **5**). Halfway dozing when Brownish Greenspot arrives. Do not name it unless a player asks.
+- **Brownish Greenspot.** Stub: [`player-characters/brownish-greenspot.md`](../player-characters/brownish-greenspot.md). Session 6: Matt walks him up. Do not NPC him. Session 5 table called him Skipper. Sheet, class, backstory still waiting on Matt. He stays because sailing masters willing to work with the Ruths are rare, and he is the only one of those available this week (see [`season2/session6-plan.md`](../season2/session6-plan.md)).
 - **Map overlap.** Split Current chart and the treasure map are the same stretch of the Expanse. Korran has not connected them properly yet.

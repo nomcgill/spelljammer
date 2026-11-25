@@ -8,7 +8,7 @@ Giff. Young cook. Loud. Too many questions about produce, whether plasmoids eat 
 
 **Not on this voyage.** Drafted for Korran's crew, then dropped when the [Dohwar triplets](nedd-nodd-nudd.md) took the galley. Available later if a cook is needed without the penguins.
 
-Galley jokes can still come from Nedd, Nodd, and Nudd.
+Galley bits can still come from Nedd, Nodd, and Nudd — silent, glazed, nods and shakes only.
 
 ## Season 2
 

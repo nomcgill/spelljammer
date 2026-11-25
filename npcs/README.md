@@ -10,14 +10,14 @@ None of the PCs are together overnight. Lucy and Pip are at Lucy's townhome. Kor
 
 ## Korran's Shrike crew
 
-[Marfa](marfa-ruth.md) hired them. **Skipper** is Matt's bullywug navigator PC next session — not an NPC; do not voice him. He is approaching the ship as Session 5 ended.
+[Marfa](marfa-ruth.md) hired them. [Brownish Greenspot](../player-characters/brownish-greenspot.md) is Matt's bullywug navigator PC (Session 5 table called him Skipper) — not an NPC; do not voice him. Stub only until Matt sends a sheet. Marfa's lock: sailing masters willing to work with the Ruths are rare; he is the only one of those available this week. He is approaching the ship as Session 5 ended.
 
 | NPC | What they are | Status | Carries forward? |
 | --- | --- | --- | --- |
 | [Dottie](dottie.md) | Giff boatswain; Marfa's first | Met Korran, Session 5 | Yes |
 | [Rocco "Wrench"](rocco-wrench.md) | Giff engineer; chose the name | Met Korran, Session 5; passed | Yes |
 | [Lumen](lumen.md) | Autognome purser; Marfa's accountant, so the trip doesn't sink the parlor | Not yet on camera | Yes |
-| [Nedd, Nodd, and Nudd](nedd-nodd-nudd.md) | Dohwar stewards; 3 for the price of 2 | Not yet on camera | Yes |
+| [Nedd, Nodd, and Nudd](nedd-nodd-nudd.md) | Dohwar stewards; 3 for the price of 2; silent, glazed | Not yet on camera | Yes |
 
 Unused drafts, available later:
 

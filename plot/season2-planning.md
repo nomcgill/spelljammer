@@ -97,10 +97,13 @@ Check here first when looking for inspiration. These are Nolan's own unused idea
 - **Jetson and the *DiceGunner*** (Nolan, Session 4; Session 5): the repercussion is **Bugsy grounding him**. Not mad he took the family ship — her brave boy. Mad he didn't bring it back. Not said at the table. If they ask or check, he's grounded. Korran wants to recruit him anyway.
 - **Jetson's future** (Brad and Nolan, Session 4): Korran secretly hopes to turn him into a pirate someday. That could **pair with or conflict with** Lucy introducing him to the family crime business.
 - **Varrow's face** (Session 5): **astral elf, blonde**, photo with **four daughters**, gold pepper-leaf pin, Elvish plate. They left the photo. Roger's yellow-haired office visitor is always Varrow.
-- **Matt / Skipper** (Session 5 ended): Skipper is **approaching the ship**. Leave him for Matt next session. Do not NPC him.
+- **Matt / Brownish Greenspot** (Session 5 ended): approaching the ship. Stub: [`player-characters/brownish-greenspot.md`](../player-characters/brownish-greenspot.md). Session 5 table called him Skipper. Leave him for Matt. Do not NPC him. Sheet still waiting. Session 6: he stays because sailing masters willing to work with the Ruths are rare, and he is the only one of those available this week. Run sheet: [`season2/session6-plan.md`](../season2/session6-plan.md).
 - **Unpaired Sending Stone:** Lucy has one. Korran used it; nobody on the other end. Where the other is is undecided.
-- **Ship's name:** Brad is thinking before next session.
-- **Korran's exhaustion:** skipped long rest; 22 hours awake; exhaustion 1 quite soon.
+- **Ship's name:** *Star Cleaver*. Imposter syndrome. **Brad and Korran sit on it.** Do not announce at the table.
+- **Ex-Star-Reaver crewmate** (Brad, before Session 6): later in the voyage, not this batch. Useful for Gloamcast's hoard; maybe loyal to Korran, maybe a knife. FOIL. Brad said "Gloambeard"; wiki stays **Gloamcast**.
+- **Korran's exhaustion:** on by the Session 6 Lumen/triplet montage. Insight at disadvantage; both checks **5**. Narrate groggy; do not name it unless asked. Live Brownish interview first; montage after.
+- **Ruth-ship crew are not straight** (Nolan to Brad, locked): they kinda all have a criminal background. Anyone willing to work on a Ruth ship is probably not on the straight and narrow. Charisma and greed; buy, scare, cut them in; not automatic. **Dottie:** thirty years family decks, cargo that never hits a registry, watches paid in hush. **Penguins:** pie-credit and a cut of whatever the ship happens to acquire — spoils, not payroll. Brownish: general rule only; Matt fills in. See [`season2/session6-plan.md`](../season2/session6-plan.md).
+- **Session 6 first stop (draft):** not the Split Current. Halfway wreck — Trapped Traveler + a small pirate boarding. Auto-exit hyperspeed. See the run sheet.
 
 ~~Lucy promising regular donations to the temple of Mastercat in the Ruths' name.~~ *(Drop: said at the table in Session 4; Nolan is not pursuing it.)*
 

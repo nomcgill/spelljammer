@@ -394,7 +394,7 @@ The session covered the warehouse, Marfa's deal (the plan had parked it; they we
 - He compared Varrow's chart to his treasure map. **Same stretch of the Expanse.** He has **not** overlapped them or connected common features yet. Two illustrators; his map is Thieves' Cant with unread symbols.
 - **[Dottie](../npcs/dottie.md):** Giff, white shirt, no pants, 50s. Running Ruth decks 30 years. They peacock. He will meet everyone personally.
 - **[Wrench](../npcs/rocco-wrench.md):** greasy Giff, ~30, slight limp, talking to himself. Chose the name Wrench ("a fitting niche"). ~10 years, military ships in dock, likes ballistae. Ruth tie: cousin's cousin's dad; he doesn't really know them. Korran Insight **18**: keeps to himself, thrown by the question, no reason he lied. Passes.
-- **Skipper** starts approaching: older bullywug navigator. **Leave him for Matt next session.** Do not voice him.
+- **Skipper** starts approaching: older bullywug navigator. **Leave him for Matt next session.** Do not voice him. Table name that night was Skipper. Character name going forward: **Brownish Greenspot**.
 - No launch. No Lumen. No penguins. **Ship's name:** Brad is thinking before next session.
 
 ### New canon from the table, confirmed after

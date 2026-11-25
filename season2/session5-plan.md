@@ -1,6 +1,6 @@
 # Season 2, Session 5: Plan
 
-**Played Monday, November 9, 2026.** What happened is in [`session-notes.md`](session-notes.md#session-5). They did **not** launch. Lucy and Pip long-rested; Korran is vetting crew. Skipper approaching for Matt.
+**Played Monday, November 9, 2026.** What happened is in [`session-notes.md`](session-notes.md#session-5). They did **not** launch. Lucy and Pip long-rested; Korran is vetting crew. Brownish Greenspot approaching for Matt (Session 5 table: Skipper).
 
 The run sheet for Session 5, in table order. **Where it starts:** inside the dark [Varrow & Daughters warehouse](../locations/varrow-warehouse.md), a machine grinding around a corner. **Where it ends** (Nolan): the party **sets off** from the Rock of Bral in Korran's Shrike, with Marfa's crew of 6 already aboard.
 
@@ -49,7 +49,7 @@ Decision 1 (Tino) and Decision 3 (the five questions) are done.
 ## Before you run this
 
 - **Who is here:** Lucy, Korran, Pip. Megan has left. **Jetson is not coming.** Bugsy grounded him: not mad he took the *DiceGunner*, her brave boy — mad he didn't bring it back. The six crew are waiting **inside the Shrike**, not at the warehouse.
-- **Matt:** not this session. Session 6 as **Skipper**, bullywug navigator. Do not voice him tonight. Ship jobs are under [who does what](#who-does-what-on-this-ship).
+- **Matt:** not this session. Session 6 as **Brownish Greenspot**, bullywug navigator (Session 5 table: Skipper). Do not voice him tonight. Ship jobs are under [who does what](#who-does-what-on-this-ship).
 - **Senses in the dark:** Lucy has **darkvision 120 ft.** Pip has **darkvision 60 ft.** Korran has **none**. He already peeked and saw nothing. Let Lucy or Pip look around the corner. **Power is off.** Light switches by the back door they came in. If they hit them, the overheads come on.
 - **Rings:** Korran wears Disintegrate (1 charge). Pip has Darkness (1 charge).
 - **They already short-rested** at the Pie Parlor in Session 4. **Long rest** after the warehouse, at the parlor, then the docks. No Marfa scene unless they force one.
@@ -170,7 +170,7 @@ That **is** the destination for tonight, pass or fail. Anyone at the table can r
 **Korran's treasure map** is a different question. Two doodles near the hoard have never meant a place. The DC 13 (Intelligence with navigator's tools, Korran; Lucy Helps) is only: *is one of those doodles the same mark Varrow labeled?*
 
 - **Success:** yes. The Split Current is also the first step toward the hoard. Chase Varrow or chase the gold: same first jump. The other doodle stays blank.
-- **Failure:** they still go to the Split Current. They have the name, and they have Varrow's chart. What they do **not** get is the link to the treasure map. Do **not** retry at the helm tonight. Do **not** wake Skipper. Session 6, Matt can slap both maps down and argue. That is his entrance.
+- **Failure:** they still go to the Split Current. They have the name, and they have Varrow's chart. What they do **not** get is the link to the treasure map. Do **not** retry at the helm tonight. Do **not** voice the navigator. Session 6, Matt can slap both maps down and argue. That is his entrance.
 
 **They always leave with a heading.** Worst case is "we are following Varrow's chart to the Split Current" and Korran still doesn't know if that's on *his* map. That is enough to launch.
 
@@ -214,14 +214,14 @@ wide establishing shot of a busy docks on the edge of a city built on a giant as
 
 ### Who does what on this ship
 
-A Shrike is a small courier. **Helm** is who makes it fly. **Navigator** is who says where. Those are different jobs. Korran already sat the helm when he stole it. Skipper does not steal that job.
+A Shrike is a small courier. **Helm** is who makes it fly. **Navigator** is who says where. Those are different jobs. Korran already sat the helm when he stole it. Brownish Greenspot does not steal that job.
 
 | Job | Who | What they actually do |
 | --- | --- | --- |
 | **Captain** | Korran | The ship answers to him. He picks the destination. He can sit the helm. He is not cooking, counting coin, or running the deck. |
 | **Helmsman** | Korran, unless he hands it off | Sits the spelljamming helm. Makes the ship move. This is the wheel. |
-| **Navigator / sailing master** | **Skipper** (Matt, Session 6) | Lives at the chart table. Reads currents, weather, the treasure map, Varrow's chart. Plots the course the helmsman flies. Argues with Korran about the map. **Do not voice him tonight.** If anyone asks, Dottie can say the navigator is aboard and asleep. Leave the frog for Matt. |
-| **Boatswain (bosun)** | **Dottie** | Runs the deck: lines, hatches, watches, who is late, who is drunk. The crew's boss under the captain. She will fight Skipper for first-mate energy later. |
+| **Navigator / sailing master** | **Brownish Greenspot** (Matt, Session 6) | Lives at the chart table. Reads currents, weather, the treasure map, Varrow's chart. Plots the course the helmsman flies. Argues with Korran about the map. **Marfa's non-negotiable:** sailing masters willing to work with the Ruths are rare; he is the only one of those available this week. **Do not voice him tonight.** Leave the frog for Matt. |
+| **Boatswain (bosun)** | **Dottie** | Runs the deck: lines, hatches, watches, who is late, who is drunk. The crew's boss under the captain. She will fight Brownish Greenspot for first-mate energy later. |
 | **Engineer** | **Wrench** | Keeps the ship from coming apart. Helm housing, plasmoid patches, the ticking hull, leaks, repairs. Below. |
 | **Purser** | **Lumen** | Marfa's accountant. She is paying for this crew and wants the voyage **in the black**, not bankrupting the parlor. Wages, stores, whatever they haul back. If they dump Lumen, they dump her money — crew and Pip's deal can walk. |
 | **Stewards** | **[Nedd, Nodd, and Nudd](../npcs/nedd-nodd-nudd.md)** | Cook and hold. Marfa needed **two** jobs; they would not split, so **three for the price of two**. That filled the crew of 6 (Dottie, Wrench, Lumen, plus the three of them). Lumen counts; they haul, cook, and haggle. |
@@ -230,15 +230,15 @@ Lucy and Pip have no ship job unless they take one. **Jetson is not aboard.**
 
 ### The crew of 6 (draft)
 
-Marfa promised a **crew of 6**. That is Dottie, Wrench, Lumen, and the three penguins. The penguins are **three for the price of two**: she needed a cook and a hold-hand, they refused to split, she paid two wages and got three bodies. Skipper is extra (seventh). Files: [Dottie](../npcs/dottie.md), [Wrench](../npcs/rocco-wrench.md), [Lumen](../npcs/lumen.md), [Nedd, Nodd, and Nudd](../npcs/nedd-nodd-nudd.md). Unused: [Spoons](../npcs/spoons.md), [Momo](../npcs/momo.md), [Nix](../npcs/nix.md).
+Marfa promised a **crew of 6**. That is Dottie, Wrench, Lumen, and the three penguins. The penguins are **three for the price of two**: she needed a cook and a hold-hand, they refused to split, she paid two wages and got three bodies. Brownish Greenspot is extra (seventh): Marfa's navigator, her condition of the voyage. Files: [Dottie](../npcs/dottie.md), [Wrench](../npcs/rocco-wrench.md), [Lumen](../npcs/lumen.md), [Nedd, Nodd, and Nudd](../npcs/nedd-nodd-nudd.md). Unused: [Spoons](../npcs/spoons.md), [Momo](../npcs/momo.md), [Nix](../npcs/nix.md).
 
 **Insight (DC 13):** Dottie and Lumen are Marfa's first.
 
-Play the triplets as **one NPC in three bodies**. **Dohwar** (Nolan): penguin-merchants from 2e, kept as table color, not in the 5e Spelljammer book.
+Play the triplets as **one NPC in three bodies**. They **do not speak** — nod, shake, glazed black beady eyes. **Dohwar** (Nolan): penguin-merchants from 2e, kept as table color, not in the 5e Spelljammer book.
 
 **Jetson is not one of the six.** He's grounded. He does not sail.
 
-[Dottie](../npcs/dottie.md) gives the intro. Then at most one extra line each from Wrench, Lumen, the triplets. Don't play six voices. Don't play Skipper.
+[Dottie](../npcs/dottie.md) gives the intro. Then at most one extra line each from Wrench and Lumen. The triplets do not speak. Don't play six voices. Don't play Brownish Greenspot.
 
 ### Dottie's intro (read-aloud)
 
@@ -256,15 +256,15 @@ She is waiting at the bottom of the hatch. **Dottie has never appeared at the ta
 >
 > "Lumen's the one with the book. Marfa's paying for this crew. She wants it lucrative, not bankrupting the family. What Lumen writes, she reads. He stays."
 >
-> Three identical penguins in tiny coats are in the galley doorway. Same height. Same look.
+> Three identical penguins in tiny coats are in the galley doorway. Same height. Same look. Black beady eyes, glazed. They do not speak.
 >
-> "Galley and hold are the triplets: Nedd, Nodd, and Nudd. Three for the price of two. They wouldn't split up. Don't try to tell them apart. They can't either."
+> "Galley and hold are the triplets: Nedd, Nodd, and Nudd. Three for the price of two. They wouldn't split up. Don't try to tell them apart. They can't either. Don't wait for them to say hello."
 >
 > Someone is snoring behind a curtain. A green webbed foot is hanging off the bunk. There's a hat on a peg.
 >
 > "Navigator's Skipper. Frog. Don't wake him. You want off Bral, you talk to me about lines and to the captain about where. Questions? Too bad. We got a current to catch."
 
-Don't voice Skipper. She named him. That's enough.
+This intro was not fully used. Session 5 table called him Skipper. Name going forward: **Brownish Greenspot**. Don't voice him.
 
 ### Midjourney portraits (busts, `--ar 1:1`)
 
@@ -287,27 +287,29 @@ character portrait bust of a small clockwork person, polished brass face with a 
 
 **Nedd, Nodd, and Nudd** (one image)
 ```text
-character portrait of three identical penguin people standing in a row, short, orange beaks, black and white feathers, matching tiny oilskin coats over tuxedos, same judgmental eyes, one holding a ladle, one a crate, one a notepad, they lean the same way, warm galley light, painterly, highly detailed --ar 1:1
+character portrait of three identical penguin people standing in a row, short, orange beaks, black and white feathers, matching tiny oilskin coats over tuxedos, glazed black beady eyes, one holding a ladle, one a crate, one a notepad, they lean the same way, warm galley light, painterly, highly detailed --ar 1:1
 ```
 
-**Skipper** (for Matt / Session 6; not on camera tonight except a snore)
+**Brownish Greenspot** (for Matt / Session 6; not on camera tonight except a snore)
 ```text
 character portrait bust of an old frog-headed man, weathered green skin, yellow half-lidded eyes, stained navy peacoat, tricorn hat, white stubble on his chin, looks like he used to run a ship and lost it, warm lantern light, painterly, highly detailed --ar 1:1
 ```
 
-### Skipper (Matt, Session 6)
+### Brownish Greenspot (Matt, Session 6)
 
-**Bullywug. Navigator / sailing master.** Washed-up salty old dog. He will argue with Korran's treasure map. Sometimes he will be right. He will think he should be first mate; Dottie already has the clipboard.
+**Bullywug. Navigator / sailing master.** Session 5 table called him Skipper. Name is **Brownish Greenspot**. Washed-up salty old dog. He will argue with Korran's treasure map. Sometimes he will be right. He will think he should be first mate; Dottie already has the clipboard.
 
-**Do not NPC him tonight.** No croaks, no headings, no "I'll take her." Dottie names him in the intro. If they push: *"Skipper's in a bunk. Frog. Don't wake him."* She holds. He is not how they get a destination tonight.
+**Marfa's non-negotiable:** sailing masters willing to work with the Ruths are rare. He is the only one of those available this week.
 
-**How he appears on camera in Session 6 (draft):** hungover in that bunk. If Korran failed the match, this is when Skipper looks at both maps and argues. If Korran succeeded, Skipper argues about the approach, or the other unread mark.
+**Do not NPC him tonight.** No croaks, no headings, no "I'll take her." He is not how they get a destination tonight. Session 6 he walks up; see [`session6-plan.md`](session6-plan.md).
+
+**How he appears on camera in Session 6:** walking up the dock (not hungover in a bunk — Session 5 ended with him approaching). If Korran failed the match, this is when he looks at both maps and argues. If Korran succeeded, he argues about the approach, or the other unread mark.
 
 ---
 
 ### Course and launch
 
-Korran at the chart table. The cabin still smells faintly of plasmoid. **No second check tonight.** They already have a heading: Varrow's chart, the Split Current, inside the Expanse. Unfurl his treasure map only if he succeeded the match in the office. If he failed, leave the doodles ugly. Skipper gets that argument in Session 6.
+Korran at the chart table. The cabin still smells faintly of plasmoid. **No second check tonight.** They already have a heading: Varrow's chart, the Split Current, inside the Expanse. Unfurl his treasure map only if he succeeded the match in the office. If he failed, leave the doodles ugly. Brownish Greenspot gets that argument in Session 6.
 
 The head already gave them the same scrap: *"Through the gold. Follow the warm current, until the islands."*
 
@@ -320,7 +322,7 @@ Korran's voice loudest:
 2. **Go for the hoard.** Follow the newly readable symbol toward the *Star-Reaver* crew's gold.
 3. **Go home first.** The Cloudjumper Tribe. **Brad's to offer, or not.**
 
-The Split Current is inside the Expanse. (1) always can start there (Varrow's chart). (2) only feels like the same heading if Korran **made** the match. If he failed, they are chasing Varrow tonight; the hoard link waits for Skipper.
+The Split Current is inside the Expanse. (1) always can start there (Varrow's chart). (2) only feels like the same heading if Korran **made** the match. If he failed, they are chasing Varrow tonight; the hoard link waits for Brownish Greenspot.
 
 ### Launch read-aloud (draft)
 
@@ -347,13 +349,13 @@ No *"PUNCH IT."* Jetson isn't here.
 | 1. The office door | Investigation or Arcana to spot the glyph; thieves' tools on Arcane Lock | 14 / 20 | Lucy (Arcana +4); Korran (~+7 tools) needs a 13 |
 | 1. The desk | History (Lucy) on the card; Intelligence (navigator's tools) to match the Split Current | 12 / 13 | Lucy (History +4); Korran is +2, Lucy Helps |
 | 3. The crew | Insight | 13 | Anyone; Korran Insight is weak (+2) |
-| 3. The course | none tonight | — | They fly Varrow's chart to the Split Current. Skipper, Session 6, if the match failed |
+| 3. The course | none tonight | — | They fly Varrow's chart to the Split Current. Brownish Greenspot, Session 6, if the match failed |
 
 ## Questions for Nolan
 
 1. **The grinding:** **answered.** Hamster crane. Power's off; the hamster is how this warehouse lifts sacks. Not a fight.
 2. **Which chart:** **answered.** Korran's treasure map.
-3. **The Split Current:** **answered.** Inside the Expanse. Destination even if Korran fails the match. Failure only withholds the treasure-map link (Skipper, Session 6). Do not wake him tonight.
+3. **The Split Current:** **answered.** Inside the Expanse. Destination even if Korran fails the match. Failure only withholds the treasure-map link (Brownish Greenspot, Session 6). Do not voice him tonight.
 4. **Varrow in the photo:** **answered.** Astral elf. Four daughters. Brass plate: *Varrow & Daughters*. Distant-readable: silver-white hair, midnight-blue coat, gold pepper-leaf pin. First name and the girls' names still open.
 5. **The triplets:** **answered.** Dohwar stewards: **Nedd, Nodd, and Nudd**. 2e penguins, kept.
 6. **The crate:** **answered.** One Sending Stone in the junk. Investigation DC 13 to find it. Other stone undecided.
@@ -361,7 +363,7 @@ No *"PUNCH IT."* Jetson isn't here.
 8. **The ship's name:** ask Brad before, or let him name it at the helm?
 9. **DAV:** offscreen except the name, or a short scene?
 10. **End on the launch, or on the grower cut?**
-11. **Skipper:** **answered.** Bullywug navigator, Session 6. Do not voice him tonight.
+11. **Brownish Greenspot:** **answered.** Bullywug navigator, Session 6 (Session 5 table: Skipper). Do not voice him tonight. Sailing masters willing to work with the Ruths are rare; he is the only one of those available this week.
 12. **The glyph:** **answered.** Explosive Runes, thunder, 5d8. They think someone heard. Nobody did.
 13. **Session layout:** **answered.** Warehouse → rest → ship and take off. Marfa/Pip's price is not tonight.
 

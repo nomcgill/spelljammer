@@ -17,9 +17,9 @@ The agent has two jobs here:
 
 Season 1 ran seven sessions. The party escaped Warden's Maw and spent the whole season trying to reach the Rock of Bral. In the finale a plasmoid warship disabled and boarded their Damselfly. Marfa Ruth beamed them out, Korran hijacked a small ship from the mothership, and **everyone finally made it to Bral**. There, Pip plans to gather allies for a revolution against his usurping brother, the plasmoid king.
 
-Season 2 is under way, and its main plot driver is **Korran's past**. Matt isn't playing, so the party is **Korran (Brad), Luckyluciano (Nicole) and Pip (Drew)**. Tamenik went home to Freelin Corporation in Session 1.
+Season 2 is under way, and its main plot driver is **Korran's past**. Through Session 5 the party was **Korran (Brad), Luckyluciano (Nicole) and Pip (Drew)**; [Tamenik](player-characters/tamenik-freelin.md) went home in Session 1. Matt joins Session 6 as [Brownish Greenspot](player-characters/brownish-greenspot.md).
 
-As of Session 5 the party has searched Varrow's warehouse and **not launched**. Lucy and Pip are long-resting at Lucy's townhome. Korran is on the Shrike vetting crew (Dottie and Wrench so far; Skipper approaching for Matt). Log in [`season2/session-notes.md`](season2/session-notes.md#session-5). Transcript and blow-by-blow: [`transcripts/season2/session5-summary.md`](transcripts/season2/session5-summary.md). Season 2 is being logged session by session. Sessions are recorded starting with Season 2, Session 3. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
+As of Session 5 the party has searched Varrow's warehouse and **not launched**. Lucy and Pip are long-resting at Lucy's townhome. Korran is on the Shrike vetting crew (Dottie and Wrench so far; Brownish Greenspot approaching for Matt). Log in [`season2/session-notes.md`](season2/session-notes.md#session-5). Transcript and blow-by-blow: [`transcripts/season2/session5-summary.md`](transcripts/season2/session5-summary.md). Season 2 is being logged session by session. Sessions are recorded starting with Season 2, Session 3. Start with [`plot/timeline.md`](plot/timeline.md) for the story so far, and [`plot/open-questions.md`](plot/open-questions.md) when prepping the next session.
 
 ## Setting and rules
 

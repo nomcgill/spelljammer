@@ -6,7 +6,7 @@ A readable account of [`session5-transcript.md`](session5-transcript.md), the ra
 - **The session log** is in [`season2/session-notes.md`](../../season2/session-notes.md#session-5).
 - **Length:** unknown. This transcript has **no timestamps**. The file is long; the first stretch is table talk, then the recap, then play.
 - **The plan Nolan ran from:** [`season2/session5-plan.md`](../../season2/session5-plan.md).
-- **Where it ended:** Lucy and Pip starting a long rest at Lucy's family townhome. **Korran at the Shrike**, skipping the long rest to vet the crew. He has met **Dottie** and **Wrench**. **Skipper** is approaching; leave him for Matt next session. They did **not** launch. Lumen and the penguin triplets were **not** introduced on camera. Ship still unnamed (Brad thinking).
+- **Where it ended:** Lucy and Pip starting a long rest at Lucy's family townhome. **Korran at the Shrike**, skipping the long rest to vet the crew. He has met **Dottie** and **Wrench**. **Skipper** is approaching (table name that night); leave him for Matt next session as **Brownish Greenspot**. They did **not** launch. Lumen and the penguin triplets were **not** introduced on camera. Ship still unnamed (Brad thinking).
 
 **About the transcript:** recorded with the Craig bot on Discord. No timestamps (unlike Session 4). Some lines repeat (a long "Thank you" block at the start; a long "I don't know what you're talking about" block during the stromboli / calzone bit). Those repeats aren't real. Names are often misheard: "Corrin" / "Corin" / "porn" are Korran, "Varro" / "Vara" / "Varo" are **Varrow**, "Krista" is Krysta, "Sirlon" is Psurlon, "Martha" is Marfa, "Hadouzi" / "doozy" is Hadozee, "Raja" is **Roger** the hamster, "Skippy" is Skipper, "Luciano" is Lucy.
 
@@ -101,7 +101,7 @@ He compares Varrow's Split Current chart to his **treasure map** (Thieves' Cant,
 
 **Wrench** arrives: greasy Giff, ~30, slight limp, talking to himself, wrench in hand. "I'm Wrench. A fitting niche." He chose the name. ~10 years on ships, usually **military ships** when they're in dock, likes checking ballistae, "just in case" because ships run on magic. Ruth tie: **"my cousin's cousin's dad"** is in the family; he doesn't really know them. Korran Insight **18**: keeps to himself, thrown by the Ruth question, no specific reason he lied. "He passes."
 
-**Skipper** starts approaching: older bullywug. Nolan tells Brad he'll need an expert navigator for hard wildspace, lots of math, no map convention. Korran will have to **show him the treasure map**. Name: **Skipper**. Session ends there. Nolan will send Brad a "survey" of the crew. Next time: short recap, then the others can tell what happened at the sleepover. No launch. No Lumen. No penguins.
+**Skipper** starts approaching: older bullywug. Nolan tells Brad he'll need an expert navigator for hard wildspace, lots of math, no map convention. Korran will have to **show him the treasure map**. Name at the table: **Skipper**. Character going forward: **Brownish Greenspot**. Session ends there. Nolan will send Brad a "survey" of the crew. Next time: short recap, then the others can tell what happened at the sleepover. No launch. No Lumen. No penguins.
 
 ## Settled with Nolan after the session
 
@@ -112,7 +112,7 @@ He compares Varrow's Split Current chart to his **treasure map** (Thieves' Cant,
 - **Who has what:** **Lucy has the Sending Stone.** Korran has Varrow's chart. Nolan **thinks Lucy still has the recipe card**, but that's `[unconfirmed]`.
 - **Map match:** **same stretch of the Expanse.** Korran has **not** overlapped the maps or connected them properly yet.
 - **Pip / Marfa:** lock it. Piece of the kingdom, seat at court, share of the Expanse haul, plus a crewmate watching. She will fund a stealth insertion against Pip's brother **if** they bring enough back.
-- **Skipper:** leave him for **Matt next session**, picking up as he approaches the ship. Do not NPC him.
+- **Skipper:** leave him for **Matt next session**, picking up as he approaches the ship. Do not NPC him. Name is **Brownish Greenspot**.
 - **Jetson:** still **grounded** if they ask or go check.
 - **Roger:** that's the hamster's name **in his head**. Nobody at Varrow & Daughters called him that.
 - **Wrench:** keep the intro: chose the name, cousin's cousin's dad in the Ruths, 10 years, military dock work.

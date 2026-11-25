@@ -95,8 +95,8 @@ The party's scout and infiltrator, and the one whose past keeps steering the plo
 - **Session 5.**
   - **The office:** picked the glyph-trapped door on a **28**. Took **6 thunder** (half, then a feat). Lit a hooded lantern. Investigation 19 on the desk. **Has Varrow's Split Current chart.** Left the photo. Compared it to his treasure map later: **same stretch of the Expanse**, not properly matched yet.
   - **Marfa** told him the ship is registered and she will hunt him if he doesn't help get the mark. Insight on the look he shot Pip: he will act in his own interest.
-  - **Skipped the long rest** to vet the crew. Awake ~22 hours already; **exhaustion 1 quite soon**. Wants to recruit Jetson against his parents' will.
-  - Met [Dottie](../npcs/dottie.md) and [Wrench](../npcs/rocco-wrench.md). Wrench passed Insight 18. **Skipper** approaching — leave for Matt. Ship still unnamed; Brad is thinking.
+  - **Skipped the long rest** to vet the crew. Awake ~22 hours already. **Exhaustion 1** is on by the time Lumen and the triplets walk up (Session 6 montage). Wants to recruit Jetson against his parents' will.
+  - Met [Dottie](../npcs/dottie.md) and [Wrench](../npcs/rocco-wrench.md). Wrench passed Insight 18. Pre-rolled Lumen and the triplets at Insight **5** each (fail). [Brownish Greenspot](brownish-greenspot.md) approaching — leave for Matt. Marfa's lock: sailing masters willing to work with the Ruths are rare; he is the only one of those available this week. Ship name *Star Cleaver*; sit on it.
 
 ## Threads on him
 
